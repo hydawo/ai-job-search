@@ -63,16 +63,12 @@ cover_letters/cover_*.*
 cover_letters/Cover_*.*
 !cover_letters/cover_example.tex
 
-# documents/ subfolder contents are personal — only README and folder structure are tracked
-documents/cv/**
-documents/linkedin/**
-documents/diplomas/**
-documents/references/**
-documents/applications/**
-documents/postings/**
-# Interview prep and experience records: these name the employers applied to,
-# quote what was submitted, and set out the candidate's weak points.
-documents/interview/**
+# documents/ contents are personal — only README and folder-structure placeholders are tracked.
+# Ignore everything under documents/ by default (rather than listing known subfolders) so any
+# new file or folder added there - a master profile doc, a custom "CV, Resume, and References"
+# folder, interview notes - is protected automatically without editing this file again.
+documents/**
+!documents/README.md
 !documents/**/.gitkeep
 
 # Personal job search tracking

@@ -9,7 +9,7 @@ framework_version: 1.0.0
 
 ## Identity
 - **Name:** Hassan Y. Dawood
-- **Location:** Brookline (Boston), MA
+- **Location:** Boston, Massachusetts (home address is in Brookline; use "Boston, Massachusetts" on all application-facing documents)
 - **Phone:** 413-272-3056
 - **Email:** hydawo@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/hassanydawood

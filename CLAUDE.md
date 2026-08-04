@@ -17,7 +17,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ### Identity
 - **Name:** Hassan Y. Dawood
-- **Location:** Brookline (Boston), MA (No relocation. Remote OK with <20% travel; hybrid OK if Boston/Cambridge-based)
+- **Location:** Boston, Massachusetts (home address is in Brookline; use "Boston, Massachusetts" on all application-facing documents). No relocation. Remote OK with <20% travel; hybrid OK if Boston/Cambridge-based.
 - **Languages:** English (native/bilingual), French (elementary)
 - **CV language:** English
 
