@@ -44,9 +44,9 @@ How well do the required/preferred skills align with the candidate's capabilitie
 | 40-59 | Partial match, significant upskilling needed |
 | 0-39 | Fundamental mismatch |
 
-**Strong match areas:** [YOUR_PRIMARY_SKILLS]
-**Moderate match areas:** [YOUR_SECONDARY_SKILLS]
-**Weak match areas:** [SKILLS_YOU_LACK]
+**Strong match areas:** Digital health/phenotyping product management, mobile platform coordination (iOS/Android/backend), clinical/research operations, IRB & data-privacy compliance, cross-functional coordination between research/data-science/engineering, healthcare analytics (SQL, Tableau, Python), wearables/passive-sensing domain knowledge
+**Moderate match areas:** Hands-on Python/SQL development, applied ML (coordinates model use and tradeoffs, does not build/deploy models), startup/founder product work, AI tooling (prompt engineering, AI-assisted app building)
+**Weak match areas:** Hands-on ML model-building/deployment, formal FDA regulatory submission ownership, direct DTC consumer growth-metric ownership, traditional management consulting
 
 ### 2. Experience Match (0-100)
 Does work history align with what they're looking for?
@@ -58,9 +58,9 @@ Does work history align with what they're looking for?
 | 40-59 | Adjacent experience, would need to make the case |
 | 0-39 | Unrelated experience |
 
-**Strong:** [YOUR_DIRECT_EXPERIENCE_DOMAINS]
-**Moderate:** [YOUR_ADJACENT_EXPERIENCE]
-**Entry-level:** [ROLES_WITH_LIMITED_EXPERIENCE]
+**Strong:** Digital health platform/product leadership, health-tech product management, research operations management, clinical/research data analytics
+**Moderate:** Startup product leadership (Phebe, Health+), management consulting/strategy roles, pharma digital-biomarker roles
+**Entry-level:** Traditional software engineering, pure data-science/ML engineering roles
 
 ### 3. Behavioral/Culture Fit (0-100)
 Does the role and company culture match the behavioral profile?
@@ -74,11 +74,14 @@ Does the role and company culture match the behavioral profile?
 
 **Red flags to research:** Department disorganization, work dominated by maintenance over development, poor chemistry with leadership, culture mismatches. Check reviews, media coverage, LinkedIn connections, and network contacts for insider perspective.
 
+**Positive fit signals to research (for cover letter use):** While researching red flags, also note anything specific and verifiable that shows genuine alignment between the company's actual culture and the candidate's behavioral profile (`02-behavioral-profile.md`) — e.g. a stated value of ownership/autonomy matching the candidate's preference for a clear mandate, a fast-paced/ambiguous environment matching comfort with ambiguity, recurring Glassdoor themes about cross-functional collaboration matching the candidate's translator strength. Only surface something concrete (a specific review theme, a stated company value, how the team describes itself) — never generic flattery ("great culture!"), which reads as filler. If a genuine, specific match exists, it's worth one line in the cover letter's personal-fit paragraph, but only if it doesn't crowd out a stronger skills-match bullet within the 250-300 word budget (see `06-cover-letter-templates.md`).
+
 ### 4. Location & Logistics (Pass/Fail + Notes)
-- Within commute range: PASS
-- Remote with occasional office: PASS
-- Requires relocation: FAIL (deal-breaker)
-- Frequent international travel: FLAG (discuss with user)
+- Boston/Cambridge hybrid: PASS
+- Fully remote with <20% travel: PASS
+- Fully remote with >=20% travel: FLAG (discuss with user before proceeding)
+- Requires relocation: FAIL (deal-breaker — no relocation)
+- Non-Boston on-site with no remote option: FAIL (deal-breaker, absent relocation)
 
 ### 5. Career Alignment & Motivation (0-100)
 Does this role advance career goals and contain tasks that energize?
@@ -91,19 +94,26 @@ Does this role advance career goals and contain tasks that energize?
 | 0-39 | Dead end or backwards step |
 
 **Career goals:**
-- [YOUR_CAREER_GOAL_1]
-- [YOUR_CAREER_GOAL_2]
-- [YOUR_CAREER_GOAL_3]
+- Senior/Staff Product Manager in digital health, wearables, or consumer health
+- Digital biomarker / digital health innovation roles in pharma
+- Long-term trajectory toward Director/VP-level product, innovation, or digital health leadership
+- Compensation goal: $500K total comp by age 46 (currently 36; current market value ~$170K-$210K base, stronger opportunities $180K-$200K+ base)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: [YOUR_ENERGIZING_TASKS]
-- Tasks that drain: [YOUR_DRAINING_TASKS]
-- Non-task factors: leadership style, department culture, company values, degree of autonomy
+- Tasks that energize: translating research/scientific needs into product requirements, wearable/passive-sensing data problems, cross-functional coordination between clinicians/scientists/engineers, digital biomarker and behavioral-health product work
+- Tasks that drain: (not yet specified — ask if evaluating a role with heavy pure back-office administrative work or no product ownership)
+- Non-task factors: leadership style, department culture, company values, degree of autonomy, credibility with scientific/clinical/technical stakeholders
 
 **Life situation alignment:** Consider personal constraints:
-- **Security**: [YOUR_FINANCIAL_SITUATION_CONTEXT]
-- **Flexibility**: [YOUR_SCHEDULE_CONSTRAINTS]
-- **Professional development**: [YOUR_GROWTH_PRIORITIES]
+- **Security**: Currently employed full-time at Harvard Chan School; evaluating moves opportunistically rather than out of urgency
+- **Flexibility**: No relocation. Remote OK with <20% travel; hybrid OK if Boston/Cambridge-based
+- **Professional development**: Building toward Director/VP-level digital health product leadership; target companies include Oura, WHOOP, Verily, Apple, Sanofi, Takeda, Amgen, Boston Children's Hospital, Abridge
+
+**Common perceived gaps (positioning issues, not always true gaps):**
+- Lack of a formal consumer PM title in some roles — mitigate by framing platform work as product work
+- Lack of formal FDA submission ownership — mitigate by stressing IRB/data-privacy/regulated-data experience as an analog
+- Less explicit DTC growth-metric ownership — mitigate by framing participant onboarding/adherence in longitudinal research as equivalent to consumer retention/engagement
+- Less traditional consulting or formal pharma trial experience — mitigate by emphasizing cross-functional translation experience and Python/data/ML/AI fluency
 
 ### 6. Salary Benchmark (Optional)
 

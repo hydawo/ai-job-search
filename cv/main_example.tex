@@ -1,4 +1,4 @@
-%% Example CV - [YOUR_NAME]
+%% Example CV - Hassan Dawood
 %% Comprehensive overview of all competencies, experience, and achievements.
 %% Use as a master reference when tailoring role-specific CVs.
 %%
@@ -24,18 +24,19 @@
     linkcolor=blue,
     filecolor=magenta,
     urlcolor=blue,
-    pdftitle={[YOUR_NAME] - CV},
+    pdftitle={Hassan Dawood - CV},
     pdfpagemode=FullScreen,
 }
 \usepackage[scale=0.80]{geometry}
 \usepackage{import}
+\usepackage{needspace}
 
 % personal data
-\name{[First]}{[Last]}
-\address{[Your Address, City, Country]}{}{}
-\phone[mobile]{[+XX XXXXXXXXXX]}
-\email{[your.email@example.com]}
-\extrainfo{\href{[https://linkedin.com/in/your-profile]}{LinkedIn}, \href{[https://github.com/your-username]}{GitHub}}
+\name{Hassan}{Dawood}
+\address{Brookline (Boston), MA}{}{}
+\phone[mobile]{413-272-3056}
+\email{hydawo@gmail.com}
+\extrainfo{\href{https://www.linkedin.com/in/hassanydawood}{LinkedIn}}
 
 \begin{document}
 
@@ -46,7 +47,7 @@
 % ============================================================
 
 \vspace{6pt}
-\small{[Write a 3-5 line profile statement tailored to the role you're applying for. Focus on what makes you uniquely qualified. Example: "Data scientist with a PhD in [field] and X years of industry experience. Combines deep domain expertise in [domain] with strong applied machine learning and Python development skills. Experienced in developing end-to-end ML pipelines, from data ingestion to stakeholder-facing dashboards."]}
+\small{Digital health product and platform leader with 10+ years spanning digital phenotyping, mobile sensing, clinical research operations, and health-tech innovation. Directs strategic roadmap and full-lifecycle delivery of a smartphone-based digital phenotyping platform (iOS/Android/backend) used by 100+ collaborators globally, coordinating across research, engineering, and data science. Brings hands-on Python/SQL/Tableau fluency, IRB and data-privacy compliance experience, startup/founder product ownership, and firsthand wearable and passive-health-data research.}
 
 % ============================================================
 %     CORE COMPETENCIES
@@ -56,15 +57,15 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item \textbf{[Skill Category 1]}: [Specific skills, frameworks, tools. Be concrete.]
+\item \textbf{Digital Health Product \& Platform Management}: Full-lifecycle product ownership of a mobile digital phenotyping platform (iOS/Android/backend); roadmap, feature prioritization, requirements definition.
 
-\item \textbf{[Skill Category 2]}: [Specific skills, frameworks, tools.]
+\item \textbf{Cross-Functional Technical Coordination}: Bridges biostatisticians, engineers, and clinicians; makes ML tradeoff decisions (accuracy vs. processing time) without owning model code.
 
-\item \textbf{[Skill Category 3]}: [Specific skills, frameworks, tools.]
+\item \textbf{Clinical \& Research Operations Compliance}: IRB consultation, data-sharing agreements, and privacy oversight across 20+ studies and 100+ institutional collaborators.
 
-\item \textbf{[Skill Category 4]}: [Domain expertise, methods, approaches.]
+\item \textbf{Healthcare Data Analytics}: Python, SQL, Tableau, R; end-to-end data pipelines, ETL, and reporting for clinical, financial, and research stakeholders.
 
-\item \textbf{[Skill Category 5]}: [Tools, platforms, software.]
+\item \textbf{Startup Product Leadership}: Co-founded a digital phenotyping startup (Phebe Health); product strategy, investor materials, and beta testing in an early-stage environment.
 
 \end{itemize}
 
@@ -77,31 +78,34 @@
 \begin{itemize}
 
 % --- Most Recent Role ---
-\item{\cventry{[YYYY--Present]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{2022--Present}{Senior Research Operations Manager, Head of Beiwe Research Platform}{Harvard T.H. Chan School of Public Health}{Boston, MA}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1 - be specific, use numbers where possible]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
-    \item [Achievement or responsibility 4]
+    \item Directs product strategy and full-lifecycle delivery of Beiwe, a smartphone-based digital phenotyping platform (iOS/Android/backend) supporting 20+ active studies and 100+ collaborators globally
+    \item Coordinates biostatisticians and engineers on a Sparse Online Gaussian Process (SOGP) GPS imputation model, making tradeoff decisions on processing time vs. measurement accuracy
+    \item Directs operations of the Beiwe Service Center (SaaS offering): costing models, financial reporting, contracting, and IRB management for external investigators
+    \item Supervises a team of 4 Research Assistants; leads training, onboarding, and platform technical support
 \end{itemize}}}
 
 \vspace{3pt}
 
 % --- Previous Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{2021--2022}{Data Analytics and Reporting Manager}{Brigham and Women's Hospital}{Boston, MA}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
-    \item [Achievement or responsibility 3]
+    \item Provided data reporting and analytics management to finance, business development, clinical, and research teams across Mass General Brigham
+    \item Built end-to-end data pipelines and ETL flows; developed data warehouses combining clinical and billing data using SQL, Python, R, and Tableau
+    \item Presented analytic results and recommendations to hospital leadership
 \end{itemize}}}
 
 \vspace{3pt}
 
 % --- Earlier Role ---
-\item{\cventry{[YYYY--YYYY]}{[Job Title]}{[Company]}{[City, Country]}{}{\vspace{1pt}
+\needspace{5\baselineskip}
+\item{\cventry{2020--2023}{Co-Founder \& Head of Product}{Phebe Health}{Boston, MA}{}{\vspace{1pt}
 \begin{itemize}
-    \item [Achievement or responsibility 1]
-    \item [Achievement or responsibility 2]
+    \item Led product strategy and roadmap for a digital phenotyping startup focused on behavioral health research
+    \item Built investor pitch materials and a phased funding waterfall with the CEO; managed technical implementation of the Phebe Beiwe instance
 \end{itemize}}}
 
 \end{itemize}
@@ -114,15 +118,7 @@
 \vspace{1pt}
 \begin{itemize}
 
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-Thesis: ``[Thesis Title].'' [Brief description of research focus.]
-}}
-
-\vspace{3pt}
-
-\item{\cventry{[YYYY--YYYY]}{[Degree] in [Field]}{[Institution]}{[City, Country]}{}{\vspace{1pt}
-[Brief description or key topics.]
-}}
+\item{\cventry{2006--2010}{BS in Neuroscience (Major), Economics (Minor)}{The College of William and Mary}{Williamsburg, VA}{}{}}
 
 \end{itemize}
 
@@ -133,7 +129,7 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Languages}
 \vspace{1pt}
 \begin{itemize}
-\item [Language 1] (native), [Language 2] (fluent), [Language 3] (intermediate).
+\item English (native), French (elementary).
 \end{itemize}
 
 % ============================================================
@@ -143,7 +139,10 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Publications}
 \vspace{1pt}
 \begin{itemize}
-\item [Author(s)] ([Year]). [Title]. [Journal/Conference]. \href{[DOI_URL]}{DOI link}
+\item Assessing Mobility in Patients With Glioblastoma Using Digital Phenotyping -- Piloting the Digital Assessment in Neuro-Oncology (2024). \textit{Neurosurgery}.
+\item Peruzzi P, Dominas C, Fell G, et al. Intratumoral drug-releasing microdevices allow in situ high-throughput pharmaco phenotyping in patients with gliomas (2023). \textit{Sci Transl Med}.
+\item Ahmed AK, Dawood HY, Arnaout OM, Laws ER Jr., Smith TR. Presentation, Treatment, and Long-Term Outcome of Intrasellar Chordoma (2018). \textit{World Neurosurg}. 109:e676-e83.
+\item 30 peer-reviewed publications total; full list available on request.
 \end{itemize}
 
 % ============================================================
@@ -153,7 +152,9 @@ Thesis: ``[Thesis Title].'' [Brief description of research focus.]
 \section{Honors and Awards}
 \vspace{1pt}
 \begin{itemize}
-\item{\textbf{[Award Name]} -- [Event/Organization] ([Year]).}
+\item{\textbf{Neurosurgery I CARE Award -- Runner Up} -- Brigham and Women's Hospital (2019).}
+\item{\textbf{LEAP Leadership Certificate} -- The College of William and Mary (2010).}
+\item{\textbf{Eagle Scout} (2006).}
 \end{itemize}
 
 % ============================================================

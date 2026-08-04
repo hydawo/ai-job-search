@@ -104,6 +104,18 @@ Two related patterns are fine and should be kept:
 
 Section headings such as `\section{Core Competencies}`, `Professional Experience`, `Education`, `Languages`, `Publications`, `Honors and Awards`, `References` (and any others your template defines), plus the `Available upon request.` line under References, are all **literal English text baked into the template** - they do not translate themselves. Whenever the CV language (see `CV language` in the candidate profile) is not English, translate every one of these too, whatever they are, not just the body prose - a CV with a fully localized profile statement and bullets sitting under untouched English section headers reads as sloppy and inconsistent, and it's an easy thing to forget precisely because the prose translation is the obvious, visible part of the job. Worked example for Spanish: `Competencias Clave`, `Experiencia Profesional`, `Educaci\'on`, `Idiomas`, `Publicaciones`, `Distinciones y Premios`, `Referencias`, `Disponibles a solicitud.` The same rule applies for any other target language - check this explicitly during the verification pass.
 
+## Roles That Must Appear on Every CV
+
+Per candidate instruction, these roles always appear on every tailored CV, regardless of target role, because together they demonstrate the diversified cross-domain background (clinical, data/analytics, research, governance, product/startup) that is a core part of the candidate's narrative. Add other roles only when they strengthen the narrative for a specific posting, and cut those first if space is tight:
+
+- **Senior Research Operations Manager, Head of Beiwe Research Platform** — Harvard T.H. Chan School of Public Health (2022-Present) — current role
+- **Data Analytics and Reporting Manager** — Brigham and Women's Hospital (2021-2022)
+- **Founder, Research Fellow & Administrative Director, CNOC** — Brigham and Women's Hospital, Department of Neurosurgery (Jan 2016-Jun 2022)
+- **Co-Founder & Head of Product, Phebe Health** (Feb 2020-Dec 2023)
+- **Head of Product, Health+** — MIT delta V Accelerator (May-Aug 2024)
+
+When all five plus a role-specific addition would overflow the 2-page limit, trim bullet counts per role (2 bullets for older/shorter roles is acceptable) before dropping one of these five entirely — check with the candidate before cutting any of them.
+
 ## Section-by-Section Tailoring
 
 ### Profile Statement / Elevator Pitch (Best Practice)
@@ -115,12 +127,15 @@ When the role sits outside your home domain, **lead with the domain-transfer arg
 
 **Create 2-3 profile statement templates for your main role types:**
 
-<!-- SETUP: These are populated based on your background -->
-**For [YOUR_PRIMARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_1]
+**For Senior/Staff Product Manager (digital health, wearables, consumer health) roles:**
+> Digital health product and platform leader with 10+ years spanning digital phenotyping, mobile sensing, and health-tech innovation. Directs strategic roadmap and full-lifecycle delivery of a smartphone-based research platform (iOS/Android/backend) used by 100+ collaborators globally, coordinating across research, engineering, and data science to translate complex health data into usable products. Brings hands-on Python/SQL/Tableau fluency, IRB and data-privacy compliance experience, and firsthand wearable/passive-health-data research (Apple Watch, Oura, Dexcom, Withings) as a first adopter and self-directed researcher.
+> *[Used for: Oura/WHOOP/Verily-style wearables & consumer digital health roles]*
 
-**For [YOUR_SECONDARY_ROLE_TYPE] roles:**
-> [YOUR_PROFILE_STATEMENT_TEMPLATE_2]
+**For digital biomarker / clinical innovation (pharma) roles:**
+> Digital health leader bridging clinical research, product management, and data science, with deep expertise in digital phenotyping and behavioral/passive health signals. Led IRB consultation, data-sharing, and compliance across 20+ studies and coordinated biostatisticians and engineers on a production ML-based GPS imputation model, making tradeoff decisions on accuracy vs. processing time without personally owning model code. Co-founded a digital-phenotyping startup (Phebe Health) and authored 30 peer-reviewed publications, bringing rare scientific credibility to translational digital health product work.
+> *[Used for: Sanofi/Takeda/Amgen-style digital biomarker & clinical innovation roles]*
+
+**Positioning note (verified against 01-candidate-profile.md — do not deviate):** Always frame ML involvement as "coordinates model use and tradeoff decisions between biostatisticians and engineering," never as "deployed," "built," or "optimized" the model — that language appeared in an older tailored draft (`Hassan_Dawood_Resume_Oura_WomensHealth_4.27.25.docx`) but overstates hands-on ownership the candidate does not have (see the ML positioning note in the master career profile). Correct this claim if it resurfaces in any archived draft used as a phrasing reference.
 
 Statements labeled *[Used for: <company>_<role>]* were extracted from archived application drafts by `/setup` Path A. They are **phrasing references, never fact sources**: when drafting from one, every factual claim still comes from `01-candidate-profile.md` - a past tailored draft does not vouch for its own accuracy.
 

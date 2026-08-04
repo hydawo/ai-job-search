@@ -14,28 +14,57 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 ## Ready-Made STAR Examples
 
-<!-- These are populated by /setup from your actual experience. Below are templates showing the format. -->
+<!-- Populated by /setup from the master career profile document. S/T/A/R details need to be filled in with specifics (numbers, timelines) before relying on these in an interview. -->
 
-### 1. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT - what was happening, what was the problem]
-**T:** [YOUR RESPONSIBILITY - what you specifically needed to do]
-**A:** [WHAT YOU DID - specific actions, tools, methods]
-**R:** [OUTCOME - measurable results, adoption, impact]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 1. Heartbeat Feature (Cross-functional product requirements definition)
+**Source:** Harvard Chan / Beiwe Platform
+**What happened:** Need for better visibility into whether participant data was being successfully collected and transmitted; worked with developers and data scientists to define requirements for a device/data-upload health-tracking system.
+**S/T/A/R stub:**
+- Situation: Researchers lacked visibility into device activity, data uploads, and platform health across 20+ active studies.
+- Task: Define a system to track this reliably without adding burden to research teams.
+- Action: Coordinated with developers and data scientists to translate the research need into product requirements; drove the feature from problem identification through implementation.
+- Result: [Fill in — adoption across studies, reduction in data-loss incidents, etc.]
+**Use for:** "Tell me about a time you identified a gap and built a solution", "product requirements definition", "cross-functional coordination"
 
-### 2. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 2. SOGP GPS Imputation Coordination (Technical tradeoff decision-making)
+**Source:** Harvard Chan / Beiwe Platform
+**What happened:** Coordinated a parameter-change decision affecting processing time vs. measurement accuracy tradeoffs (including seed-setting for reproducibility) for a machine-learning GPS imputation model, without personally writing or deploying the code.
+**S/T/A/R stub:**
+- Situation: Biostatisticians maintained a Sparse Online Gaussian Process (SOGP) model for GPS imputation; a parameter change would trade off processing time against accuracy.
+- Task: Make the tradeoff call as the product/platform lead between biostatisticians and engineering.
+- Action: Evaluated the tradeoff with the team, including reproducibility considerations (seed-setting), and made the go/no-go decision.
+- Result: [Fill in — what was decided, and what it enabled downstream]
+**Use for:** "Tell me about a technical decision you made without being the engineer", "how do you work with data science teams", "technically fluent PM" questions
 
-### 3. [PROJECT_NAME] ([SKILL_DEMONSTRATED])
-**S:** [CONTEXT]
-**T:** [YOUR RESPONSIBILITY]
-**A:** [WHAT YOU DID]
-**R:** [OUTCOME]
-**Use for:** "[QUESTION_TYPE_1]", "[QUESTION_TYPE_2]"
+### 3. Beiwe Service Center Financial Operations (Cross-functional financial/operational management)
+**Source:** Harvard Chan / Beiwe Service Center
+**What happened:** Directs BSC operations, working with Financial Associates, the Associate Director of Finance, and central finance administrators biannually to adjust and report on the costing model.
+**S/T/A/R stub:**
+- Situation: BSC needed a sustainable costing model to serve external investigators as a SaaS-style offering within an academic institution.
+- Task: Own the business-operations side of a scientific platform.
+- Action: Worked biannually with finance stakeholders to adjust the costing model, produce financial reports, and identify funds for expansions.
+- Result: [Fill in — growth in supported studies/collaborators, financial sustainability outcome]
+**Use for:** "Tell me about a time you managed budget/financial operations", "business operations within a research/academic setting"
+
+### 4. Co-Founding Phebe Health (Founder-level product ownership)
+**Source:** Phebe Health (Feb 2020 - Dec 2023)
+**What happened:** Co-founded a digital phenotyping startup; led product strategy/roadmap, built a phased funding waterfall and investor pitch deck with the CEO, and managed technical implementation of the Phebe Beiwe instance.
+**S/T/A/R stub:**
+- Situation: Early-stage startup needed to translate a research concept (digital phenotyping for behavioral health) into a fundable, buildable product.
+- Task: Own product strategy end-to-end as co-founder and Head of Product.
+- Action: Built the funding waterfall and pitch deck, partnered with a development firm (BrickAbove) to define a phased technical plan, ran beta testing, and built Tableau dashboards for participant/study metrics.
+- Result: [Fill in — funding raised, studies onboarded, or reason for eventual close]
+**Use for:** "Tell me about founder/0-to-1 experience", "how do you handle ambiguity", "startup product leadership"
+
+### 5. Apple Watch HRV Discovery (Measurement validity / device skepticism / origin story)
+**Source:** Personal self-directed digital health research, 2018-2021. [Full write-up](https://medium.com/@systemsnotsilos/i-exported-my-apple-watch-data-twice-it-didnt-match-dc4c8fb17cb3)
+**What happened:** Exported the same historical 640-day HRV window from a personal Apple Watch twice, a year apart (Sept 2020, Apr 2021). Both exports were 97% complete, but the correlation between them was only 0.67 — proof Apple's algorithm had silently reprocessed historical values after the fact. Shared the finding with JP Onnela (Harvard biostatistician, developer of the Beiwe platform); it was covered by The Verge and 4 other outlets. Less than a year later, became Head of Platform for Beiwe — the same platform JP built.
+**S/T/A/R stub:**
+- Situation: Tracking personal Apple Watch HRV data purely out of curiosity, not for any formal study.
+- Task: Noticed a re-export of the same historical window didn't match the original and needed to determine whether this was noise or a real data-integrity issue.
+- Action: Compared the two exports systematically (97% completeness both times, r=0.67 correlation), documented the finding, and brought it to a credible outside expert (JP Onnela) rather than just posting about it.
+- Result: Became a widely covered story (The Verge +4 outlets) demonstrating that proprietary wearable algorithms can silently rewrite historical data; directly led to the professional relationship and job that followed. This is the clearest available "why this field, why now" origin story — genuine curiosity that predates any job, not a resume-driven narrative.
+**Use for:** "Tell me about a time you questioned an assumption", "measurement validity", "why wearables/digital health", "tell me about yourself" (strong opening anecdote), "why are you passionate about this industry"
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 

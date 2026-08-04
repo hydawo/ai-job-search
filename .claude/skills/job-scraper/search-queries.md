@@ -4,72 +4,71 @@
 
 ## Installed portal CLIs (primary for `/scrape`)
 
-`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Shipped country-agnostic CLIs include `linkedin-search` and `freehire-search`; Danish demos and any skill you add with `/add-portal` are included the same way. You do **not** need a matching `site:` line below for those CLIs to run.
+`/scrape` discovers every portal skill under `.agents/skills/*/SKILL.md` and runs its CLI first. Installed CLIs: `linkedin-search` and `freehire-search` (country-agnostic). Danish portal demos (jobbank/jobdanmark/jobindex/jobnet-search) are also present in this fork but not relevant to a Boston-based search — ignore their results, or remove them with `/add-portal` cleanup if desired. You do **not** need a matching `site:` line below for `linkedin-search`/`freehire-search` to run.
 
 The `site:` query templates in this file are the **WebSearch fallback** — for portals without a CLI, company career pages, or when a CLI fails.
 
 ## Search Sites
 
-Primary (your market's job boards - scaffold one with `/add-portal`):
-- **[YOUR_JOB_BOARD]** - your market's largest general job board
-- **linkedin.com/jobs** - LinkedIn job listings (filter: [YOUR_COUNTRY] / [YOUR_CITY]); also covered by `linkedin-search` CLI
-- **[YOUR_INDUSTRY_JOB_BOARD]** - a niche/industry board for your field (optional)
-- **[YOUR_ADDITIONAL_JOB_BOARD]** - another major board for your market (optional)
+Primary:
+- **linkedin.com/jobs** - LinkedIn job listings (filter: United States / Boston, MA); also covered by `linkedin-search` CLI
+- **freehire-search CLI** - country-agnostic job board coverage
 
 Secondary (company career pages via Google):
-- Direct Google searches with `site:` filters for known target companies
+- Direct Google searches with `site:` filters for target companies (Oura, WHOOP, Verily, Apple, Sanofi, Takeda, Amgen, Boston Children's Hospital, Abridge)
 
 ## Query Categories
 
-Queries are grouped by priority. Each query should be combined with your location terms (e.g. your city, region, or metro area) where the site supports it.
+Queries are grouped by priority. Each query should be combined with location terms (Boston, MA / remote) where the site supports it.
 
-### Priority 1: [YOUR_PRIMARY_ROLE_TYPE]
+### Priority 1: Senior/Staff Product Manager, Digital Health & Wearables
 
-These match your strongest and most desired career direction.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_KEY_SKILL]" [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_PRIMARY_JOB_TITLE]" [YOUR_COUNTRY]
-```
-
-### Priority 2: [YOUR_DOMAIN_EXPERTISE]
-
-These match your domain expertise.
+These match the strongest and most desired career direction.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] OR [YOUR_REGION]
-site:[YOUR_JOB_BOARD] [YOUR_DOMAIN_KEYWORD_2] [YOUR_COUNTRY]
-site:linkedin.com/jobs [YOUR_DOMAIN_KEYWORD_1] [YOUR_CITY] [YOUR_COUNTRY]
+site:linkedin.com/jobs "Senior Product Manager" "digital health" Boston
+site:linkedin.com/jobs "Staff Product Manager" wearables
+site:linkedin.com/jobs "Product Manager" "digital phenotyping" OR "digital biomarker"
+"Senior Product Manager" OR "Staff Product Manager" site:oura.com OR site:whoop.com OR site:verily.com
 ```
 
-### Priority 3: [YOUR_ADJACENT_ROLE_TYPE]
+### Priority 2: Digital Biomarker / Clinical Innovation (Pharma)
 
-Adjacent roles you could pivot into.
-
-```
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_1]" [YOUR_KEY_SKILL] [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "[YOUR_ADJACENT_TITLE_2]" [YOUR_KEY_SKILL] [YOUR_CITY]
-```
-
-### Priority 4: Broader Technical / Consulting
-
-Wider net for general technical roles.
+These match domain expertise in digital phenotyping, clinical research operations, and IRB/compliance.
 
 ```
-site:[YOUR_JOB_BOARD] [YOUR_KEY_SKILL] developer [YOUR_CITY]
-site:linkedin.com/jobs "[YOUR_KEY_SKILL] developer" [YOUR_CITY]
-site:[YOUR_JOB_BOARD] "technical consultant" [YOUR_DOMAIN] [YOUR_CITY]
+site:linkedin.com/jobs "Digital Biomarker" OR "Digital Health Innovation" Boston OR remote
+site:linkedin.com/jobs "Digital Health Product Owner" OR "Digital Strategy" Sanofi OR Takeda OR Amgen
+"Digital Biomarker Operational Lead" OR "Digital Biomarker Innovation" site:sanofi.com OR site:takeda.com OR site:amgen.com
+```
+
+### Priority 3: Research Program Manager / Health Tech Adjacent
+
+Adjacent roles Hassan could pivot into, given research operations and platform leadership background.
+
+```
+site:linkedin.com/jobs "Research Program Manager" health Boston
+site:linkedin.com/jobs "Healthcare Innovation Strategy" OR "Connected Health" Boston OR remote
+site:linkedin.com/jobs "Clinical Innovation Manager"
+```
+
+### Priority 4: Healthcare Strategy / Advisory (Broader Net)
+
+Wider net for consulting/advisory roles in digital health and life sciences.
+
+```
+site:linkedin.com/jobs "Healthcare Advisory" OR "Life Sciences Strategy" Boston OR remote
+site:linkedin.com/jobs "Healthcare Data & Analytics" OR "Clinical Transformation" KPMG OR BCG OR McKinsey
+"Senior Associate" OR "Vantage Manager" "digital health" site:cvshealth.com OR site:bcg.com
 ```
 
 ## Location Filter
 
-When evaluating results, verify the job location is within reasonable commute distance from your home. Define acceptable areas:
-- [YOUR_CITY] and surrounding areas
-- [ACCEPTABLE_AREA_1]
-- [ACCEPTABLE_AREA_2]
-- [BORDERLINE_AREA] (borderline - ~X min by transit)
-- [TOO_FAR_AREA] (too far)
+When evaluating results, verify the job location matches these constraints. **Hard constraint: no relocation.**
+- Boston, MA and surrounding areas (Cambridge, Brookline, Somerville) - ideal, hybrid or on-site OK
+- Fully remote (US-based) with <20% travel - acceptable
+- Fully remote (US-based) with >=20% travel - borderline, flag for discussion with the candidate before applying
+- Any role requiring relocation, or on-site outside the Boston area with no remote/hybrid option - too far / FAIL (deal-breaker)
 
 ## Date Filter
 

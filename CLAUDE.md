@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Hassan Dawood
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Hassan Dawood, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -16,67 +16,61 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 <!-- This section is auto-populated by /setup. You can also fill it in manually. -->
 
 ### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:** [YOUR_LANGUAGES]
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
+- **Name:** Hassan Y. Dawood
+- **Location:** Brookline (Boston), MA (No relocation. Remote OK with <20% travel; hybrid OK if Boston/Cambridge-based)
+- **Languages:** English (native/bilingual), French (elementary)
+- **CV language:** English
 
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+- **Status:** Employed full-time (Senior Research Operations Manager, Head of Beiwe Research Platform, Harvard T.H. Chan School of Public Health)
+- **LinkedIn headline:** "Senior Research Operations Manager, Head of Beiwe Research Platform — Product Manager | Digital Health | Digital Phenotyping | Mobile & Backend Systems | Clinical Research"
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
-
-### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- **BS in Neuroscience (Major), Economics (Minor)** (2006-2010) - The College of William and Mary
+  - Topics: Neuroscience, Economics
+- **High School Diploma** (2004-2006) - The Taft School
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- **Primary:** Product/platform management (mobile + backend), digital phenotyping, clinical & research operations, healthcare analytics
+- **Secondary:** Python, SQL, Tableau, R, AWS, ML coordination (not hands-on model-building)
+- **Domain:** Digital health, wearables/passive sensing, women's health/OB-GYN research, neurosurgical outcomes research, IRB/compliance
+- **Software:** Excel, PowerPoint, Access, Power Automate, Tableau, RedCap, STATA, SPSS, Git
 
 ### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
+- **Google AI Professional Certificate** - 7 courses - completed Feb 2026
+- **AI for Data Analysis** (Google) - completed Feb 2026
+- **Google Data Analytics Professional Certificate** (Coursera) - completed 2021
+- **Using Python for Research** (Harvard edX) - completed 2019
 
 ### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
+- 30 peer-reviewed publications spanning neurosurgery/neurosurgical outcomes, women's health/OB-GYN, computational neuroscience, and digital phenotyping. Full list in `documents/hassan_dawood_master_career_profile.md` and `01-candidate-profile.md`.
 
 ### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
+- Brigham and Women's Hospital Neurosurgery I CARE Award - Runner Up (2019)
+- William and Mary LEAP Leadership Certificate (2010)
+- Eagle Scout (2006)
 
 ### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
+<!-- Based on a quick 16Personalities result (2026-07-30) plus follow-up conversation; a clear-headed retake and/or CliftonStrengths is still planned. See 02-behavioral-profile.md for full detail. -->
+- **Type:** ENTJ-T (Commander, Turbulent) — decisive, standards-driven, results-oriented, channeled through strong cross-audience translation skill (not the stock report's "stubborn/arrogant/impatient" framing, which Hassan does not recognize in himself and which his career narrative doesn't support)
+- **Strengths:** cross-functional translator between clinicians/scientists/engineers, efficiency-focused execution, comfortable operating in regulated/ambiguous research environments, ambition paired with concrete strategy
+- **Thrives in:** Environments with real ownership and a clear mandate; cross-functional settings requiring him to bridge groups that don't naturally speak the same language; ambiguous, evolving problems
+- **Growth areas:** Standards-driven impatience with inefficiency (framed as bias toward action); self-critical/Turbulent tendency (framed as continuous-improvement drive)
 
 ### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
+- Translating research/scientific needs into product requirements
+- Wearable, passive-sensing, and digital-biomarker data problems
+- Building credibility with scientific, clinical, and technical stakeholders simultaneously
 
 ### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
+- Wearables / Consumer Digital Health: Oura, WHOOP, Verily, Apple
+- Pharma / Digital Biomarkers / Clinical Innovation: Sanofi, Takeda, Amgen
+- Healthcare Strategy / Advisory: BCBS, CVS Health Ventures, McKinsey, BCG, KPMG (healthcare/life sciences practices)
+- Also tracking: Boston Children's Hospital, Abridge
 
 ### Deal-breakers
-<!-- Hard constraints on job search -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+- No relocation
+- Fully remote roles requiring >=20% travel need explicit discussion before applying
+- On-site roles outside Boston/Cambridge with no remote/hybrid option
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)

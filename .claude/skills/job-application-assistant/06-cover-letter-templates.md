@@ -123,6 +123,15 @@ The font wrapper is mandatory — if you just move `\begin{itemize}` outside `\l
 | `\closing{text}` | Closing line |
 | `\signature{name}` | Printed name below signature |
 
+## Narrative Themes to Draw On (candidate-specific)
+
+These four elements form a larger, distinctive narrative. Don't force all four into one letter — the 1-page/300-word budget won't fit them all well — but consider each and pick the ones that fit the specific role:
+
+1. **Diversified cross-domain background**: clinical, data/analytics, research, governance, product/startup perspectives combined is unusual and worth a compact explicit line, especially for roles that value seeing patterns across different kinds of work.
+2. **Skills-to-requirements mapping, not just past responsibilities**: frame experience bullets as "here's what I bring to what you need," forward-looking per the writing-style guide, rather than a list of prior duties.
+3. **The Apple Watch HRV discovery** (see `07-interview-prep.md` STAR example 5 for full facts: 640-day window, two exports a year apart, 97% complete both times, r=0.67 correlation, shared with JP Onnela, covered by The Verge +4 outlets, led directly to the Beiwe role). This is a strong, verified, personally-authored origin story — genuine curiosity predating any job. Especially strong for wearables/consumer-health companies where data integrity and device trust are directly relevant to the business (e.g., a wearables company measuring the same biometric). Use sparingly elsewhere; it's most powerful when the target company's product actually touches HRV/wearable data integrity.
+4. **AI tool-building and efficiency**: the candidate builds real AI-assisted tools for his own work (a Python/Claude grant-finding scraper for lab funding search, a custom-GPT job-search assistant, this Claude Code-based application framework itself). Reference concretely (which tool, what it does) rather than abstractly claiming "AI fluency" — concrete beats generic per the writing-style rules. Always name **Claude Code** specifically when referencing current AI-assisted work, per CLAUDE.md.
+
 ## Tailoring Guidelines
 
 ### Salutation
