@@ -1,0 +1,1445 @@
+{
+  "seen": {
+    "https://www.linkedin.com/jobs/view/senior-product-manager-healthcare-at-whoop-4444950762": {
+      "title": "Senior Product Manager, Healthcare",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-healthcare-at-whoop-4444950762",
+      "first_seen": "2026-07-30",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/research-program-manager-distributed-research-at-whoop-4444964119": {
+      "title": "Research Program Manager, Distributed Research",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/research-program-manager-distributed-research-at-whoop-4444964119",
+      "first_seen": "2026-07-30",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-program-manager-samd-at-whoop-4444965013": {
+      "title": "Senior Program Manager, SaMD",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/senior-program-manager-samd-at-whoop-4444965013",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-content-experiences-epocrates-at-athenahealth-4445318442": {
+      "title": "Senior Product Manager, Content Experiences - epocrates",
+      "company": "athenahealth",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-content-experiences-epocrates-at-athenahealth-4445318442",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-data-analytics-at-wolters-kluwer-4441376872": {
+      "title": "Senior Product Manager - Data Analytics",
+      "company": "Wolters Kluwer",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-data-analytics-at-wolters-kluwer-4441376872",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://freehire.me/jobs/principal-product-manager-heathcare-technology-elsevier-rfwse6jv": {
+      "title": "Principal Product Manager, Healthcare Technology",
+      "company": "Elsevier",
+      "url": "https://freehire.me/jobs/principal-product-manager-heathcare-technology-elsevier-rfwse6jv",
+      "first_seen": "2026-07-30",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%94-digital-health-fitness-platform-at-millennium-health-fitness-inc-4442799331": {
+      "title": "Senior Product Manager - Digital Health & Fitness Platform",
+      "company": "Millennium Health & Fitness, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%94-digital-health-fitness-platform-at-millennium-health-fitness-inc-4442799331",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%94-digital-health-fitness-platform-at-millennium-health-fitness-inc-4444277749": {
+      "title": "Senior Product Manager - Digital Health & Fitness Platform",
+      "company": "Millennium Health & Fitness, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-%E2%80%94-digital-health-fitness-platform-at-millennium-health-fitness-inc-4444277749",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://freehire.me/jobs/fitness-technologies-product-manager-apple-n2jgnhhc": {
+      "title": "Fitness Technologies Product Manager",
+      "company": "Apple",
+      "url": "https://freehire.me/jobs/fitness-technologies-product-manager-apple-n2jgnhhc",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/lead-product-manager-211613-at-aquent-4438769032": {
+      "title": "Lead Product Manager",
+      "company": "Aquent",
+      "url": "https://www.linkedin.com/jobs/view/lead-product-manager-211613-at-aquent-4438769032",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/lead-product-manager-at-planet-fitness-4439271376": {
+      "title": "Lead Product Manager",
+      "company": "Planet Fitness",
+      "url": "https://www.linkedin.com/jobs/view/lead-product-manager-at-planet-fitness-4439271376",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-akamai-technologies-4429756273": {
+      "title": "Senior Product Manager",
+      "company": "Akamai Technologies",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-akamai-technologies-4429756273",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-people-systems-at-flywire-4438108203": {
+      "title": "Senior Product Manager, People Systems",
+      "company": "Flywire",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-people-systems-at-flywire-4438108203",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/gra-device-associate-medical-devices-and-combination-products-senior-manager-at-sanofi-4436768286": {
+      "title": "GRA Device Associate - Medical Devices and Combination Products (Senior Manager)",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/gra-device-associate-medical-devices-and-combination-products-senior-manager-at-sanofi-4436768286",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/gra-device-associate-medical-devices-and-combination-products-senior-manager-at-sanofi-4436779032": {
+      "title": "GRA Device Associate - Medical Devices and Combination Products (Senior Manager)",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/gra-device-associate-medical-devices-and-combination-products-senior-manager-at-sanofi-4436779032",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-heart-health-at-%C5%8Dura-4375557273": {
+      "title": "Senior Product Manager, Heart Health",
+      "company": "Oura",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-heart-health-at-%C5%8Dura-4375557273",
+      "first_seen": "2026-08-03",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://freehire.me/jobs/principal-product-manager-telehealth-health-e-commerce-kss3wht4": {
+      "title": "Principal Product Manager - Telehealth",
+      "company": "Health-E Commerce",
+      "url": "https://freehire.me/jobs/principal-product-manager-telehealth-health-e-commerce-kss3wht4",
+      "first_seen": "2026-08-03",
+      "fit": "medium",
+      "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://freehire.me/jobs/senior-product-manager-digital-pharmaessentia-u-s-a-x2rx6xbk": {
+      "title": "Senior Product Manager, Digital",
+      "company": "PharmaEssentia U.S.A.",
+      "url": "https://freehire.me/jobs/senior-product-manager-digital-pharmaessentia-u-s-a-x2rx6xbk",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-algorithm-scientist-at-%C5%8Dura-4385478517": {
+      "title": "Senior Algorithm Scientist",
+      "company": "Oura",
+      "url": "https://www.linkedin.com/jobs/view/senior-algorithm-scientist-at-%C5%8Dura-4385478517",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-ai-ml-researcher-at-whoop-4444947781": {
+      "title": "Principal AI/ML Researcher",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/principal-ai-ml-researcher-at-whoop-4444947781",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/associate-director-core-algorithms-sensor-intelligence-group-at-whoop-4444959391": {
+      "title": "Associate Director, Core Algorithms",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/associate-director-core-algorithms-sensor-intelligence-group-at-whoop-4444959391",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-peloton-interactive-4438420538": {
+      "title": "Senior Product Manager",
+      "company": "Peloton Interactive",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-peloton-interactive-4438420538",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/lead-product-manager-at-peloton-interactive-4447222430": {
+      "title": "Lead Product Manager",
+      "company": "Peloton Interactive",
+      "url": "https://www.linkedin.com/jobs/view/lead-product-manager-at-peloton-interactive-4447222430",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://freehire.me/jobs/product-manager-ii-nursing-health-education-elsevier-u6s2waki": {
+      "title": "Product Manager II, Nursing Health Education",
+      "company": "Elsevier",
+      "url": "https://freehire.me/jobs/product-manager-ii-nursing-health-education-elsevier-u6s2waki",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/4421267990": {
+      "title": "Principal Product Manager (Technical)",
+      "company": "Akamai Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4421267990",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448137435": {
+      "title": "Senior Product Manager, Clinical Safety and Pharmacovigilance Systems (Moderna)",
+      "company": "BioSpace",
+      "url": "https://www.linkedin.com/jobs/view/4448137435",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4422966365": {
+      "title": "Senior Customer Marketing Manager",
+      "company": "LinkSquares",
+      "url": "https://www.linkedin.com/jobs/view/4422966365",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4445993607": {
+      "title": "Senior Product Manager, Data Products",
+      "company": "Dassault Syst\u00e8mes",
+      "url": "https://www.linkedin.com/jobs/view/4445993607",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4438311468": {
+      "title": "Product Manager Sr Director WSP Wearable AI",
+      "company": "Qualcomm",
+      "url": "https://www.linkedin.com/jobs/view/4438311468",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4442363424": {
+      "title": "Senior Product Manager, Data Products",
+      "company": "Medidata Solutions",
+      "url": "https://www.linkedin.com/jobs/view/4442363424",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4441939034": {
+      "title": "Sr. Product Manager \u2013 Digital Eco system",
+      "company": "Abbott",
+      "url": "https://www.linkedin.com/jobs/view/4441939034",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444394184": {
+      "title": "Product Manager, AI, Gboard",
+      "company": "Google",
+      "url": "https://www.linkedin.com/jobs/view/4444394184",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446884760": {
+      "title": "Product Manager",
+      "company": "Caldera Medical",
+      "url": "https://www.linkedin.com/jobs/view/4446884760",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4443491944": {
+      "title": "Senior Product Manager, Ting Consumer Products",
+      "company": "Ting Labs",
+      "url": "https://www.linkedin.com/jobs/view/4443491944",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4438308527": {
+      "title": "Staff, Product Manager - Personal Audio",
+      "company": "Qualcomm",
+      "url": "https://www.linkedin.com/jobs/view/4438308527",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4447409288": {
+      "title": "Product Manager - BioNeMo Inference",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/4447409288",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4434161547": {
+      "title": "Senior Product Manager, Predictive Analytics",
+      "company": "Regeneron",
+      "url": "https://www.linkedin.com/jobs/view/4434161547",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4403556840": {
+      "title": "Sr. Product Manager",
+      "company": "Cleerly",
+      "url": "https://www.linkedin.com/jobs/view/4403556840",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4441148858": {
+      "title": "Senior Product Manager, Sightline",
+      "company": "Verily Health",
+      "url": "https://www.linkedin.com/jobs/view/4441148858",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446785999": {
+      "title": "Senior Product Manager",
+      "company": "Tempus AI",
+      "url": "https://www.linkedin.com/jobs/view/4446785999",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4435324986": {
+      "title": "Technical Product Manager",
+      "company": "Merck",
+      "url": "https://www.linkedin.com/jobs/view/4435324986",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444959383": {
+      "title": "Senior Product Manager, Sleep",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/4444959383",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4443207094": {
+      "title": "Senior, Applied AI Health Scientist",
+      "company": "Samsung Research America (SRA)",
+      "url": "https://www.linkedin.com/jobs/view/4443207094",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446262990": {
+      "title": "Data and Machine Learning Lead",
+      "company": "Motif Neurotech",
+      "url": "https://www.linkedin.com/jobs/view/4446262990",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444161236": {
+      "title": "Computational Research Scientist II - 711 HPW",
+      "company": "The Henry M. Jackson Foundation",
+      "url": "https://www.linkedin.com/jobs/view/4444161236",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448636828": {
+      "title": "Senior Manager, Data Scientist",
+      "company": "Bristol Myers Squibb",
+      "url": "https://www.linkedin.com/jobs/view/4448636828",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4434575023": {
+      "title": "Staff Data Scientist",
+      "company": "Edwards Lifesciences",
+      "url": "https://www.linkedin.com/jobs/view/4434575023",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4447238580": {
+      "title": "Senior Data Scientist - AI and ECG",
+      "company": "Michigan Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4447238580",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4387110060": {
+      "title": "Staff AI Scientist - AI Products / Life Sciences",
+      "company": "Tempus AI",
+      "url": "https://www.linkedin.com/jobs/view/4387110060",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4423667405": {
+      "title": "Research Scientist",
+      "company": "Child Mind Institute",
+      "url": "https://www.linkedin.com/jobs/view/4423667405",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4350822044": {
+      "title": "Senior Strategic Program Manager",
+      "company": "Motional",
+      "url": "https://www.linkedin.com/jobs/view/4350822044",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444495921": {
+      "title": "Education Program Manager",
+      "company": "Brigham and Women's Hospital",
+      "url": "https://www.linkedin.com/jobs/view/4444495921",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4436108875": {
+      "title": "Senior Program Manager",
+      "company": "Harvard T.H. Chan School of Public Health",
+      "url": "https://www.linkedin.com/jobs/view/4436108875",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4447155654": {
+      "title": "Operations and Program Manager - Ethics Institute",
+      "company": "The Ethics Institute",
+      "url": "https://www.linkedin.com/jobs/view/4447155654",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4437896459": {
+      "title": "Senior Program Manager",
+      "company": "Harvard Central Administration (CADM)",
+      "url": "https://www.linkedin.com/jobs/view/4437896459",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446849488": {
+      "title": "Senior Program Manager, USG Programs",
+      "company": "Perimeter",
+      "url": "https://www.linkedin.com/jobs/view/4446849488",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4436344751": {
+      "title": "Senior Program Manager - Fraud and Risk",
+      "company": "Chewy",
+      "url": "https://www.linkedin.com/jobs/view/4436344751",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4445968954": {
+      "title": "Senior Program Manager",
+      "company": "Torch Technologies, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4445968954",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446510867": {
+      "title": "Health Care Technology Strategy Senior Manager",
+      "company": "Deloitte",
+      "url": "https://www.linkedin.com/jobs/view/4446510867",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448658934": {
+      "title": "Technology Strategy Senior Manager",
+      "company": "Deloitte",
+      "url": "https://www.linkedin.com/jobs/view/4448658934",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4443256013": {
+      "title": "Executive Partner - CIO Advisory for Healthcare & Life Science Leaders",
+      "company": "Gartner",
+      "url": "https://www.linkedin.com/jobs/view/4443256013",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4419340438": {
+      "title": "Senior Manager - BCG Vantage, Technology and Digital Advantage in Healthcare",
+      "company": "Boston Consulting Group (BCG)",
+      "url": "https://www.linkedin.com/jobs/view/4419340438",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4400431913": {
+      "title": "Associate Director, AI Solutions",
+      "company": "Trinity Life Sciences",
+      "url": "https://www.linkedin.com/jobs/view/4400431913",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4353541183": {
+      "title": "Senior Consultant \u2013 Healthcare & Life Sciences",
+      "company": "Simon-Kucher",
+      "url": "https://www.linkedin.com/jobs/view/4353541183",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4445525156": {
+      "title": "Principal, Management Consulting | Healthcare, Payer",
+      "company": "Publicis Sapient",
+      "url": "https://www.linkedin.com/jobs/view/4445525156",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444019246": {
+      "title": "Strategy Director (Consultant) - Clinical Development",
+      "company": "Evinova",
+      "url": "https://www.linkedin.com/jobs/view/4444019246",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4443478875": {
+      "title": "Global Medical DD&T Insights Ecosystem Lead",
+      "company": "Takeda",
+      "url": "https://www.linkedin.com/jobs/view/4443478875",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4377294772": {
+      "title": "Business Consultant - Global Analytics",
+      "company": "Veeva Systems",
+      "url": "https://www.linkedin.com/jobs/view/4377294772",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4398959412": {
+      "title": "Manager, Innovation, Tim Hortons, LAC",
+      "company": "Tim Hortons",
+      "url": "https://www.linkedin.com/jobs/view/4398959412",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4445757723": {
+      "title": "Sr. Clinical Trial Manager",
+      "company": "Kyverna Therapeutics",
+      "url": "https://www.linkedin.com/jobs/view/4445757723",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4435189012": {
+      "title": "Science and Innovation Manager",
+      "company": "Kalon Executive Search",
+      "url": "https://www.linkedin.com/jobs/view/4435189012",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4447741135": {
+      "title": "Innovation Brand Manager - Disruptive Growth",
+      "company": "OLLY PBC",
+      "url": "https://www.linkedin.com/jobs/view/4447741135",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448232758": {
+      "title": "Clinical Trial Project Manager",
+      "company": "WEP Clinical",
+      "url": "https://www.linkedin.com/jobs/view/4448232758",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4438526964": {
+      "title": "Executive Director, Clinical Business Operations",
+      "company": "Kura Oncology, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4438526964",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4430407685": {
+      "title": "Clinical Manager, Global",
+      "company": "Spring Health",
+      "url": "https://www.linkedin.com/jobs/view/4430407685",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4430862183": {
+      "title": "Customer Experience Manager /Customer Support- San Jose",
+      "company": "Lumenis",
+      "url": "https://www.linkedin.com/jobs/view/4430862183",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4442963697": {
+      "title": "Senior Manager, External Innovation",
+      "company": "Eisai US",
+      "url": "https://www.linkedin.com/jobs/view/4442963697",
+      "first_seen": "2026-08-04",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4437570463": {
+      "title": "Manager, Strategy & Innovation",
+      "company": "Kraft Heinz",
+      "url": "https://www.linkedin.com/jobs/view/4437570463",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4440364702": {
+      "title": "Senior Product Manager (Compute Infrastructure)",
+      "company": "Akamai Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4440364702",
+      "job_id": "4440364702",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448275902": {
+      "title": "Group Product Manager, Android and Wear Health Services",
+      "company": "Google",
+      "url": "https://www.linkedin.com/jobs/view/4448275902",
+      "job_id": "4448275902",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4429453629": {
+      "title": "Staff Product Manager, AI/ML",
+      "company": "Strava",
+      "url": "https://www.linkedin.com/jobs/view/4429453629",
+      "job_id": "4429453629",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4384614135": {
+      "title": "Global Product Manager, Mobile Applications",
+      "company": "Philips",
+      "url": "https://www.linkedin.com/jobs/view/4384614135",
+      "job_id": "4384614135",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4447719671": {
+      "title": "Director of Product Management, Hardware",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/4447719671",
+      "job_id": "4447719671",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4445523741": {
+      "title": "Sr. Hardware Product Manager",
+      "company": "Peloton Interactive",
+      "url": "https://www.linkedin.com/jobs/view/4445523741",
+      "job_id": "4445523741",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4439838627": {
+      "title": "Product Manager, Pixel Wearables",
+      "company": "Google",
+      "url": "https://www.linkedin.com/jobs/view/4439838627",
+      "job_id": "4439838627",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4406712808": {
+      "title": "Lead Product Manager",
+      "company": "Mindbody",
+      "url": "https://www.linkedin.com/jobs/view/4406712808",
+      "job_id": "4406712808",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4422150786": {
+      "title": "Senior Manager",
+      "company": "Bristol Myers Squibb",
+      "url": "https://www.linkedin.com/jobs/view/4422150786",
+      "job_id": "4422150786",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448863270": {
+      "title": "Product Manager, Delivery",
+      "company": "SoGal Ventures",
+      "url": "https://www.linkedin.com/jobs/view/4448863270",
+      "job_id": "4448863270",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444765001": {
+      "title": "Product Manager, Delivery",
+      "company": "Everlywell",
+      "url": "https://www.linkedin.com/jobs/view/4444765001",
+      "job_id": "4444765001",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444227312": {
+      "title": "Growth Marketing Manager, SEM",
+      "company": "SoGal Ventures",
+      "url": "https://www.linkedin.com/jobs/view/4444227312",
+      "job_id": "4444227312",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444519544": {
+      "title": "Growth Marketing Manager, SEM",
+      "company": "Everlywell",
+      "url": "https://www.linkedin.com/jobs/view/4444519544",
+      "job_id": "4444519544",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444522485": {
+      "title": "Growth Marketing Manager, Paid Social",
+      "company": "Everlywell",
+      "url": "https://www.linkedin.com/jobs/view/4444522485",
+      "job_id": "4444522485",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4412794964": {
+      "title": "Senior Principal Research Scientist",
+      "company": "AbbVie",
+      "url": "https://www.linkedin.com/jobs/view/4412794964",
+      "job_id": "4412794964",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4424737545": {
+      "title": "Director, Clinical Imaging, Translational Sciences-Immunology",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "url": "https://www.linkedin.com/jobs/view/4424737545",
+      "job_id": "4424737545",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4433979252": {
+      "title": "Health Economics & Outcomes Research (HEOR) Lead",
+      "company": "\u014cURA",
+      "url": "https://www.linkedin.com/jobs/view/4433979252",
+      "job_id": "4433979252",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4430869532": {
+      "title": "Associate Director in Data Science, Digital Endpoints Pharma R & D",
+      "company": "EMD Serono, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4430869532",
+      "job_id": "4430869532",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4447085260": {
+      "title": "Program Manager",
+      "company": "Massachusetts General Hospital",
+      "url": "https://www.linkedin.com/jobs/view/4447085260",
+      "job_id": "4447085260",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448164854": {
+      "title": "Program Manager, Global Real-World Evidence",
+      "company": "Boston Scientific",
+      "url": "https://www.linkedin.com/jobs/view/4448164854",
+      "job_id": "4448164854",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446973252": {
+      "title": "Clinical Research Manager",
+      "company": "Tufts University",
+      "url": "https://www.linkedin.com/jobs/view/4446973252",
+      "job_id": "4446973252",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4437732525": {
+      "title": "Scientific Program Manager - CISID",
+      "company": "Broad Institute of MIT and Harvard",
+      "url": "https://www.linkedin.com/jobs/view/4437732525",
+      "job_id": "4437732525",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4419911242": {
+      "title": "Health Value Translation Lead",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/4419911242",
+      "job_id": "4419911242",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4438276817": {
+      "title": "Manager, Public Health Strategy",
+      "company": "VaxCare",
+      "url": "https://www.linkedin.com/jobs/view/4438276817",
+      "job_id": "4438276817",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446508735": {
+      "title": "Program Manager, Research",
+      "company": "Beth Israel Lahey Health",
+      "url": "https://www.linkedin.com/jobs/view/4446508735",
+      "job_id": "4446508735",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4402091692": {
+      "title": "Deployed Product Manager, Health Systems",
+      "company": "Heidi",
+      "url": "https://www.linkedin.com/jobs/view/4402091692",
+      "job_id": "4402091692",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446588022": {
+      "title": "Product Manager Full-Time (NY/Chicago/Charlotte)",
+      "company": "Oula",
+      "url": "https://www.linkedin.com/jobs/view/4446588022",
+      "job_id": "4446588022",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4424444421": {
+      "title": "Product",
+      "company": "Brellium",
+      "url": "https://www.linkedin.com/jobs/view/4424444421",
+      "job_id": "4424444421",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446585301": {
+      "title": "Product Manager Full-Time (NY/Chicago/Charlotte)",
+      "company": "Oula",
+      "url": "https://www.linkedin.com/jobs/view/4446585301",
+      "job_id": "4446585301",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4420648288": {
+      "title": "Product Manager",
+      "company": "Provation",
+      "url": "https://www.linkedin.com/jobs/view/4420648288",
+      "job_id": "4420648288",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4420635938": {
+      "title": "Product Manager",
+      "company": "Provation",
+      "url": "https://www.linkedin.com/jobs/view/4420635938",
+      "job_id": "4420635938",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4344052387": {
+      "title": "Product Manager",
+      "company": "Tennr",
+      "url": "https://www.linkedin.com/jobs/view/4344052387",
+      "job_id": "4344052387",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4439517786": {
+      "title": "Manager, Product Management",
+      "company": "Hopscotch Primary Care",
+      "url": "https://www.linkedin.com/jobs/view/4439517786",
+      "job_id": "4439517786",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444367968": {
+      "title": "Product Manager",
+      "company": "exacare ai",
+      "url": "https://www.linkedin.com/jobs/view/4444367968",
+      "job_id": "4444367968",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4449425387": {
+      "title": "Healthcare Member Engagement & Communications Advisor",
+      "company": "CWH Advisors",
+      "url": "https://www.linkedin.com/jobs/view/4449425387",
+      "job_id": "4449425387",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4449431289": {
+      "title": "AI Solutions & Automation Specialist",
+      "company": "CWH Advisors",
+      "url": "https://www.linkedin.com/jobs/view/4449431289",
+      "job_id": "4449431289",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448242952": {
+      "title": "Solution Implementation Lead (Connected Devices)",
+      "company": "IQVIA",
+      "url": "https://www.linkedin.com/jobs/view/4448242952",
+      "job_id": "4448242952",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448240957": {
+      "title": "Solution Implementation Lead (Connected Devices)",
+      "company": "IQVIA",
+      "url": "https://www.linkedin.com/jobs/view/4448240957",
+      "job_id": "4448240957",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448929326": {
+      "title": "Senior Product Manager, Clinical Workflow Solutions",
+      "company": "Clarius Mobile Health",
+      "url": "https://www.linkedin.com/jobs/view/4448929326",
+      "job_id": "4448929326",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4445582801": {
+      "title": "Senior Product Manager, Clinical Workflow Solutions",
+      "company": "LV1 Health Tech",
+      "url": "https://www.linkedin.com/jobs/view/4445582801",
+      "job_id": "4445582801",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4426468374": {
+      "title": "AI Squad Lead",
+      "company": "VNS Health",
+      "url": "https://www.linkedin.com/jobs/view/4426468374",
+      "job_id": "4426468374",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4448253251": {
+      "title": "Product Manager",
+      "company": "MUSC Health",
+      "url": "https://www.linkedin.com/jobs/view/4448253251",
+      "job_id": "4448253251",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4441562915": {
+      "title": "Customer Insights Manager, US",
+      "company": "M\u00f6lnlycke Health Care",
+      "url": "https://www.linkedin.com/jobs/view/4441562915",
+      "job_id": "4441562915",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4446520233": {
+      "title": "Senior Manager, Clinical Development and Validation",
+      "company": "Butterfly Network, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4446520233",
+      "job_id": "4446520233",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4441579234": {
+      "title": "Customer Insights Manager, US",
+      "company": "M\u00f6lnlycke Health Care",
+      "url": "https://www.linkedin.com/jobs/view/4441579234",
+      "job_id": "4441579234",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4444309316": {
+      "title": "Life Sciences Experience Design Strategy Manager",
+      "company": "Deloitte",
+      "url": "https://www.linkedin.com/jobs/view/4444309316",
+      "job_id": "4444309316",
+      "first_seen": "2026-08-05",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-trinetx-4446907369": {
+      "title": "Senior Product Manager (Payer)",
+      "company": "TriNetX",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-trinetx-4446907369",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-staff-product-manager-b2b-care-solutions-at-verily-health-4440625972": {
+      "title": "Senior Staff Product Manager, B2B Care Solutions",
+      "company": "Verily Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-product-manager-b2b-care-solutions-at-verily-health-4440625972",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-technical-product-manager-at-beacon-biosignals-4442150003": {
+      "title": "Senior Technical Product Manager",
+      "company": "Beacon Biosignals",
+      "url": "https://www.linkedin.com/jobs/view/senior-technical-product-manager-at-beacon-biosignals-4442150003",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-digital-solutions-at-ndd-medical-technologies-4444407063": {
+      "title": "Product Manager \u2013 Digital Solutions",
+      "company": "ndd Medical Technologies",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-digital-solutions-at-ndd-medical-technologies-4444407063",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-global-product-manager-mct-clinical-systems-at-philips-4400025750": {
+      "title": "Sr Global Product Manager, MCT Clinical Systems",
+      "company": "Philips",
+      "url": "https://www.linkedin.com/jobs/view/sr-global-product-manager-mct-clinical-systems-at-philips-4400025750",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-compass-platform-at-veeva-systems-4406968396": {
+      "title": "Senior Product Manager - Compass Platform",
+      "company": "Veeva Systems",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-compass-platform-at-veeva-systems-4406968396",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-research-program-manager-at-beth-israel-lahey-health-4449940665": {
+      "title": "Senior Research Program Manager",
+      "company": "Beth Israel Lahey Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-research-program-manager-at-beth-israel-lahey-health-4449940665",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-nova-net-sw-connectivity-at-nova-biomedical-4426431372": {
+      "title": "Senior Product Manager, Nova Net (SW/Connectivity)",
+      "company": "Nova Biomedical",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-nova-net-sw-connectivity-at-nova-biomedical-4426431372",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-product-manager-epcs-at-imprivata-4437617766": {
+      "title": "Sr. Product Manager - EPCS",
+      "company": "Imprivata",
+      "url": "https://www.linkedin.com/jobs/view/sr-product-manager-epcs-at-imprivata-4437617766",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/program-manager-research-at-beth-israel-lahey-health-4446508735": {
+      "title": "Program Manager, Research",
+      "company": "Beth Israel Lahey Health",
+      "url": "https://www.linkedin.com/jobs/view/program-manager-research-at-beth-israel-lahey-health-4446508735",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-at-cala-health-4448211106": {
+      "title": "Product Manager",
+      "company": "Cala Health",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-at-cala-health-4448211106",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.samsara.com/company/careers/roles/7604461?gh_jid=7604461&utm_source=freehire.me": {
+      "title": "Principal Product Manager",
+      "company": "Samsara",
+      "url": "https://www.samsara.com/company/careers/roles/7604461?gh_jid=7604461&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Solutions-Consultant-Integrations_R0070387?utm_source=freehire.me": {
+      "title": "Solutions Consultant - API/ERP",
+      "company": "Huntington Bancshares",
+      "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Solutions-Consultant-Integrations_R0070387?utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/greenhouse/jobs/7411199?gh_jid=7411199&utm_source=freehire.me": {
+      "title": "Senior Product Marketing Manager",
+      "company": "greenhouse",
+      "url": "https://job-boards.greenhouse.io/greenhouse/jobs/7411199?gh_jid=7411199&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.samsara.com/company/careers/roles/7864137?gh_jid=7864137&utm_source=freehire.me": {
+      "title": "Sr. Product Marketing AI & Operations Manager",
+      "company": "Samsara",
+      "url": "https://www.samsara.com/company/careers/roles/7864137?gh_jid=7864137&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.samsara.com/company/careers/roles/7932125?gh_jid=7932125&utm_source=freehire.me": {
+      "title": "Senior Manager, Finance and Strategy - R&D",
+      "company": "Samsara",
+      "url": "https://www.samsara.com/company/careers/roles/7932125?gh_jid=7932125&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://stripe.com/jobs/search?gh_jid=8012497&utm_source=freehire.me": {
+      "title": "Analyst Relations Senior Manager",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/search?gh_jid=8012497&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/defenseunicorns/jobs/5069420007?utm_source=freehire.me": {
+      "title": "Senior Sales Enablement Manager (SMBD071)",
+      "company": "Defense Unicorns",
+      "url": "https://job-boards.greenhouse.io/defenseunicorns/jobs/5069420007?utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://ardent.bamboohr.com/careers/29?utm_source=freehire.me": {
+      "title": "Care Supervisor",
+      "company": "Ardent Outsourcing Services",
+      "url": "https://ardent.bamboohr.com/careers/29?utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Remote/Senior-ITR-Leader-West-Region_R5033894-1?utm_source=freehire.me": {
+      "title": "Senior ITR Leader West Region",
+      "company": "GE Vernova",
+      "url": "https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Remote/Senior-ITR-Leader-West-Region_R5033894-1?utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.zoominfo.com/careers?gh_jid=8504483002&utm_source=freehire.me": {
+      "title": "Senior Account Manager (Enterprise)",
+      "company": "ZoomInfo",
+      "url": "https://www.zoominfo.com/careers?gh_jid=8504483002&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.dropbox.com/listing/7908701?gh_jid=7908701&utm_source=freehire.me": {
+      "title": "Account Executive",
+      "company": "Dropbox",
+      "url": "https://jobs.dropbox.com/listing/7908701?gh_jid=7908701&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3?utm_source=freehire.me": {
+      "title": "Software Engineer, Network Infrastructure",
+      "company": "Render",
+      "url": "https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3?utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/MIAM-Identity-Product-Lead_R0119320?utm_source=freehire.me": {
+      "title": "MIAM Identity Product Lead",
+      "company": "USAA",
+      "url": "https://usaa.wd1.myworkdayjobs.com/USAAJOBSWD/job/San-Antonio-Home-Office-I/MIAM-Identity-Product-Lead_R0119320?utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.dropbox.com/listing/7848536?gh_jid=7848536&utm_source=freehire.me": {
+      "title": "Director, Head of Scaled Sales",
+      "company": "Dropbox",
+      "url": "https://jobs.dropbox.com/listing/7848536?gh_jid=7848536&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/tldr.tech/d057659e-7cac-4dc0-bcb3-a10a492f122e?utm_source=freehire.me": {
+      "title": "Account Executive",
+      "company": "tldr.tech",
+      "url": "https://jobs.ashbyhq.com/tldr.tech/d057659e-7cac-4dc0-bcb3-a10a492f122e?utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.dropbox.com/listing/7421149?gh_jid=7421149&utm_source=freehire.me": {
+      "title": "Staff Fullstack Software Engineer, Core Performance",
+      "company": "Dropbox",
+      "url": "https://jobs.dropbox.com/listing/7421149?gh_jid=7421149&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.samsara.com/company/careers/roles/7954575?gh_jid=7954575&utm_source=freehire.me": {
+      "title": "Enterprise Account Executive - Public Sector, West",
+      "company": "Samsara",
+      "url": "https://www.samsara.com/company/careers/roles/7954575?gh_jid=7954575&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.samsara.com/company/careers/roles/7974089?gh_jid=7974089&utm_source=freehire.me": {
+      "title": "Senior Deal Desk Analyst",
+      "company": "Samsara",
+      "url": "https://www.samsara.com/company/careers/roles/7974089?gh_jid=7974089&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828&utm_source=freehire.me": {
+      "title": "Staff Software Engineer - CAM",
+      "company": "Samsara",
+      "url": "https://www.samsara.com/company/careers/roles/7588828?gh_jid=7588828&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.samsara.com/company/careers/roles/7266385?gh_jid=7266385&utm_source=freehire.me": {
+      "title": "Staff Software Engineer - Platform",
+      "company": "Samsara",
+      "url": "https://www.samsara.com/company/careers/roles/7266385?gh_jid=7266385&utm_source=freehire.me",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    }
+  }
+}
