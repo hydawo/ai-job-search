@@ -1440,6 +1440,96 @@
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/clinical-digital-and-ai-acceleration-innovation-manager/2649/38353740224": {
+      "title": "Clinical Digital & AI Acceleration Innovation Manager",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/clinical-digital-and-ai-acceleration-innovation-manager/2649/38353740224",
+      "first_seen": "2026-08-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://apply.workable.com/oura-health-ltd/j/9414EEDCF4": {
+      "title": "Senior Product Manager, Women's Health",
+      "company": "Oura",
+      "url": "https://apply.workable.com/oura-health-ltd/j/9414EEDCF4",
+      "first_seen": "2026-08-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://careers.inogen.com/jobs/17820034-senior-product-manager-digital-health": {
+      "title": "Senior Product Manager - Digital Health",
+      "company": "Inogen",
+      "url": "https://careers.inogen.com/jobs/17820034-senior-product-manager-digital-health",
+      "first_seen": "2026-08-07",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.takeda.com/job/boston/head-of-digital-health-data-and-evidence/1113/94850727632": {
+      "title": "Head of Digital Health Data and Evidence",
+      "company": "Takeda",
+      "url": "https://jobs.takeda.com/job/boston/head-of-digital-health-data-and-evidence/1113/94850727632",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://careers.unitedhealthgroup.com/job/minnetonka/clinical-program-director-of-health-technology-innovation-remote/34088/93766421072": {
+      "title": "Clinical Program Director of Health Technology Innovation",
+      "company": "UnitedHealth Group",
+      "url": "https://careers.unitedhealthgroup.com/job/minnetonka/clinical-program-director-of-health-technology-innovation-remote/34088/93766421072",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/product-owner-digital-health-us-at-sanofi-4253949335": {
+      "title": "Product Owner, Digital Health US",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/product-owner-digital-health-us-at-sanofi-4253949335",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://modernatx.wd1.myworkdayjobs.com/en-US/m_tx/job/Norwood-Massachusetts/Sr-Product-Manager--Clinical-Biomarker-Systems_R19015-1/apply/applyManually": {
+      "title": "Sr. Product Manager, Clinical Biomarker Systems",
+      "company": "Moderna",
+      "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/m_tx/job/Norwood-Massachusetts/Sr-Product-Manager--Clinical-Biomarker-Systems_R19015-1/apply/applyManually",
+      "first_seen": "2026-08-07",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://www.theladders.com/job/product-manager-precision-health-data-products-data-delivery-verily-san-bruno-ca_75673889": {
+      "title": "Product Manager, Precision Health Data, Products Data Delivery",
+      "company": "Verily",
+      "url": "https://www.theladders.com/job/product-manager-precision-health-data-products-data-delivery-verily-san-bruno-ca_75673889",
+      "first_seen": "2026-08-07",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://job-boards.greenhouse.io/prolaio/jobs/5283280008": {
+      "title": "Product Manager, Digital Biomarkers",
+      "company": "Prolaio",
+      "url": "https://job-boards.greenhouse.io/prolaio/jobs/5283280008",
+      "first_seen": "2026-08-07",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://apply.workable.com/oura-health-ltd/j/9210753B5A": {
+      "title": "Product Manager, Hardware",
+      "company": "Oura",
+      "url": "https://apply.workable.com/oura-health-ltd/j/9210753B5A",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
     }
   }
 }
