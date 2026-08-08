@@ -1530,6 +1530,150 @@
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/clinical-strategy-lead-for-digital-endpoints/2649/38220392256": {
+      "title": "Clinical Strategy Lead for Digital Endpoints",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/clinical-strategy-lead-for-digital-endpoints/2649/38220392256",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/morristown/consumer-experience-strategy-lead/2649/40934212032": {
+      "title": "Consumer Experience Strategy Lead",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/morristown/consumer-experience-strategy-lead/2649/40934212032",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/7454e10d-4241-44a9-aff0-1be57a2a4a05/apply": {
+      "title": "Senior Product Manager (Membership Services & AI Solutions)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/7454e10d-4241-44a9-aff0-1be57a2a4a05/apply",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.cvshealth.com/us/en/job/R0857677/Sr-Manager-Clinical-Innovation": {
+      "title": "Sr Manager, Clinical Innovation",
+      "company": "CVS Health",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0857677/Sr-Manager-Clinical-Innovation",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/research-program-manager-iii-chobanian-avedisian-school-of-medicine-at-boston-university-3690720361": {
+      "title": "Research Program Manager III, Chobanian & Avedisian School of Medicine",
+      "company": "Boston University",
+      "url": "https://www.linkedin.com/jobs/view/research-program-manager-iii-chobanian-avedisian-school-of-medicine-at-boston-university-3690720361",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/digital-biomarker-operational-lead/2649/25899993536": {
+      "title": "Digital Biomarker Operational Lead",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/digital-biomarker-operational-lead/2649/25899993536",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/morristown/digital-biomarker-innovation-technical-lead/2649/27583663296": {
+      "title": "Digital Biomarker Innovation Technical Lead",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/morristown/digital-biomarker-innovation-technical-lead/2649/27583663296",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/digital-consumer-experience-strategy-lead/2649/26942163840": {
+      "title": "Digital Consumer Experience Strategy Lead",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/digital-consumer-experience-strategy-lead/2649/26942163840",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/consumer-experience-cx-strategy-lead/2649/34675356224": {
+      "title": "Consumer Experience (CX) Strategy Lead",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/consumer-experience-cx-strategy-lead/2649/34675356224",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/f535dcf9-2fac-4875-bd08-b459d4f433a9": {
+      "title": "Senior Product Manager (Women's Health)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/f535dcf9-2fac-4875-bd08-b459d4f433a9",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/morristown/digital-biomarker-operational-lead-vie-contract/2649/28222525888": {
+      "title": "Digital Biomarker Operational Lead - VIE Contract",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/morristown/digital-biomarker-operational-lead-vie-contract/2649/28222525888",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.us/job/cambridge/consumer-experience-strategy-lead-associate-director/507/58661553872": {
+      "title": "Consumer Experience Strategy Lead/Associate Director",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.us/job/cambridge/consumer-experience-strategy-lead-associate-director/507/58661553872",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://builtin.com/job/staff-product-manager-research-solutions/7428493": {
+      "title": "Staff Product Manager, Research Solutions",
+      "company": "Verily",
+      "url": "https://builtin.com/job/staff-product-manager-research-solutions/7428493",
+      "first_seen": "2026-08-08",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/director-digital-biomarker-lead-at-regeneron-3906656764": {
+      "title": "Director, Digital Biomarker Lead",
+      "company": "Regeneron",
+      "url": "https://www.linkedin.com/jobs/view/director-digital-biomarker-lead-at-regeneron-3906656764",
+      "first_seen": "2026-08-08",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/research-program-manager-school-of-public-health-environmental-health-at-boston-university-3651738756": {
+      "title": "Research Program Manager, School of Public Health, Environmental Health",
+      "company": "Boston University",
+      "url": "https://www.linkedin.com/jobs/view/research-program-manager-school-of-public-health-environmental-health-at-boston-university-3651738756",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://ch.linkedin.com/jobs/view/digital-biomarker-clinical-integration-lead-at-roche-4096795669": {
+      "title": "Digital Biomarker Clinical Integration Lead",
+      "company": "Roche",
+      "url": "https://ch.linkedin.com/jobs/view/digital-biomarker-clinical-integration-lead-at-roche-4096795669",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
     }
   }
 }
