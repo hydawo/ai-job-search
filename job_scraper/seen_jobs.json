@@ -1674,6 +1674,42 @@
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-rcm-at-brightside-health-3222938296": {
+      "title": "Product Manager, RCM",
+      "company": "Brightside Health",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-rcm-at-brightside-health-3222938296",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://builtin.com/job/senior-product-manager-hardware/3696453": {
+      "title": "Senior Product Manager, Hardware",
+      "company": "Unconfirmed (surfaced via Oura/WHOOP/Verily-scoped query)",
+      "url": "https://builtin.com/job/senior-product-manager-hardware/3696453",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.takeda.com/job/boston/global-biomarker-lead-inflammation-gi2-tau/1113/98502409376": {
+      "title": "Global Biomarker Lead, Inflammation, GI2 TAU",
+      "company": "Takeda",
+      "url": "https://jobs.takeda.com/job/boston/global-biomarker-lead-inflammation-gi2-tau/1113/98502409376",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://careers.bmc.org/jobs/program-manager-infectious-diseases-research-boston-massachusetts-21c8a848-79f1-44f6-9dd4-df54109cdcd1": {
+      "title": "Program Manager, Infectious Diseases Research",
+      "company": "Boston Medical Center",
+      "url": "https://careers.bmc.org/jobs/program-manager-infectious-diseases-research-boston-massachusetts-21c8a848-79f1-44f6-9dd4-df54109cdcd1",
+      "first_seen": "2026-08-09",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
     }
   }
 }
