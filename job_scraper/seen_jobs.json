@@ -1710,6 +1710,87 @@
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://www.theladders.com/job/senior-product-manager-protocol-digitization-verily-rowley-ma_72348567": {
+      "title": "Senior Staff Product Manager, Protocol Digitization",
+      "company": "Verily",
+      "url": "https://www.theladders.com/job/senior-product-manager-protocol-digitization-verily-rowley-ma_72348567",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.takeda.com/en/job/boston/r-and-d-digital-health-product-owner-digital-strategy/1113/80180055280": {
+      "title": "R&D Digital Health Product Owner, Digital Strategy",
+      "company": "Takeda",
+      "url": "https://jobs.takeda.com/en/job/boston/r-and-d-digital-health-product-owner-digital-strategy/1113/80180055280",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.theladders.com/job/senior-product-manager-workbench-verily-san-bruno-ca_74957553": {
+      "title": "Senior Product Manager, Workbench",
+      "company": "Verily",
+      "url": "https://www.theladders.com/job/senior-product-manager-workbench-verily-san-bruno-ca_74957553",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://builtin.com/job/senior-product-manager-ring-software/3435912": {
+      "title": "Senior Product Manager - Ring Software",
+      "company": "Oura",
+      "url": "https://builtin.com/job/senior-product-manager-ring-software/3435912",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.bostonchildrens.org/job/20839409/digital-health-product-manager/": {
+      "title": "Digital Health Product Manager",
+      "company": "Boston Children's Hospital",
+      "url": "https://jobs.bostonchildrens.org/job/20839409/digital-health-product-manager/",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/waltham/digital-r-and-d-product-owner/2649/36210742400": {
+      "title": "Digital R&D Product Owner",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/waltham/digital-r-and-d-product-owner/2649/36210742400",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/digital-product-owner-research-decision-intelligence/2649/37825190592": {
+      "title": "Digital Product Owner, Research Decision Intelligence",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/digital-product-owner-research-decision-intelligence/2649/37825190592",
+      "first_seen": "2026-08-10",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://careers.harvard.edu/job/digital-product-manager-in-boston-ma-united-states-jid-588": {
+      "title": "Digital Product Manager",
+      "company": "Harvard University (Harvard Medical School)",
+      "url": "https://careers.harvard.edu/job/digital-product-manager-in-boston-ma-united-states-jid-588",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.themuse.com/jobs/americanfamilyinsurance/senior-digital-product-manager-hybrid": {
+      "title": "Senior Digital Product Manager (Hybrid)",
+      "company": "American Family Insurance",
+      "url": "https://www.themuse.com/jobs/americanfamilyinsurance/senior-digital-product-manager-hybrid",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
     }
   }
 }
