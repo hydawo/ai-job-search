@@ -1791,6 +1791,150 @@
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://jobs.takeda.com/job/boston/us-obu-digital-product-manager/1113/98544322144": {
+      "title": "US OBU Digital Product Manager (Associate Director)",
+      "company": "Takeda",
+      "url": "https://jobs.takeda.com/job/boston/us-obu-digital-product-manager/1113/98544322144",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/": {
+      "title": "Senior Manager, R&D Data, Data Science, and AI – Digital Health for Neuropsychiatry",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "url": "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/dbaa71d9-b9d3-4da7-88c0-0057b8666718": {
+      "title": "Senior Product Manager, Healthcare",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/dbaa71d9-b9d3-4da7-88c0-0057b8666718",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/578b5255-2a20-4396-8cda-6d1a68253246": {
+      "title": "Senior Product Manager (Platform)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/578b5255-2a20-4396-8cda-6d1a68253246",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.bilh.org/jobs/program-manager-research-operations-boston-ma-jr95150/": {
+      "title": "Program Manager, Research Operations",
+      "company": "Beth Israel Lahey Health",
+      "url": "https://jobs.bilh.org/jobs/program-manager-research-operations-boston-ma-jr95150/",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://careers.amgen.com/en/job/washington-d-c/digital-product-manager/87/91567309136": {
+      "title": "Digital Product Manager (Sensing)",
+      "company": "Amgen",
+      "url": "https://careers.amgen.com/en/job/washington-d-c/digital-product-manager/87/91567309136",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://careers.amgen.com/en/job/washington-d-c/digital-product-manager-strategy-and-innovation/87/95269475104": {
+      "title": "Digital Product Manager, Strategy and Innovation",
+      "company": "Amgen",
+      "url": "https://careers.amgen.com/en/job/washington-d-c/digital-product-manager-strategy-and-innovation/87/95269475104",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://careers.amgen.com/en/job/washington-d-c/digital-product-sr-manager/87/91668725904": {
+      "title": "Digital Product Sr Manager",
+      "company": "Amgen",
+      "url": "https://careers.amgen.com/en/job/washington-d-c/digital-product-sr-manager/87/91668725904",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/ed269277-8383-4b4e-a9f7-2d198bdb2dd3": {
+      "title": "Senior Product Manager, Connectivity and Embedded Systems",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/ed269277-8383-4b4e-a9f7-2d198bdb2dd3",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/42dc2778-923d-453d-ae7c-87950e98fe24": {
+      "title": "Product Manager II (Business Systems)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/42dc2778-923d-453d-ae7c-87950e98fe24",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Manager-Functional-Transformation/354623": {
+      "title": "Senior Manager, Functional Transformation",
+      "company": "Deloitte",
+      "url": "https://apply.deloitte.com/en_US/careers/JobDetail/Senior-Manager-Functional-Transformation/354623",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.apple.com/en-us/details/200619904-3401/clinical-product-manager-health": {
+      "title": "Clinical Product Manager - Health",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200619904-3401/clinical-product-manager-health",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://apply.workable.com/oura-health-ltd/j/4F61FCC6C9": {
+      "title": "Staff Product Manager - Activity",
+      "company": "Oura",
+      "url": "https://apply.workable.com/oura-health-ltd/j/4F61FCC6C9",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/digital-lead-us-launches/2649/34175745856": {
+      "title": "Digital Lead, US Launches",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/digital-lead-us-launches/2649/34175745856",
+      "first_seen": "2026-08-11",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://www.career.com/job/boston-children-s-hospital/product-manager-idha/j202209010916022973481": {
+      "title": "Product Manager - IDHA",
+      "company": "Boston Children's Hospital",
+      "url": "https://www.career.com/job/boston-children-s-hospital/product-manager-idha/j202209010916022973481",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://en.jobs.sanofi.com/job/cambridge/digitalents-graduate-program-project-manager-digital-health/20873/57857248176": {
+      "title": "Digitalents Graduate Program - Project Manager Digital Health",
+      "company": "Sanofi",
+      "url": "https://en.jobs.sanofi.com/job/cambridge/digitalents-graduate-program-project-manager-digital-health/20873/57857248176",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
     }
   }
 }
