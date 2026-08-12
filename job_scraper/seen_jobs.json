@@ -1802,7 +1802,7 @@
       "portal": "WebSearch"
     },
     "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/": {
-      "title": "Senior Manager, R&D Data, Data Science, and AI – Digital Health for Neuropsychiatry",
+      "title": "Senior Manager, R&D Data, Data Science, and AI \u2013 Digital Health for Neuropsychiatry",
       "company": "Johnson & Johnson Innovative Medicine",
       "url": "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/",
       "first_seen": "2026-08-11",
@@ -1934,6 +1934,33 @@
       "first_seen": "2026-08-11",
       "fit": "low",
       "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://careers.bcg.com/global/en/job/56995/Manager-BCG-Vantage-Digital-Health": {
+      "title": "Manager - BCG Vantage, Digital Health",
+      "company": "Boston Consulting Group (BCG)",
+      "url": "https://careers.bcg.com/global/en/job/56995/Manager-BCG-Vantage-Digital-Health",
+      "first_seen": "2026-08-12",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://careers.bcg.com/global/en/job/57197/Manager-BCG-Vantage-Gen-AI-and-Digital-Transformation": {
+      "title": "Manager - BCG Vantage, (Gen)AI and Digital Transformation",
+      "company": "Boston Consulting Group (BCG)",
+      "url": "https://careers.bcg.com/global/en/job/57197/Manager-BCG-Vantage-Gen-AI-and-Digital-Transformation",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.mehi.masstech.org/companies/boston-children-s-hospital-19365/jobs/43866973-senior-strategy-associate-innovation-and-digital-health": {
+      "title": "Senior Strategy Associate - Innovation and Digital Health",
+      "company": "Boston Children's Hospital",
+      "url": "https://jobs.mehi.masstech.org/companies/boston-children-s-hospital-19365/jobs/43866973-senior-strategy-associate-innovation-and-digital-health",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "expired",
       "portal": "WebSearch"
     }
   }
