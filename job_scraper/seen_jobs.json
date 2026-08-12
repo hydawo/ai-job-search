@@ -6,8 +6,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-product-manager-healthcare-at-whoop-4444950762",
       "first_seen": "2026-07-30",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 85.3,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/research-program-manager-distributed-research-at-whoop-4444964119": {
       "title": "Research Program Manager, Distributed Research",
@@ -15,8 +18,11 @@
       "url": "https://www.linkedin.com/jobs/view/research-program-manager-distributed-research-at-whoop-4444964119",
       "first_seen": "2026-07-30",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 69.3,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/senior-program-manager-samd-at-whoop-4444965013": {
       "title": "Senior Program Manager, SaMD",
@@ -24,8 +30,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-program-manager-samd-at-whoop-4444965013",
       "first_seen": "2026-07-30",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 43.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/senior-product-manager-content-experiences-epocrates-at-athenahealth-4445318442": {
       "title": "Senior Product Manager, Content Experiences - epocrates",
@@ -40,8 +49,8 @@
       "title": "Senior Product Manager - Data Analytics",
       "company": "Wolters Kluwer",
       "url": "https://www.linkedin.com/jobs/view/senior-product-manager-data-analytics-at-wolters-kluwer-4441376872",
-      "first_seen": "2026-07-30",
-      "fit": "medium",
+      "first_seen": "2026-08-06",
+      "fit": "low",
       "status": "new",
       "portal": "linkedin-search"
     },
@@ -141,8 +150,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-product-manager-heart-health-at-%C5%8Dura-4375557273",
       "first_seen": "2026-08-03",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 77.8,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-12"
     },
     "https://freehire.me/jobs/principal-product-manager-telehealth-health-e-commerce-kss3wht4": {
       "title": "Principal Product Manager - Telehealth",
@@ -168,8 +180,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-algorithm-scientist-at-%C5%8Dura-4385478517",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "skipped",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 17.3,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/principal-ai-ml-researcher-at-whoop-4444947781": {
       "title": "Principal AI/ML Researcher",
@@ -177,8 +192,11 @@
       "url": "https://www.linkedin.com/jobs/view/principal-ai-ml-researcher-at-whoop-4444947781",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "skipped",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 14.5,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/associate-director-core-algorithms-sensor-intelligence-group-at-whoop-4444959391": {
       "title": "Associate Director, Core Algorithms",
@@ -186,8 +204,11 @@
       "url": "https://www.linkedin.com/jobs/view/associate-director-core-algorithms-sensor-intelligence-group-at-whoop-4444959391",
       "first_seen": "2026-08-03",
       "fit": "low",
-      "status": "skipped",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 23.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/senior-product-manager-at-peloton-interactive-4438420538": {
       "title": "Senior Product Manager",
@@ -231,8 +252,11 @@
       "url": "https://www.linkedin.com/jobs/view/4448137435",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 46.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4422966365": {
       "title": "Senior Customer Marketing Manager",
@@ -245,7 +269,7 @@
     },
     "https://www.linkedin.com/jobs/view/4445993607": {
       "title": "Senior Product Manager, Data Products",
-      "company": "Dassault Syst\u00e8mes",
+      "company": "Dassault Systèmes",
       "url": "https://www.linkedin.com/jobs/view/4445993607",
       "first_seen": "2026-08-04",
       "fit": "low",
@@ -271,7 +295,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/4441939034": {
-      "title": "Sr. Product Manager \u2013 Digital Eco system",
+      "title": "Sr. Product Manager – Digital Eco system",
       "company": "Abbott",
       "url": "https://www.linkedin.com/jobs/view/4441939034",
       "first_seen": "2026-08-04",
@@ -339,8 +363,11 @@
       "url": "https://www.linkedin.com/jobs/view/4403556840",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 40.8,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4441148858": {
       "title": "Senior Product Manager, Sightline",
@@ -375,8 +402,11 @@
       "url": "https://www.linkedin.com/jobs/view/4444959383",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 81.8,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/4443207094": {
       "title": "Senior, Applied AI Health Scientist",
@@ -528,8 +558,11 @@
       "url": "https://www.linkedin.com/jobs/view/4446510867",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 38.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4448658934": {
       "title": "Technology Strategy Senior Manager",
@@ -555,8 +588,11 @@
       "url": "https://www.linkedin.com/jobs/view/4419340438",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 45.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4400431913": {
       "title": "Associate Director, AI Solutions",
@@ -568,7 +604,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/4353541183": {
-      "title": "Senior Consultant \u2013 Healthcare & Life Sciences",
+      "title": "Senior Consultant – Healthcare & Life Sciences",
       "company": "Simon-Kucher",
       "url": "https://www.linkedin.com/jobs/view/4353541183",
       "first_seen": "2026-08-04",
@@ -591,8 +627,11 @@
       "url": "https://www.linkedin.com/jobs/view/4444019246",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 58.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/4443478875": {
       "title": "Global Medical DD&T Insights Ecosystem Lead",
@@ -600,8 +639,11 @@
       "url": "https://www.linkedin.com/jobs/view/4443478875",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 55.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/4377294772": {
       "title": "Business Consultant - Global Analytics",
@@ -749,8 +791,11 @@
       "job_id": "4447719671",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 37.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/4445523741": {
       "title": "Sr. Hardware Product Manager",
@@ -864,13 +909,16 @@
     },
     "https://www.linkedin.com/jobs/view/4433979252": {
       "title": "Health Economics & Outcomes Research (HEOR) Lead",
-      "company": "\u014cURA",
+      "company": "ŌURA",
       "url": "https://www.linkedin.com/jobs/view/4433979252",
       "job_id": "4433979252",
       "first_seen": "2026-08-05",
       "fit": "medium",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 31.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/4430869532": {
       "title": "Associate Director in Data Science, Digital Endpoints Pharma R & D",
@@ -1124,7 +1172,7 @@
     },
     "https://www.linkedin.com/jobs/view/4441562915": {
       "title": "Customer Insights Manager, US",
-      "company": "M\u00f6lnlycke Health Care",
+      "company": "Mölnlycke Health Care",
       "url": "https://www.linkedin.com/jobs/view/4441562915",
       "job_id": "4441562915",
       "first_seen": "2026-08-05",
@@ -1144,7 +1192,7 @@
     },
     "https://www.linkedin.com/jobs/view/4441579234": {
       "title": "Customer Insights Manager, US",
-      "company": "M\u00f6lnlycke Health Care",
+      "company": "Mölnlycke Health Care",
       "url": "https://www.linkedin.com/jobs/view/4441579234",
       "job_id": "4441579234",
       "first_seen": "2026-08-05",
@@ -1168,8 +1216,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-trinetx-4446907369",
       "first_seen": "2026-08-06",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 66.0,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
     },
     "https://www.linkedin.com/jobs/view/senior-staff-product-manager-b2b-care-solutions-at-verily-health-4440625972": {
       "title": "Senior Staff Product Manager, B2B Care Solutions",
@@ -1177,8 +1228,11 @@
       "url": "https://www.linkedin.com/jobs/view/senior-staff-product-manager-b2b-care-solutions-at-verily-health-4440625972",
       "first_seen": "2026-08-06",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 56.1,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
     },
     "https://www.linkedin.com/jobs/view/senior-technical-product-manager-at-beacon-biosignals-4442150003": {
       "title": "Senior Technical Product Manager",
@@ -1190,7 +1244,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-digital-solutions-at-ndd-medical-technologies-4444407063": {
-      "title": "Product Manager \u2013 Digital Solutions",
+      "title": "Product Manager – Digital Solutions",
       "company": "ndd Medical Technologies",
       "url": "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-digital-solutions-at-ndd-medical-technologies-4444407063",
       "first_seen": "2026-08-06",
@@ -1440,6 +1494,708 @@
       "fit": "low",
       "status": "skipped",
       "portal": "freehire-search"
+    },
+    "https://www.linkedin.com/jobs/view/global-lead-health-ecosystem-innovation-at-sanofi-4440588696": {
+      "title": "Global Lead, Health Ecosystem & Innovation",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/global-lead-health-ecosystem-innovation-at-sanofi-4440588696",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 47.8,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-consumer-health-at-linus-health-4449625394": {
+      "title": "Senior Product Manager, Consumer Health",
+      "company": "Linus Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-consumer-health-at-linus-health-4449625394",
+      "first_seen": "2026-08-06",
+      "fit": "high",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 71.9,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-r-d-data-data-science-and-ai-%E2%80%93-digital-health-for-neuropsychiatry-at-johnson-johnson-innovative-medicine-4440907258": {
+      "title": "Senior Manager, R&D Data, Data Science, and AI – Digital Health for Neuropsychiatry",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-r-d-data-data-science-and-ai-%E2%80%93-digital-health-for-neuropsychiatry-at-johnson-johnson-innovative-medicine-4440907258",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 56.4,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
+    },
+    "https://www.linkedin.com/jobs/view/digital-technology-product-owner-us-hcp-experience-at-argenx-4425301520": {
+      "title": "Digital Technology Product Owner, US HCP Experience",
+      "company": "argenx",
+      "url": "https://www.linkedin.com/jobs/view/digital-technology-product-owner-us-hcp-experience-at-argenx-4425301520",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 39.5,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-06"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-product-management-at-interra-health-inc-4441567797": {
+      "title": "Head of Product Management",
+      "company": "Interra Health, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/head-of-product-management-at-interra-health-inc-4441567797",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 51.0,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-product-management-at-dosespot-4444783413": {
+      "title": "Head of Product Management (duplicate of Interra Health posting)",
+      "company": "DoseSpot",
+      "url": "https://www.linkedin.com/jobs/view/head-of-product-management-at-dosespot-4444783413",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-product-manager-hybrid-acton-ma-at-insulet-corporation-4447185951": {
+      "title": "Principal Product Manager (Hybrid - Acton, MA)",
+      "company": "Insulet Corporation",
+      "url": "https://www.linkedin.com/jobs/view/principal-product-manager-hybrid-acton-ma-at-insulet-corporation-4447185951",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 55.3,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/associate-director-data-science-at-rhythm-pharmaceuticals-inc-4440834783": {
+      "title": "Associate Director, Data Science",
+      "company": "Rhythm Pharmaceuticals Inc.",
+      "url": "https://www.linkedin.com/jobs/view/associate-director-data-science-at-rhythm-pharmaceuticals-inc-4440834783",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 15.8,
+      "rank_verdict": "Poor Fit",
+      "rank_date": "2026-08-06"
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-mmai-outcome-prediction-%E2%80%93-ai-for-precision-health-at-astrazeneca-4395478557": {
+      "title": "Senior Director MMAI & Outcome Prediction – AI for Precision Health",
+      "company": "AstraZeneca",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-mmai-outcome-prediction-%E2%80%93-ai-for-precision-health-at-astrazeneca-4395478557",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/patient-centered-prediction-lead-at-zs-4423194187": {
+      "title": "Patient-Centered Prediction Lead",
+      "company": "ZS",
+      "url": "https://www.linkedin.com/jobs/view/patient-centered-prediction-lead-at-zs-4423194187",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 30.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-06"
+    },
+    "https://www.linkedin.com/jobs/view/global-vp-informatics-solutions-portfolio-at-siemens-healthineers-4412410324": {
+      "title": "Global VP, Informatics Solutions Portfolio",
+      "company": "Siemens Healthineers",
+      "url": "https://www.linkedin.com/jobs/view/global-vp-informatics-solutions-portfolio-at-siemens-healthineers-4412410324",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 36.0,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-external-growth-innovation-at-biogen-4447184073": {
+      "title": "Senior Director, External Growth & Innovation",
+      "company": "Biogen",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-external-growth-innovation-at-biogen-4447184073",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 49.9,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-06"
+    },
+    "https://www.linkedin.com/jobs/view/group-product-manager-at-vibeiq-4445782059": {
+      "title": "Group Product Manager",
+      "company": "VibeIQ",
+      "url": "https://www.linkedin.com/jobs/view/group-product-manager-at-vibeiq-4445782059",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-product-manager-app-platform-experience-at-affirm-4429612133": {
+      "title": "Staff Product Manager, App Platform & Experience",
+      "company": "Affirm",
+      "url": "https://www.linkedin.com/jobs/view/staff-product-manager-app-platform-experience-at-affirm-4429612133",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-product-manager-at-re-build-manufacturing-4443984943": {
+      "title": "Principal Product Manager",
+      "company": "Re:Build Manufacturing",
+      "url": "https://www.linkedin.com/jobs/view/principal-product-manager-at-re-build-manufacturing-4443984943",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-of-scientific-affairs-at-xrhealth-4445481187": {
+      "title": "Director of Scientific Affairs",
+      "company": "XRHealth",
+      "url": "https://www.linkedin.com/jobs/view/director-of-scientific-affairs-at-xrhealth-4445481187",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-clinical-scientist-at-assured-allies-4445725324": {
+      "title": "Senior Clinical Scientist",
+      "company": "Assured Allies",
+      "url": "https://www.linkedin.com/jobs/view/senior-clinical-scientist-at-assured-allies-4445725324",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/life-sciences-experience-design-strategy-senior-manager-at-deloitte-4444310276": {
+      "title": "Life Sciences Experience Design Strategy Senior Manager",
+      "company": "Deloitte",
+      "url": "https://www.linkedin.com/jobs/view/life-sciences-experience-design-strategy-senior-manager-at-deloitte-4444310276",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/innovation-architect-product-design-at-mercer-4448639240": {
+      "title": "Innovation Architect, Product Design",
+      "company": "Mercer",
+      "url": "https://www.linkedin.com/jobs/view/innovation-architect-product-design-at-mercer-4448639240",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-commercial-strategy-at-trinity-life-sciences-4414677987": {
+      "title": "Principal, Commercial Strategy",
+      "company": "Trinity Life Sciences",
+      "url": "https://www.linkedin.com/jobs/view/principal-commercial-strategy-at-trinity-life-sciences-4414677987",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-consultant-life-sciences-at-lumanity-4444744568": {
+      "title": "Principal Consultant - Life Sciences",
+      "company": "Lumanity",
+      "url": "https://www.linkedin.com/jobs/view/principal-consultant-life-sciences-at-lumanity-4444744568",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/associate-principal-commercial-strategy-at-trinity-life-sciences-4415535122": {
+      "title": "Associate Principal- Commercial Strategy",
+      "company": "Trinity Life Sciences",
+      "url": "https://www.linkedin.com/jobs/view/associate-principal-commercial-strategy-at-trinity-life-sciences-4415535122",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-consulting-at-vynamic-4438545303": {
+      "title": "Senior Manager, Consulting",
+      "company": "Vynamic",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-consulting-at-vynamic-4438545303",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/consultant-advisory-services-at-iqvia-4393017513": {
+      "title": "Consultant, Advisory Services",
+      "company": "IQVIA",
+      "url": "https://www.linkedin.com/jobs/view/consultant-advisory-services-at-iqvia-4393017513",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-consulting-at-vynamic-4438546230": {
+      "title": "Director, Consulting",
+      "company": "Vynamic",
+      "url": "https://www.linkedin.com/jobs/view/director-consulting-at-vynamic-4438546230",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-strategy-development-at-milliporesigma-4445174990": {
+      "title": "Senior Manager, Strategy Development",
+      "company": "MilliporeSigma",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-strategy-development-at-milliporesigma-4445174990",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-healthcare-life-sciences-pharma-biotech-at-simon-kucher-4363088171": {
+      "title": "Senior Manager - Healthcare & Life Sciences - Pharma/Biotech",
+      "company": "Simon-Kucher",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-healthcare-life-sciences-pharma-biotech-at-simon-kucher-4363088171",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-consultant-at-bgbx-4449637802": {
+      "title": "Senior Consultant",
+      "company": "BGBx",
+      "url": "https://www.linkedin.com/jobs/view/senior-consultant-at-bgbx-4449637802",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-manager-strategic-innovation-business-development-at-mckesson-4449935366": {
+      "title": "Sr. Manager, Strategic Innovation & Business Development",
+      "company": "McKesson",
+      "url": "https://www.linkedin.com/jobs/view/sr-manager-strategic-innovation-business-development-at-mckesson-4449935366",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-ai-coaching-at-lark-health-4441565748": {
+      "title": "Senior Product Manager, AI Coaching",
+      "company": "Lark Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-ai-coaching-at-lark-health-4441565748",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-bionemo-inference-at-nvidia-ai-4447392019": {
+      "title": "Product Manager - BioNeMo Inference",
+      "company": "NVIDIA AI",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-bionemo-inference-at-nvidia-ai-4447392019",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/research-scientist-ai-for-clinical-translatability-at-nvidia-4448598558": {
+      "title": "Research Scientist, AI for Clinical Translatability",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-ai-for-clinical-translatability-at-nvidia-4448598558",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/digital-products-senior-lead-at-zs-4441845223": {
+      "title": "Digital Products Senior Lead",
+      "company": "ZS",
+      "url": "https://www.linkedin.com/jobs/view/digital-products-senior-lead-at-zs-4441845223",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/digital-products-lead-at-zs-4448061127": {
+      "title": "Digital Products Lead",
+      "company": "ZS",
+      "url": "https://www.linkedin.com/jobs/view/digital-products-lead-at-zs-4448061127",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/group-product-manager-content-platform-at-patientpoint%C2%AE-4446814478": {
+      "title": "Group Product Manager-Content Platform",
+      "company": "PatientPoint",
+      "url": "https://www.linkedin.com/jobs/view/group-product-manager-content-platform-at-patientpoint%C2%AE-4446814478",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/founding-product-lead-at-atomic-4447967840": {
+      "title": "Founding Product Lead",
+      "company": "Atomic",
+      "url": "https://www.linkedin.com/jobs/view/founding-product-lead-at-atomic-4447967840",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-management-lead-at-ochsner-health-4449601006": {
+      "title": "Product Management Lead",
+      "company": "Ochsner Health",
+      "url": "https://www.linkedin.com/jobs/view/product-management-lead-at-ochsner-health-4449601006",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/strategic-product-lead-at-inspira-financial-4439365667": {
+      "title": "Strategic Product Lead",
+      "company": "Inspira Financial",
+      "url": "https://www.linkedin.com/jobs/view/strategic-product-lead-at-inspira-financial-4439365667",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-digital-product-at-cvs-health-4444303354": {
+      "title": "Senior Manager, Digital Product",
+      "company": "CVS Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-digital-product-at-cvs-health-4444303354",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/manager-external-innovation-medtech-surgery-at-johnson-johnson-medtech-4432282819": {
+      "title": "Manager, External Innovation - MedTech Surgery",
+      "company": "Johnson & Johnson MedTech",
+      "url": "https://www.linkedin.com/jobs/view/manager-external-innovation-medtech-surgery-at-johnson-johnson-medtech-4432282819",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-emerging-tech-%E2%80%93-consumer-health-and-medical-equipment-technologies-at-samsung-research-america-sra-4419218758": {
+      "title": "Senior Manager, Emerging Tech",
+      "company": "Samsung Research America (SRA)",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-emerging-tech-%E2%80%93-consumer-health-and-medical-equipment-technologies-at-samsung-research-america-sra-4419218758",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/new-product-planning-manager-digital-and-connected-care-at-zoll-cardiac-management-solutions-4440632140": {
+      "title": "New Product Planning Manager, Digital and Connected Care",
+      "company": "ZOLL Cardiac Management Solutions",
+      "url": "https://www.linkedin.com/jobs/view/new-product-planning-manager-digital-and-connected-care-at-zoll-cardiac-management-solutions-4440632140",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/manager-data-science-at-university-of-miami-4446844623": {
+      "title": "Manager, Data Science",
+      "company": "University of Miami",
+      "url": "https://www.linkedin.com/jobs/view/manager-data-science-at-university-of-miami-4446844623",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/manager-clinical-informatics-analytics-women%E2%80%99s-health-genomics-at-cvs-health-4444095413": {
+      "title": "Manager, Clinical Informatics & Analytics, Women's Health & Genomics",
+      "company": "CVS Health",
+      "url": "https://www.linkedin.com/jobs/view/manager-clinical-informatics-analytics-women%E2%80%99s-health-genomics-at-cvs-health-4444095413",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/strategic-technology-consultant-at-medtronic-4448666892": {
+      "title": "Strategic Technology Consultant",
+      "company": "Medtronic",
+      "url": "https://www.linkedin.com/jobs/view/strategic-technology-consultant-at-medtronic-4448666892",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-clinical-analytics-at-beacon-health-system-4448266458": {
+      "title": "Director, Clinical Analytics",
+      "company": "Beacon Health System",
+      "url": "https://www.linkedin.com/jobs/view/director-clinical-analytics-at-beacon-health-system-4448266458",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/business-consultant-patient-analytics-at-veeva-systems-4377297661": {
+      "title": "Business Consultant - Patient Analytics",
+      "company": "Veeva Systems",
+      "url": "https://www.linkedin.com/jobs/view/business-consultant-patient-analytics-at-veeva-systems-4377297661",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/manager-analytics-strategy-at-hopscotch-primary-care-4429556632": {
+      "title": "Manager, Analytics & Strategy",
+      "company": "Hopscotch Primary Care",
+      "url": "https://www.linkedin.com/jobs/view/manager-analytics-strategy-at-hopscotch-primary-care-4429556632",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/manager-clinical-business-insight-data-analytics-at-triwest-healthcare-alliance-4448922916": {
+      "title": "Manager, Clinical & Business Insight (Data Analytics)",
+      "company": "TriWest Healthcare Alliance",
+      "url": "https://www.linkedin.com/jobs/view/manager-clinical-business-insight-data-analytics-at-triwest-healthcare-alliance-4448922916",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/lead-analytics-and-insights-at-vizient-4446929146": {
+      "title": "Lead, Analytics and Insights",
+      "company": "Vizient",
+      "url": "https://www.linkedin.com/jobs/view/lead-analytics-and-insights-at-vizient-4446929146",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/lead-analytics-and-insights-at-vizient-4446931074": {
+      "title": "Lead, Analytics and Insights (duplicate posting, second city)",
+      "company": "Vizient",
+      "url": "https://www.linkedin.com/jobs/view/lead-analytics-and-insights-at-vizient-4446931074",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-clinical-data-ai-at-smith%2Bnephew-4439438489": {
+      "title": "Director, Clinical Data & AI",
+      "company": "Smith+Nephew",
+      "url": "https://www.linkedin.com/jobs/view/director-clinical-data-ai-at-smith%2Bnephew-4439438489",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solution-implementation-lead-connected-devices-at-iqvia-4448242952": {
+      "title": "Solution Implementation Lead (Connected Devices)",
+      "company": "IQVIA",
+      "url": "https://www.linkedin.com/jobs/view/solution-implementation-lead-connected-devices-at-iqvia-4448242952",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/solution-implementation-lead-connected-devices-at-iqvia-4448240957": {
+      "title": "Solution Implementation Lead (Connected Devices, duplicate posting, second city)",
+      "company": "IQVIA",
+      "url": "https://www.linkedin.com/jobs/view/solution-implementation-lead-connected-devices-at-iqvia-4448240957",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-clinical-workflow-solutions-at-clarius-mobile-health-4448929326": {
+      "title": "Senior Product Manager, Clinical Workflow Solutions",
+      "company": "Clarius Mobile Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-clinical-workflow-solutions-at-clarius-mobile-health-4448929326",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-clinical-workflow-solutions-at-lv1-health-tech-4445582801": {
+      "title": "Senior Product Manager, Clinical Workflow Solutions (duplicate posting, alt company name)",
+      "company": "LV1 Health Tech",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-clinical-workflow-solutions-at-lv1-health-tech-4445582801",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/customer-insights-manager-us-at-m%C3%B6lnlycke-health-care-4441562915": {
+      "title": "Customer Insights Manager, US",
+      "company": "Mölnlycke Health Care",
+      "url": "https://www.linkedin.com/jobs/view/customer-insights-manager-us-at-m%C3%B6lnlycke-health-care-4441562915",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/us-obu-digital-product-manager-at-takeda-4445525454": {
+      "title": "US OBU Digital Product Manager",
+      "company": "Takeda",
+      "url": "https://www.linkedin.com/jobs/view/us-obu-digital-product-manager-at-takeda-4445525454",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-ai-at-whoop-4450669742": {
+      "title": "Senior Product Manager, AI",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-ai-at-whoop-4450669742",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 50.5,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/global-lead-innovation-expansion-adoption-at-sanofi-4441216478": {
+      "title": "Global Lead, Innovation Expansion & Adoption",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/global-lead-innovation-expansion-adoption-at-sanofi-4441216478",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/consumer-experience-strategy-lead-at-sanofi-4439318354": {
+      "title": "Consumer Experience Strategy Lead",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/consumer-experience-strategy-lead-at-sanofi-4439318354",
+      "first_seen": "2026-08-06",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-patient-crm-at-veeva-systems-4377298654": {
+      "title": "Senior Product Manager - Patient CRM",
+      "company": "Veeva Systems",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-patient-crm-at-veeva-systems-4377298654",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/msat-systems-business-owner-at-takeda-4434866988": {
+      "title": "MSAT Systems Business Owner",
+      "company": "Takeda",
+      "url": "https://www.linkedin.com/jobs/view/msat-systems-business-owner-at-takeda-4434866988",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-patient-safety-pharmacovigilance-at-takeda-4438016038": {
+      "title": "Senior Product Manager - Patient Safety Pharmacovigilance",
+      "company": "Takeda",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-patient-safety-pharmacovigilance-at-takeda-4438016038",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-specialist-software-ai-at-milliporesigma-4450545680": {
+      "title": "Product Specialist, Software & AI",
+      "company": "MilliporeSigma",
+      "url": "https://www.linkedin.com/jobs/view/product-specialist-software-ai-at-milliporesigma-4450545680",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/clinical-product-manager-care-solutions-at-verily-health-4450003479": {
+      "title": "Clinical Product Manager, Care Solutions (requires active MD/NP/RN/RD license)",
+      "company": "Verily Health",
+      "url": "https://www.linkedin.com/jobs/view/clinical-product-manager-care-solutions-at-verily-health-4450003479",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-new-experiences-at-%C5%8Dura-4420765422": {
+      "title": "Senior Product Manager, New Experiences",
+      "company": "ŌURA",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-new-experiences-at-%C5%8Dura-4420765422",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 82.4,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-08-12"
+    },
+    "https://www.linkedin.com/jobs/view/hardware-pm-san-francisco-at-plaud-4448065354": {
+      "title": "Hardware PM - San Francisco",
+      "company": "Plaud",
+      "url": "https://www.linkedin.com/jobs/view/hardware-pm-san-francisco-at-plaud-4448065354",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/clinical-specialist-health-optimization-at-google-4447367642": {
+      "title": "Clinical Specialist, Health Optimization",
+      "company": "Google",
+      "url": "https://www.linkedin.com/jobs/view/clinical-specialist-health-optimization-at-google-4447367642",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/research-scientist-ai-for-clinical-translatability-at-nvidia-4448585748": {
+      "title": "Research Scientist, AI for Clinical Translatability (NYC, dup of MA posting)",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/research-scientist-ai-for-clinical-translatability-at-nvidia-4448585748",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-lead-delivery-operations-at-regeneron-4419356098": {
+      "title": "Product Lead, Delivery & Operations",
+      "company": "Regeneron",
+      "url": "https://www.linkedin.com/jobs/view/product-lead-delivery-operations-at-regeneron-4419356098",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-r-d-data-data-science-and-ai-%E2%80%93-digital-health-for-neuropsychiatry-at-johnson-johnson-innovative-medicine-4440897573": {
+      "title": "Senior Manager, R&D Data/AI Digital Health Neuropsychiatry (San Diego, dup req)",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-r-d-data-data-science-and-ai-%E2%80%93-digital-health-for-neuropsychiatry-at-johnson-johnson-innovative-medicine-4440897573",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-manager-r-d-data-data-science-and-ai-%E2%80%93-digital-health-for-neuropsychiatry-at-johnson-johnson-innovative-medicine-4440903385": {
+      "title": "Senior Manager, R&D Data/AI Digital Health Neuropsychiatry (Spring House PA, dup req)",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "url": "https://www.linkedin.com/jobs/view/senior-manager-r-d-data-data-science-and-ai-%E2%80%93-digital-health-for-neuropsychiatry-at-johnson-johnson-innovative-medicine-4440903385",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/global-lead-innovation-expansion-adoption-at-sanofi-4441215539": {
+      "title": "Global Lead, Innovation Expansion & Adoption (Morristown NJ, dup req)",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/global-lead-innovation-expansion-adoption-at-sanofi-4441215539",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
     }
   }
 }
