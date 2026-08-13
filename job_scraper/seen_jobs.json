@@ -245,7 +245,7 @@
     },
     "https://www.linkedin.com/jobs/view/4445993607": {
       "title": "Senior Product Manager, Data Products",
-      "company": "Dassault Syst\u00e8mes",
+      "company": "Dassault Systèmes",
       "url": "https://www.linkedin.com/jobs/view/4445993607",
       "first_seen": "2026-08-04",
       "fit": "low",
@@ -271,7 +271,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/4441939034": {
-      "title": "Sr. Product Manager \u2013 Digital Eco system",
+      "title": "Sr. Product Manager – Digital Eco system",
       "company": "Abbott",
       "url": "https://www.linkedin.com/jobs/view/4441939034",
       "first_seen": "2026-08-04",
@@ -568,7 +568,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/4353541183": {
-      "title": "Senior Consultant \u2013 Healthcare & Life Sciences",
+      "title": "Senior Consultant – Healthcare & Life Sciences",
       "company": "Simon-Kucher",
       "url": "https://www.linkedin.com/jobs/view/4353541183",
       "first_seen": "2026-08-04",
@@ -864,7 +864,7 @@
     },
     "https://www.linkedin.com/jobs/view/4433979252": {
       "title": "Health Economics & Outcomes Research (HEOR) Lead",
-      "company": "\u014cURA",
+      "company": "ŌURA",
       "url": "https://www.linkedin.com/jobs/view/4433979252",
       "job_id": "4433979252",
       "first_seen": "2026-08-05",
@@ -1124,7 +1124,7 @@
     },
     "https://www.linkedin.com/jobs/view/4441562915": {
       "title": "Customer Insights Manager, US",
-      "company": "M\u00f6lnlycke Health Care",
+      "company": "Mölnlycke Health Care",
       "url": "https://www.linkedin.com/jobs/view/4441562915",
       "job_id": "4441562915",
       "first_seen": "2026-08-05",
@@ -1144,7 +1144,7 @@
     },
     "https://www.linkedin.com/jobs/view/4441579234": {
       "title": "Customer Insights Manager, US",
-      "company": "M\u00f6lnlycke Health Care",
+      "company": "Mölnlycke Health Care",
       "url": "https://www.linkedin.com/jobs/view/4441579234",
       "job_id": "4441579234",
       "first_seen": "2026-08-05",
@@ -1190,7 +1190,7 @@
       "portal": "linkedin-search"
     },
     "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-digital-solutions-at-ndd-medical-technologies-4444407063": {
-      "title": "Product Manager \u2013 Digital Solutions",
+      "title": "Product Manager – Digital Solutions",
       "company": "ndd Medical Technologies",
       "url": "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-digital-solutions-at-ndd-medical-technologies-4444407063",
       "first_seen": "2026-08-06",
@@ -1802,7 +1802,7 @@
       "portal": "WebSearch"
     },
     "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/": {
-      "title": "Senior Manager, R&D Data, Data Science, and AI \u2013 Digital Health for Neuropsychiatry",
+      "title": "Senior Manager, R&D Data, Data Science, and AI – Digital Health for Neuropsychiatry",
       "company": "Johnson & Johnson Innovative Medicine",
       "url": "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/",
       "first_seen": "2026-08-11",
@@ -1961,6 +1961,24 @@
       "first_seen": "2026-08-12",
       "fit": "medium",
       "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ri---woonsocket/sr--manager--digital-product--patient-self-service-_r0564480-1": {
+      "title": "Senior Manager - Digital Product (Patient Self-Service)",
+      "company": "CVS Health",
+      "url": "https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers/job/ri---woonsocket/sr--manager--digital-product--patient-self-service-_r0564480-1",
+      "first_seen": "2026-08-13",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/business-development-director-%E2%80%93-pharma-usa-at-s3-connected-health-4425330022": {
+      "title": "Business Development Director - Pharma (USA)",
+      "company": "S3 Connected Health",
+      "url": "https://www.linkedin.com/jobs/view/business-development-director-%E2%80%93-pharma-usa-at-s3-connected-health-4425330022",
+      "first_seen": "2026-08-13",
+      "fit": "low",
+      "status": "skipped",
       "portal": "WebSearch"
     }
   }
