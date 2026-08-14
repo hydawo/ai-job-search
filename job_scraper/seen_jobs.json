@@ -1980,6 +1980,78 @@
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://builtin.com/job/senior-product-manager-sensing-discovery/3508427": {
+      "title": "Senior Product Manager - Sensing Discovery",
+      "company": "Oura",
+      "url": "https://builtin.com/job/senior-product-manager-sensing-discovery/3508427",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/c7c7ab61-b63e-40e1-bd9f-c8644fb429ad": {
+      "title": "Clinical Product Manager",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/c7c7ab61-b63e-40e1-bd9f-c8644fb429ad",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/b8649350-648c-4cb3-b8c8-560fadf4daf4": {
+      "title": "Technical Product Manager — Data Platforms & MLOps",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/b8649350-648c-4cb3-b8c8-560fadf4daf4",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.ziprecruiter.com/c/2070Health/Job/Strategy-Consultant-Lifesciences/-in-Boston,MA?jid=7bfd762b47bb68b1": {
+      "title": "Strategy Consultant, Life Sciences",
+      "company": "Decimal Health",
+      "url": "https://www.ziprecruiter.com/c/2070Health/Job/Strategy-Consultant-Lifesciences/-in-Boston,MA?jid=7bfd762b47bb68b1",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.glassdoor.com/job-listing/digital-health-and-innovation-manager-boston-children-s-hospital-JV_IC1154532_KO0,37_KE38,64.htm?jl=1007625720534": {
+      "title": "Digital Health and Innovation Manager",
+      "company": "Boston Children's Hospital",
+      "url": "https://www.glassdoor.com/job-listing/digital-health-and-innovation-manager-boston-children-s-hospital-JV_IC1154532_KO0,37_KE38,64.htm?jl=1007625720534",
+      "first_seen": "2026-08-14",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/staff-product-manager-clinical-documentation-improvement-at-abridge-3831002142": {
+      "title": "Staff Product Manager, Clinical Documentation Improvement",
+      "company": "Abridge",
+      "url": "https://www.linkedin.com/jobs/view/staff-product-manager-clinical-documentation-improvement-at-abridge-3831002142",
+      "first_seen": "2026-08-14",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.cvshealth.com/us/en/job/R0856829/Manager-Digital-Product": {
+      "title": "Manager, Digital Product (Work at Home, New York)",
+      "company": "CVS Health",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0856829/Manager-Digital-Product",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.cvshealth.com/us/en/job/R0970578/Digital-Product-Manager": {
+      "title": "Digital Product Manager (Work At Home, Columbus, Ohio)",
+      "company": "CVS Health",
+      "url": "https://jobs.cvshealth.com/us/en/job/R0970578/Digital-Product-Manager",
+      "first_seen": "2026-08-14",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
     }
   }
 }
