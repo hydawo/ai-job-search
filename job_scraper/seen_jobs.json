@@ -2052,6 +2052,159 @@
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-moxe-3411956072": {
+      "title": "Senior Product Manager",
+      "company": "Moxe",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-moxe-3411956072",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-doxy-me-3823892303": {
+      "title": "Senior Product Manager",
+      "company": "doxy.me",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-doxy-me-3823892303",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://job-boards.greenhouse.io/oura/jobs/4052582009": {
+      "title": "Staff Product Manager, Hardware",
+      "company": "Oura",
+      "url": "https://job-boards.greenhouse.io/oura/jobs/4052582009",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/program-manager-at-boston-medical-center-bmc-2848680024": {
+      "title": "Program Manager",
+      "company": "Boston Medical Center (BMC)",
+      "url": "https://www.linkedin.com/jobs/view/program-manager-at-boston-medical-center-bmc-2848680024",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/program-manager-at-massachusetts-general-hospital-3780367564": {
+      "title": "Program Manager",
+      "company": "Massachusetts General Hospital",
+      "url": "https://www.linkedin.com/jobs/view/program-manager-at-massachusetts-general-hospital-3780367564",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/16138b04-68b5-48a5-98bb-c906e93e0e1b": {
+      "title": "Senior Product Manager (Business Systems)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/16138b04-68b5-48a5-98bb-c906e93e0e1b",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/ebff831b-6e71-4ff6-9891-c8993f84c770": {
+      "title": "Group Product Manager (Health)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/ebff831b-6e71-4ff6-9891-c8993f84c770",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/a0772f4e-2d63-4ad5-9a5a-55ed0d1661a6": {
+      "title": "Senior Product Manager (Ecosystem & Partner Integrations)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/a0772f4e-2d63-4ad5-9a5a-55ed0d1661a6",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/a1abad69-cad4-4cf2-90e0-48f808c13c24": {
+      "title": "Product Manager II, Growth (Web Focus)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/a1abad69-cad4-4cf2-90e0-48f808c13c24",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/3cf5ef00-6703-4cd6-9384-009c1defe1a0": {
+      "title": "Senior Product Manager, Growth",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/3cf5ef00-6703-4cd6-9384-009c1defe1a0",
+      "first_seen": "2026-08-15",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://apply.workable.com/oura-health-ltd/j/81566F72B3": {
+      "title": "Product Manager, CX",
+      "company": "Oura",
+      "url": "https://apply.workable.com/oura-health-ltd/j/81566F72B3",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://en.jobs.sanofi.com/job/cambridge/digital-product-owner/20873/52780082016": {
+      "title": "Digital Product Owner",
+      "company": "Sanofi",
+      "url": "https://en.jobs.sanofi.com/job/cambridge/digital-product-owner/20873/52780082016",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.takeda.com/job/boston/digital-partnership-lead/1113/94353454800": {
+      "title": "Digital Partnership Lead",
+      "company": "Takeda",
+      "url": "https://jobs.takeda.com/job/boston/digital-partnership-lead/1113/94353454800",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.takeda.com/job/boston/usbu-digital-product-manager/1113/98241479024": {
+      "title": "USBU Digital Product Manager",
+      "company": "Takeda",
+      "url": "https://jobs.takeda.com/job/boston/usbu-digital-product-manager/1113/98241479024",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.ashbyhq.com/Abridge/b7b472b3-603d-4c90-adda-beb4d2858955/application": {
+      "title": "Staff / Senior Product Manager, Clinical Documentation Improvement",
+      "company": "Abridge",
+      "url": "https://jobs.ashbyhq.com/Abridge/b7b472b3-603d-4c90-adda-beb4d2858955/application",
+      "first_seen": "2026-08-15",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/director-global-project-management-at-boston-children-s-hospital-4414969129": {
+      "title": "Director, Global Project Management",
+      "company": "Boston Children's Hospital",
+      "url": "https://www.linkedin.com/jobs/view/director-global-project-management-at-boston-children-s-hospital-4414969129",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.kpmguscareers.com/jobdetail/?jobId=130833": {
+      "title": "Director, Lifesciences M&A Strategy",
+      "company": "KPMG",
+      "url": "https://www.kpmguscareers.com/jobdetail/?jobId=130833",
+      "first_seen": "2026-08-15",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
     }
   }
 }
