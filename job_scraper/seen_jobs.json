@@ -2127,12 +2127,13 @@
       "company": "ŌURA",
       "url": "https://www.linkedin.com/jobs/view/senior-product-manager-new-experiences-at-%C5%8Dura-4420765422",
       "first_seen": "2026-08-06",
-      "fit": "low",
-      "status": "ranked",
+      "fit": "high",
+      "status": "evaluated",
       "portal": "linkedin-search",
-      "rank_score": 82.4,
+      "rank_score": 83,
       "rank_verdict": "Strong Fit",
-      "rank_date": "2026-08-12"
+      "rank_date": "2026-08-12",
+      "notes": "Full /apply Step 1 eval 2026-08-13: Strong Fit (83/100). CV/cover letter drafted."
     },
     "https://www.linkedin.com/jobs/view/hardware-pm-san-francisco-at-plaud-4448065354": {
       "title": "Hardware PM - San Francisco",
@@ -2195,6 +2196,468 @@
       "first_seen": "2026-08-06",
       "fit": "low",
       "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-interra-health-inc-4450151063": {
+      "title": "Senior Product Manager",
+      "company": "Interra Health, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-interra-health-inc-4450151063",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-provation-4443524705": {
+      "title": "Senior Product Manager",
+      "company": "Provation",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-provation-4443524705",
+      "first_seen": "2026-08-12",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-product-manager-hardware-at-%C5%8Dura-4412235867": {
+      "title": "Staff Product Manager, Hardware",
+      "company": "ŌURA",
+      "url": "https://www.linkedin.com/jobs/view/staff-product-manager-hardware-at-%C5%8Dura-4412235867",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/hardware-pm-san-francisco-at-plaud-4452729078": {
+      "title": "Hardware PM - San Francisco",
+      "company": "Plaud",
+      "url": "https://www.linkedin.com/jobs/view/hardware-pm-san-francisco-at-plaud-4452729078",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-product-manager-at-qualcomm-4376094025": {
+      "title": "Staff, Product Manager",
+      "company": "Qualcomm",
+      "url": "https://www.linkedin.com/jobs/view/staff-product-manager-at-qualcomm-4376094025",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-predictive-analytics-at-biospace-4447755141": {
+      "title": "Senior Product Manager, Predictive Analytics",
+      "company": "BioSpace",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-predictive-analytics-at-biospace-4447755141",
+      "first_seen": "2026-08-01",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/associate-director-oncology-algorithm-data-products-at-natera-4423698564": {
+      "title": "Associate Director, Oncology Algorithm & Data Products",
+      "company": "Natera",
+      "url": "https://www.linkedin.com/jobs/view/associate-director-oncology-algorithm-data-products-at-natera-4423698564",
+      "first_seen": "2026-07-31",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4411187854": {
+      "title": "Global Product Manager- Digital Pathology Image Management",
+      "company": "Epredia",
+      "url": "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4411187854",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-molecular-at-diasorin-4414238377": {
+      "title": "Senior Product Manager, Molecular",
+      "company": "Diasorin",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-molecular-at-diasorin-4414238377",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-genomics-consumables-reagents-at-bio-rad-laboratories-4444169747": {
+      "title": "Product Manager, Genomics Consumables & Reagents",
+      "company": "Bio-Rad Laboratories",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-genomics-consumables-reagents-at-bio-rad-laboratories-4444169747",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-intracellular-immunoassays-at-meso-scale-diagnostics-llc-4448914497": {
+      "title": "Senior Product Manager, Intracellular Immunoassays",
+      "company": "MESO SCALE DIAGNOSTICS, LLC.",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-intracellular-immunoassays-at-meso-scale-diagnostics-llc-4448914497",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-technical-product-manager-at-absci-4448476838": {
+      "title": "Senior Technical Product Manager",
+      "company": "Absci",
+      "url": "https://www.linkedin.com/jobs/view/senior-technical-product-manager-at-absci-4448476838",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/marketing-director-global-product-management-cytology-and-digital-pathology-at-hologic-inc-4448260459": {
+      "title": "Marketing - Director, Global Product Management, Cytology and Digital Pathology",
+      "company": "Hologic, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/marketing-director-global-product-management-cytology-and-digital-pathology-at-hologic-inc-4448260459",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-%E2%80%93-partnerships-growth-gi-at-ge-healthcare-4452612949": {
+      "title": "Director – Partnerships & Growth (GI)",
+      "company": "GE HealthCare",
+      "url": "https://www.linkedin.com/jobs/view/director-%E2%80%93-partnerships-growth-gi-at-ge-healthcare-4452612949",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-healthcare-product-partnerships-at-whoop-4451812904": {
+      "title": "Director, Healthcare Product Partnerships",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/director-healthcare-product-partnerships-at-whoop-4451812904",
+      "first_seen": "2026-08-10",
+      "fit": "high",
+      "status": "evaluated",
+      "portal": "linkedin-search",
+      "notes": "Full eval + CV/cover letter drafted 2026-08-12 (Director, Healthcare Product Partnerships). Formal /apply Step 1 score added 2026-08-13: Strong Fit (87/100).",
+      "rank_score": 87,
+      "rank_verdict": "Strong Fit"
+    },
+    "https://www.linkedin.com/jobs/view/director-alliance-management-at-beacon-biosignals-4446830790": {
+      "title": "Director, Alliance Management",
+      "company": "Beacon Biosignals",
+      "url": "https://www.linkedin.com/jobs/view/director-alliance-management-at-beacon-biosignals-4446830790",
+      "first_seen": "2026-08-11",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/academic-partnerships-director-at-beacon-biosignals-4449018736": {
+      "title": "Academic Partnerships Director",
+      "company": "Beacon Biosignals",
+      "url": "https://www.linkedin.com/jobs/view/academic-partnerships-director-at-beacon-biosignals-4449018736",
+      "first_seen": "2026-08-04",
+      "fit": "high",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-alliance-management-at-tango-therapeutics-4442677651": {
+      "title": "Director, Alliance Management",
+      "company": "Tango Therapeutics",
+      "url": "https://www.linkedin.com/jobs/view/director-alliance-management-at-tango-therapeutics-4442677651",
+      "first_seen": "2026-08-12",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-of-data-ai-partnerships-life-sciences-at-tempus-ai-4422023669": {
+      "title": "Director of Data & AI Partnerships, Life Sciences",
+      "company": "Tempus AI",
+      "url": "https://www.linkedin.com/jobs/view/director-of-data-ai-partnerships-life-sciences-at-tempus-ai-4422023669",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/head-health-system-strategy-rare-diseases-at-sanofi-4431100008": {
+      "title": "Head, Health System Strategy, Rare Diseases",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/head-health-system-strategy-rare-diseases-at-sanofi-4431100008",
+      "first_seen": "2026-08-01",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-provider-market-strategy-at-entyre-care-4449824983": {
+      "title": "Head of Provider & Market Strategy",
+      "company": "Entyre Care",
+      "url": "https://www.linkedin.com/jobs/view/head-of-provider-market-strategy-at-entyre-care-4449824983",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/partner-commercial-strategy-at-trinity-life-sciences-4421271513": {
+      "title": "Partner- Commercial Strategy",
+      "company": "Trinity Life Sciences",
+      "url": "https://www.linkedin.com/jobs/view/partner-commercial-strategy-at-trinity-life-sciences-4421271513",
+      "first_seen": "2026-08-02",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-business-development-ai-products-at-tempus-ai-4391201838": {
+      "title": "Director, Business Development - AI Products",
+      "company": "Tempus AI",
+      "url": "https://www.linkedin.com/jobs/view/director-business-development-ai-products-at-tempus-ai-4391201838",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sales-director-healthcare-at-leaderhub-4452606861": {
+      "title": "Sales Director- Healthcare",
+      "company": "LeaderHub",
+      "url": "https://www.linkedin.com/jobs/view/sales-director-healthcare-at-leaderhub-4452606861",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-of-sales-virtual-primary-care-at-careatc-4450289849": {
+      "title": "Director of Sales, Virtual Primary Care",
+      "company": "CareATC",
+      "url": "https://www.linkedin.com/jobs/view/director-of-sales-virtual-primary-care-at-careatc-4450289849",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/enterprise-sales-director-healthcare-life-sciences-us-at-userlane-4446753797": {
+      "title": "Enterprise Sales Director, Healthcare & Life Sciences (US)",
+      "company": "Userlane",
+      "url": "https://www.linkedin.com/jobs/view/enterprise-sales-director-healthcare-life-sciences-us-at-userlane-4446753797",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-of-strategic-sales-at-abridge-4439775243": {
+      "title": "Director of Strategic Sales",
+      "company": "Abridge",
+      "url": "https://www.linkedin.com/jobs/view/director-of-strategic-sales-at-abridge-4439775243",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/medical-director-business-development-at-doceree-4451663668": {
+      "title": "Medical Director - Business Development",
+      "company": "Doceree",
+      "url": "https://www.linkedin.com/jobs/view/medical-director-business-development-at-doceree-4451663668",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-business-development-ai-products-at-tempus-ai-4391202602": {
+      "title": "Director, Business Development - AI Products",
+      "company": "Tempus AI",
+      "url": "https://www.linkedin.com/jobs/view/director-business-development-ai-products-at-tempus-ai-4391202602",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/4445864117": {
+      "title": "Senior Director - New Business Growth",
+      "company": "Healthcare and New Sciences",
+      "url": "https://www.linkedin.com/jobs/view/4445864117",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-healthcare-sales-at-jade-global-4450389224": {
+      "title": "Director Healthcare Sales",
+      "company": "Jade Global",
+      "url": "https://www.linkedin.com/jobs/view/director-healthcare-sales-at-jade-global-4450389224",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/iot-solution-sales-director-medtech-life-science-at-cognizant-4319304836": {
+      "title": "IoT Solution Sales Director - MedTech & Life Science",
+      "company": "Cognizant",
+      "url": "https://www.linkedin.com/jobs/view/iot-solution-sales-director-medtech-life-science-at-cognizant-4319304836",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/associate-dean-corporate-partnerships-and-innovation-at-northwestern-university-4421850386": {
+      "title": "Associate Dean, Corporate Partnerships and Innovation",
+      "company": "Northwestern University",
+      "url": "https://www.linkedin.com/jobs/view/associate-dean-corporate-partnerships-and-innovation-at-northwestern-university-4421850386",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/innovation-academic-programs-director-at-university-of-alabama-at-birmingham-4452602494": {
+      "title": "Innovation & Academic Programs Director",
+      "company": "University of Alabama at Birmingham",
+      "url": "https://www.linkedin.com/jobs/view/innovation-academic-programs-director-at-university-of-alabama-at-birmingham-4452602494",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-medical-relations-at-l-or%C3%A9al-4435419068": {
+      "title": "Director - Medical Relations",
+      "company": "L'Oréal",
+      "url": "https://www.linkedin.com/jobs/view/director-medical-relations-at-l-or%C3%A9al-4435419068",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/global-lead-health-ecosystem-innovation-at-sanofi-4440585848": {
+      "title": "Global Lead, Health Ecosystem & Innovation",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/global-lead-health-ecosystem-innovation-at-sanofi-4440585848",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-of-texas-research-strategy-partnerships-at-gainrep-4451099823": {
+      "title": "Senior Director Of Texas Research Strategy & Partnerships",
+      "company": "Gainrep",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-of-texas-research-strategy-partnerships-at-gainrep-4451099823",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-of-texas-research-strategy-partnerships-at-alzheimer-s-association%C2%AE-4451029426": {
+      "title": "Senior Director of Texas Research Strategy & Partnerships",
+      "company": "Alzheimer's Association",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-of-texas-research-strategy-partnerships-at-alzheimer-s-association%C2%AE-4451029426",
+      "first_seen": "2026-08-08",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/strategic-partnerships-director-ped-endo-at-bioliance-life-science-partners-4416412411": {
+      "title": "Strategic Partnerships Director - Ped Endo",
+      "company": "Bioliance Life Science Partners",
+      "url": "https://www.linkedin.com/jobs/view/strategic-partnerships-director-ped-endo-at-bioliance-life-science-partners-4416412411",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/professor-term-open-rank-at-university-of-louisville-4451606665": {
+      "title": "Professor Term (Open Rank)",
+      "company": "University of Louisville",
+      "url": "https://www.linkedin.com/jobs/view/professor-term-open-rank-at-university-of-louisville-4451606665",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/health-partnerships-strategy-administrative-associate-ii-at-michigan-state-university-4449906193": {
+      "title": "Health Partnerships Strategy / Administrative Associate II",
+      "company": "Michigan State University",
+      "url": "https://www.linkedin.com/jobs/view/health-partnerships-strategy-administrative-associate-ii-at-michigan-state-university-4449906193",
+      "first_seen": "2026-08-05",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-scientist-early-cancer-detection-at-invitro-cell-research-llc-4449524393": {
+      "title": "Principal Scientist, Early Cancer Detection",
+      "company": "InVitro Cell Research, LLC",
+      "url": "https://www.linkedin.com/jobs/view/principal-scientist-early-cancer-detection-at-invitro-cell-research-llc-4449524393",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-translational-medicine-and-diagnostics-at-insitro-4446889094": {
+      "title": "(Senior) Director, Translational Medicine and Diagnostics",
+      "company": "insitro",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-translational-medicine-and-diagnostics-at-insitro-4446889094",
+      "first_seen": "2026-07-29",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-research-development-at-caredx-inc-4447072365": {
+      "title": "Director, Research & Development",
+      "company": "CareDx, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/director-research-development-at-caredx-inc-4447072365",
+      "first_seen": "2026-07-30",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/vice-president-translational-medicine-clinical-biomarkers-at-biospace-4449372152": {
+      "title": "Vice President, Translational Medicine & Clinical Biomarkers",
+      "company": "BioSpace",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-translational-medicine-clinical-biomarkers-at-biospace-4449372152",
+      "first_seen": "2026-08-06",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-scientist-translational-genetics-at-cytokinetics-4425553009": {
+      "title": "Principal Scientist, Translational Genetics",
+      "company": "Cytokinetics",
+      "url": "https://www.linkedin.com/jobs/view/principal-scientist-translational-genetics-at-cytokinetics-4425553009",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/associate-director-of-bioinformatics-women-s-health-and-organ-health-at-natera-4451438707": {
+      "title": "Associate Director of Bioinformatics (Women's Health and Organ Health)",
+      "company": "Natera",
+      "url": "https://www.linkedin.com/jobs/view/associate-director-of-bioinformatics-women-s-health-and-organ-health-at-natera-4451438707",
+      "first_seen": "2026-08-11",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/manager-computational-biology-early-oncology-at-recursion-4439159140": {
+      "title": "Manager, Computational Biology (Early Oncology)",
+      "company": "Recursion",
+      "url": "https://www.linkedin.com/jobs/view/manager-computational-biology-early-oncology-at-recursion-4439159140",
+      "first_seen": "2026-08-03",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/vice-president-translational-medicine-clinical-biomarkers-at-nurix-therapeutics-4439541158": {
+      "title": "Vice President, Translational Medicine & Clinical Biomarkers",
+      "company": "Nurix Therapeutics",
+      "url": "https://www.linkedin.com/jobs/view/vice-president-translational-medicine-clinical-biomarkers-at-nurix-therapeutics-4439541158",
+      "first_seen": "2026-08-04",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/vp-strategic-research-development-initiative-at-biodesix-inc-4452030946": {
+      "title": "VP - Strategic Research & Development Initiative",
+      "company": "Biodesix, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/vp-strategic-research-development-initiative-at-biodesix-inc-4452030946",
+      "first_seen": "2026-08-10",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/manager-computational-biology-early-oncology-at-biospace-4450053636": {
+      "title": "Manager, Computational Biology (Early Oncology)",
+      "company": "BioSpace",
+      "url": "https://www.linkedin.com/jobs/view/manager-computational-biology-early-oncology-at-biospace-4450053636",
+      "first_seen": "2026-08-07",
+      "fit": "low",
+      "status": "new",
       "portal": "linkedin-search"
     }
   }
