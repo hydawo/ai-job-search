@@ -67,6 +67,8 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - Healthcare Strategy / Advisory: BCBS, CVS Health Ventures, McKinsey, BCG, KPMG (healthcare/life sciences practices)
 - Also tracking: Boston Children's Hospital, Abridge
 
+**Top-three named targets (2026-08-13):** Of the sector list above, Hassan specifically named **WHOOP, Oura, and Apple** as the three companies he most wants to work for, because he believes in their missions, technology, and science. This is a narrower, stronger claim than the general sector list and is true and citable in cover letters for these three companies specifically — but never name the other two in a given cover letter (e.g. the WHOOP letter should say "one of three companies I specifically targeted," not name Oura/Apple by name). Verily is on the broader sector list but was not one of the three.
+
 ### Deal-breakers
 - No relocation
 - Fully remote roles requiring >=20% travel need explicit discussion before applying
@@ -81,7 +83,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 ## Workflow for New Job Applications
 1. User provides a job posting (URL or text)
 2. **Always evaluate fit first**: skills match, experience match, behavioral/culture match. Present this assessment to the user before proceeding.
-3. If good fit: create targeted CV (`cv/main_<company>_<role>.tex`) and cover letter (`cover_letters/cover_<company>_<role>.tex`)
+3. If good fit: create targeted CV (`cv/dawood_cv_<company>_<role>.tex`) and cover letter (`cover_letters/dawood_cover_<company>_<role>.tex`)
 4. **Verify both documents** (see Verification Checklist below)
 5. Prepare interview talking points based on the role requirements and your strengths
 
@@ -130,3 +132,10 @@ ATS parsers read the PDF's embedded text layer, not the rendered page. Extract i
 - [ ] Email and phone appear as **literal text** in the extraction (icon-glyph noise like `MOBILE-ALT`/`Envelope` is harmless, but a contact detail carried only by an icon or hyperlink is invisible to ATS)
 - [ ] Reading order of the extracted text matches the visual order (single-column stock template is safe; multi-column custom templates are where this breaks)
 - [ ] Posting keywords covered or honestly absent - synonym-only matches tightened to the posting's exact term where truthfully applicable, keywords the profile genuinely supports added to experience bullets, genuine gaps left visible and **never stuffed**
+
+## Cross-Project Context
+
+This project is part of a shared-context system across several related projects — see [`../shared_context/MAP.md`](../shared_context/MAP.md).
+
+- **Vault writeups (shared, read-only from here):** in addition to the static Candidate Profile above, check [`../brainiac/writeups/`](../brainiac/writeups/) — dated, real accomplishment writeups from `bsc_assistant`, `beiwe_platform_metrics`, and `health_data_analytics`, especially useful for roles emphasizing platform/product management, digital health data, or applied AI tooling. Writeups are source material, not pre-approved copy: verify scope/numbers with Hassan before quoting them in a CV or cover letter, same as any other claim per the Verification Checklist above. There's no separate pre-digested "portfolio entry" anymore — read the writeup itself.
+- **Session close:** `/logoff` follows the shared four-phase contract at [`../shared_context/session_close.md`](../shared_context/session_close.md) — same command everywhere, this project's specifics in `.claude/commands/logoff.md`. Replaces the former `/save-session`.

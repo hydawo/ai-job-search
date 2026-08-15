@@ -18,6 +18,8 @@ framework_version: 1.0.0
 - **Status:** Employed (Senior Research Operations Manager, Head of Beiwe Research Platform, Harvard T.H. Chan School of Public Health)
 - **Constraints:** No relocation. Remote OK with <20% travel, or hybrid if based in Boston/Cambridge.
 
+**Positioning note: breadth and unique perspective (always flex this).** Hassan's career spans clinical/wet-lab research, healthcare data analytics, neurosurgery research operations, digital-phenotyping product/platform leadership, and health-data partnership/commercial operations, all within regulated research and healthcare settings. That combination - not any single role - is the differentiator, and CVs/cover letters should say so explicitly (e.g. "a combination I don't see often," "spanning clinical research, data analytics, research operations, and product/partnerships") rather than leaving the reader to infer it from the experience list alone. Candidly (useful context for tone, not necessarily to spell out in applications): the gaps he brings coming into industry are real, but the flip side is a perspective not bound by the traditional industry playbook - lean into the breadth as a genuine asset, not just a way to paper over the industry-experience gap.
+
 ## Education
 
 | Degree | Period | Institution | Key Topics |
@@ -49,10 +51,15 @@ Department of Biostatistics — Onnela Lab | Boston, MA
 - Direct people manager for the Beiwe platform developer (Eli Jones) and a team of 4 Research Assistants: owns day-to-day priorities/task assignment, performance reviews, and HR conversations for all 5 reports
 - Actively participates in technical design and architecture discussions with Eli and the lab's data scientists — evaluating options (e.g. whether to shift Beiwe to a unified app architecture/React), data compression approaches, and ML-parameter/processing-efficiency-vs-statistical-accuracy tradeoffs (e.g. deciding how to make the Forest "Jasmine" circadian-rhythm metric computationally efficient enough to enable by default without sacrificing accuracy). Understands these at a working technical level and helps weigh platform-wide/user-need implications; typically defers final implementation calls to Eli and does not do code review
 - Coordinates between biostatisticians and engineering on a Sparse Online Gaussian Process (SOGP) GPS imputation model — defines feature/platform requirements and makes tradeoff calls (e.g. processing time vs. measurement accuracy) without personally writing or deploying the ML code
-- Directs operations of the Beiwe Service Center (BSC), a SaaS offering: costing models, financial reporting (with Financial Associates and central finance administrators), contracting, and IRB management for external investigators
+- Owns full commercial and partnership lifecycle for the Beiwe Service Center (BSC): pricing/costing models, data-use-agreement and MOU negotiation, budgeting and revenue projections, and marketing/website management for ~50 personally-managed studies (BSC has contracted with roughly 70-80 distinct external institutions total across 118 studies run); reports usage and financial performance monthly at Center finance meetings, in annual financial reviews with Harvard's central finance administrators, and annually to Harvard's RPAC (Research Program Advisory Committee), which evaluates research cores on usage and financial performance
 - Ran platform operations for a pharma-sponsored engagement with Boehringer-Ingelheim, which used Beiwe to produce a secondary endpoint for a clinical trial: coordinated data transfer, data security and data use agreements, and operated the platform for the study; drafted the final report of record when the trial was cut short
-- Led requirements definition and cross-functional coordination for the "Heartbeat" feature (device/data-upload health tracking), from problem identification through implementation
+- Scopes and negotiates platform capabilities directly with partner institutions: led requirements definition and cross-functional coordination for the "Heartbeat" feature and an iOS survey-reminder feature, coordinated Tableau dashboards and custom diagnostic/profiling scripts, and worked with an external partner to contribute a wearable-ring integration to the platform's open-source repository; also coordinates code contributions from partner-institution engineers and independent open-source developers, and tracks emerging device/sensor capabilities to inform roadmap direction
 - Handles IRB consultation, data-sharing and privacy oversight, and manuscript/grant preparation support
+
+**Positioning notes for partnerships/BD-framed roles (e.g. WHOOP Director, Healthcare Product Partnerships):**
+- Beiwe itself has never integrated with an EHR system. A partner institution's team in Singapore independently built an EHR integration on top of the open-source platform and demoed it informally; there was no formal agreement and no BSC involvement in building it. Useful as a talking point about the platform's extensibility, not as a claim of an EHR-integration partnership.
+- A separate clinical trial with M.T. Pharma used the Beiwe platform, but Hassan had virtually no personal involvement in it — do not cite this as a second pharma engagement.
+- GitHub open-source contributors to Beiwe are a mix of partner-institution engineers (usually contributing a feature their study needed) and independent open-source developers with no institutional tie.
 
 ### Head of Product - Health+, MIT delta V Accelerator (May 2024 - Aug 2024)
 Part-time · New York City Metropolitan Area, Hybrid
@@ -62,7 +69,7 @@ Part-time · New York City Metropolitan Area, Hybrid
 ### Data Analytics and Reporting Manager - Brigham and Women's Hospital (Sep 2021 - Oct 2022)
 Departments of Neurosurgery & Psychiatry | Boston, MA
 - Provided data reporting and analytics to finance, business development, revenue cycle, clinical, and research teams across Mass General Brigham
-- Built end-to-end data pipelines and ETL flows; developed data warehouses/lakes combining clinical and billing data using SQL, Python, R, Tableau, RedCap, Access
+- Built end-to-end data pipelines and ETL flows; developed data warehouses/lakes combining clinical and billing data using SQL, Python, R, Tableau, RedCap, Access, including large-scale Epic EHR chart extraction and pulls from Mass General Brigham's Research Patient Data Registry (RPDR) and Epic Enterprise Data Warehouse (EDW) (up to ~2,000 participants per study; institution-wide pulls in the thousands)
 - Analyzed scheduling, patient/provider experience, clinical resource usage, billing, and demographic data; presented recommendations to hospital leadership
 - Managed and cross-trained work teams, mentored junior staff
 
@@ -148,7 +155,12 @@ Department of Obstetrics and Gynecology | Boston, MA
 - **Experience with:** R, AWS, Git, GraphPad PRISM, Redivis
 
 ## Publications
-<!-- 30 peer-reviewed publications total (20 from CNOC/neurosurgery, 10+ from women's health/OB-GYN). Full CNOC list below; women's-health list in documents/hassan_dawood_master_career_profile.md -->
+<!-- 30 peer-reviewed publications total (20 from CNOC/neurosurgery, 10+ from women's health/OB-GYN), PLUS 1 manuscript in revision at JOSS (not counted in the 30 - do not merge these numbers). Full CNOC list below; women's-health list in documents/hassan_dawood_master_career_profile.md -->
+
+**Positioning note: always state the 30+ peer-reviewed publication count somewhere prominent (profile statement / cover-letter opening, not just the Publications section footer) - not just buried at the bottom. Where a role benefits from the women's-health subset (10+), state both: "30+ peer-reviewed publications, including 10+ in women's health." Never let the women's-health framing stand alone without the fuller total nearby.**
+
+**In revision (submitted, not yet accepted - do not count toward the 30 peer-reviewed total or call this "published"):**
+- Dawood HY, et al (JP Onnela lab). "Forest: A data analysis library for raw high-throughput digital phenotyping data." Submitted to the *Journal of Open Source Software (JOSS)*; currently in revision rounds with the journal (as of 2026-08-12). Forest is the Onnela Lab's Python library that turns raw smartphone/wearable sensor data into meaningful summary metrics (the same library behind the Beiwe platform's "Jasmine" circadian-rhythm metric referenced elsewhere in this profile). Hassan's contribution: manages the library's code development, formal version control and release process, PyPI packaging and release, and GitHub management of the paper/submission; personally wrote part of the manuscript and managed its citations; drove the use-case definition, testing, and documentation underlying the library. Cite as "co-author, in revision" - never as a completed/accepted publication.
 
 **Digital health / AI-relevant (lead with these on digital-health and AI-adjacent roles):**
 1. Siddi F, Emedom-Nnamdi P, Catalino MP, Rana A, Boaro A, Dawood HY, et al (2025). A Digital Phenotypic Assessment in Neuro-Oncology (DANO): A Pilot Study on Sociability Changes in Patients Undergoing Treatment for Brain Malignancies. *Cancers.* 17(1).

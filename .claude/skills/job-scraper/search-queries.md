@@ -32,7 +32,18 @@ site:linkedin.com/jobs "Product Manager" "digital phenotyping" OR "digital bioma
 "Senior Product Manager" OR "Staff Product Manager" site:oura.com OR site:whoop.com OR site:verily.com
 ```
 
-### Priority 2: Digital Biomarker / Clinical Innovation (Pharma)
+### Priority 2: Director-Level Healthcare Partnerships / Business Development
+
+Added 2026-08-12 after evaluating WHOOP's "Director, Healthcare Product Partnerships" posting — Hassan's Beiwe Service Center (BSC) work (pricing/DUA/MOU negotiation across ~50 institutions, budgeting/revenue projections, RPAC-committee reporting) already functions at this level. This is a deliberate Director-level carve-out — see [[project-career-strategy-sequencing]] memory — distinct from the still-deferred Director/Head of *Product Strategy* search.
+
+```
+site:linkedin.com/jobs "Director" "Healthcare Partnerships" OR "Healthcare Product Partnerships" Boston OR remote
+site:linkedin.com/jobs "Director" "Digital Health Partnerships" OR "Business Development" health Boston
+"Director, Partnerships" OR "Director, Business Development" "digital health" site:oura.com OR site:whoop.com OR site:verily.com
+site:linkedin.com/jobs "Director" "Academic Medical Center" partnerships digital health
+```
+
+### Priority 3: Digital Biomarker / Clinical Innovation (Pharma)
 
 These match domain expertise in digital phenotyping, clinical research operations, and IRB/compliance.
 
@@ -42,7 +53,7 @@ site:linkedin.com/jobs "Digital Health Product Owner" OR "Digital Strategy" Sano
 "Digital Biomarker Operational Lead" OR "Digital Biomarker Innovation" site:sanofi.com OR site:takeda.com OR site:amgen.com
 ```
 
-### Priority 3: Research Program Manager / Health Tech Adjacent
+### Priority 4: Research Program Manager / Health Tech Adjacent
 
 Adjacent roles Hassan could pivot into, given research operations and platform leadership background.
 
@@ -52,7 +63,7 @@ site:linkedin.com/jobs "Healthcare Innovation Strategy" OR "Connected Health" Bo
 site:linkedin.com/jobs "Clinical Innovation Manager"
 ```
 
-### Priority 4: Healthcare Strategy / Advisory (Broader Net)
+### Priority 5: Healthcare Strategy / Advisory (Broader Net)
 
 Wider net for consulting/advisory roles in digital health and life sciences.
 
