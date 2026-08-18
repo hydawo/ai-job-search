@@ -3640,6 +3640,51 @@
       "fit": "medium",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://careers.myomo.com/postings/896b5b5a-6500-4131-b4ef-30f97fadc9ac": {
+      "title": "Sr. Project Manager - Mobile App (Contract)",
+      "company": "Myomo",
+      "url": "https://careers.myomo.com/postings/896b5b5a-6500-4131-b4ef-30f97fadc9ac",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Director--Business-Development_R-276457": {
+      "title": "Director, Healthcare Strategy & Commercialization",
+      "company": "Mastercard",
+      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Director--Business-Development_R-276457",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://nucsai.recruitee.com/o/partnership-director": {
+      "title": "Partnership Director",
+      "company": "Nucs AI",
+      "url": "https://nucsai.recruitee.com/o/partnership-director",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/morristown/digital-product-owner-digital-biomarkers-and-endpoints/2649/36492844800": {
+      "title": "Digital Product Owner - Digital Biomarkers & Endpoints",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/morristown/digital-product-owner-digital-biomarkers-and-endpoints/2649/36492844800",
+      "first_seen": "2026-08-18",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://startup.jobs/senior-product-manager-ouraring-3985561": {
+      "title": "Senior Product Manager, Partnerships",
+      "company": "Oura",
+      "url": "https://startup.jobs/senior-product-manager-ouraring-3985561",
+      "first_seen": "2026-08-18",
+      "fit": "high",
+      "status": "expired",
+      "portal": "WebSearch"
     }
   }
 }
