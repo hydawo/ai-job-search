@@ -27,6 +27,12 @@ Before writing anything new:
 
 If nothing from the session clears that bar, say so explicitly rather than writing a low-value memory just to have written one.
 
+**Vault check (session_close.md phase 2b) — two parts, two bars:**
+- **`../brainiac/activity/ai_job_search.md` (routine, low bar):** update with what's currently being worked on — which kind of role/target is being pursued, general application-cycle status — sanitized (no specific company names or candidate-identifying tailoring choices unless the user has confirmed those are fine to note; usually "drafting applications for X-type roles" level of detail is enough).
+- **`../brainiac/patterns/` or `../brainiac/conventions/` (rare, narrow bar):** if a session surfaces something genuinely reusable across projects — a recurring interview-prep pattern, a phrasing approach worth remembering beyond this specific application — log it there.
+
+Candidate-specific facts (this application's tailoring choices, this company's requirements) never qualify for either; those stay in this project's own memory or `job_search_tracker.csv`. Apply the writeup skill's privacy filter to both targets.
+
 ## Phase 3 — Git commit and push
 
 Run `git status --short`. `.gitignore` already protects personal data (tailored CVs/cover letters, `job_search_tracker.csv`, compiled PDFs, everything under `documents/` except `README.md`), so anything git shows here is expected to be safe to version — but verify that assumption every run, don't just trust it blindly.
@@ -57,6 +63,10 @@ Pushed to [remote]/[branch] — or: "Nothing to commit, working tree matched las
 ### Memory updated
 - [New/updated memory file] — [one-line reason]
 (or: "Nothing new met the bar for persistent memory this session.")
+
+### Vault
+- Activity: [brainiac/activity/ai_job_search.md updated — one-line summary, or "skipped"]
+- Conventions/patterns: [file touched — one-line reason, or "nothing cross-project this session"]
 
 ### Handoff
 Saved to `.claude/session-logs/[file].md`

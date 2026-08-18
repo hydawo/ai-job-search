@@ -227,7 +227,7 @@ When voice is appropriate, avoid uniform sentence structures, bloodless neutrali
 
 ### 14. Em Dashes (and En Dashes): Cut Them
 
-**Rule:** see the shared convention at [`../../../../brainiac/conventions/no-em-dashes.md`](../../../../brainiac/conventions/no-em-dashes.md) for the full rule, replacement priority, and before/after examples. Summary: no em/en dashes anywhere in the final rewrite, including quote attributions; catch spaced em dashes and double-hyphen lookalikes too.
+**Rule:** see the shared convention at [`../../../../brainiac/conventions/writing-style.md`](../../../../brainiac/conventions/writing-style.md) for the full rule, replacement priority, and before/after examples. Summary: no em/en dashes anywhere in the final rewrite, including quote attributions; catch spaced em dashes and double-hyphen lookalikes too.
 
 **This project's exception:** CVs and cover letters here are `.tex` source, where a double hyphen ` -- ` typesets as an en-dash and shows up used exactly like an em-dash-style aside ("...20+ studies -- direct experience with the compliance rigor..."). Treat that usage exactly like a literal em dash and fix it the same way (period/comma/colon/parentheses). This is different from a genuine numeric or date range in LaTeX source, like `2019--2021` or `pp. 45--52`, which is the correct, idiomatic use of `--` and should be left alone. The tell is whether it's separating two independent clauses/asides (fix it) versus joining two numbers in a range (leave it).
 
