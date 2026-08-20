@@ -3685,6 +3685,42 @@
       "fit": "high",
       "status": "expired",
       "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/product-owner-digital-health-us/2649/27426422848": {
+      "title": "Product Owner, Digital Health US",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/product-owner-digital-health-us/2649/27426422848",
+      "first_seen": "2026-08-20",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.careers.jnj.com/en/jobs/r-037220/senior-director-rd-data-science-digital-health-ophthalmology/": {
+      "title": "Senior Director, R&D Data Science & Digital Health - Ophthalmology",
+      "company": "Johnson & Johnson Innovative Medicine",
+      "url": "https://www.careers.jnj.com/en/jobs/r-037220/senior-director-rd-data-science-digital-health-ophthalmology/",
+      "first_seen": "2026-08-20",
+      "fit": "low",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://www.builtinboston.com/job/senior-manager-digital-product/8698229": {
+      "title": "Senior Manager - Digital Product",
+      "company": "CVS Health",
+      "url": "https://www.builtinboston.com/job/senior-manager-digital-product/8698229",
+      "first_seen": "2026-08-20",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://jobs.biospace.com/job/3061235/gra-device-associate-digital-health/?TrackID=22": {
+      "title": "GRA Device Associate - Digital Health",
+      "company": "Sanofi",
+      "url": "https://jobs.biospace.com/job/3061235/gra-device-associate-digital-health/?TrackID=22",
+      "first_seen": "2026-08-20",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
     }
   }
 }
