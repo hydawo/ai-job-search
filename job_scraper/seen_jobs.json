@@ -3728,8 +3728,11 @@
       "url": "https://jobs.lever.co/whoop/fd3ea49a-28a0-4713-8c71-fab73189e188",
       "first_seen": "2026-08-21",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "ranked",
+      "portal": "WebSearch",
+      "rank_score": 62.4,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-08-21"
     },
     "https://jobs.lever.co/whoop/d979fed4-59b5-430b-8341-3c536201f1ae": {
       "title": "VP, Healthcare GTM",
