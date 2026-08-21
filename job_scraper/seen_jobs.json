@@ -3814,6 +3814,18 @@
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/4444954671/": {
+      "title": "Senior Product Manager, Growth - Retention",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/4444954671/",
+      "first_seen": "2026-08-21",
+      "fit": "low",
+      "status": "ranked",
+      "portal": "user-provided",
+      "rank_score": 35.3,
+      "rank_verdict": "Weak Fit",
+      "rank_date": "2026-08-21"
     }
   }
 }
