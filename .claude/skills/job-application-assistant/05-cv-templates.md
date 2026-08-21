@@ -116,6 +116,14 @@ Per candidate instruction, these roles always appear on every tailored CV, regar
 
 When all five plus a role-specific addition would overflow the 2-page limit, trim bullet counts per role (2 bullets for older/shorter roles is acceptable) before dropping one of these five entirely — check with the candidate before cutting any of them.
 
+### Mandatory metric: the HeartBeat data-completion gain
+
+Per candidate instruction (2026-08-20), the HeartBeat feature metric must appear on **every** CV, not just wearables/digital-health-targeted ones — it is the strongest quantified, attributable achievement in the profile. Include it as both a Core Competencies bullet and a Beiwe-role Professional Experience bullet (as in `cv/dawood_cv_oura_seniorpm_hearthealth.tex`, the reference implementation). Use the verified framing from career memory, never any earlier informal figure:
+- **"+7-8 percentage points"** platform-wide data-collection completion gain, never "20%" or "+X% improvement"
+- **"Directed the build of"** — never "built" (an engineer implemented it under Hassan's direction)
+- Cite the all-time platform completeness record (94.47%) as supporting detail when space allows
+- If the 2-page limit is tight, this bullet outranks the AI-Enabled Product Workflows competency bullet and a second bullet on secondary roles (Health+, Phebe) in the relevance-weighted cutting order — cut those first, not this.
+
 ## Section-by-Section Tailoring
 
 ### Profile Statement / Elevator Pitch (Best Practice)
@@ -200,6 +208,7 @@ If there is a gap in your employment history:
 - Include Google Scholar link if applicable
 - Select 3-4 most relevant publications (not always all of them)
 - For non-academic roles, keep brief
+- **The Forest/JOSS paper is listed first, always**, whenever it's one of the selected publications. Still cite it exactly as "co-author, in revision" (never as completed/accepted) — this changes ordering only, not the in-revision framing. See `01-candidate-profile.md`'s Publications section.
 
 ### Evidence Links
 Wherever the CV names a verifiable artifact - a public project, a hackathon entry, a publication - carry its link (`\href`) so a reader can verify the claim in one click. A CV whose strongest claims are checkable reads as more credible everywhere else too.

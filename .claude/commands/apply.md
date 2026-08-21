@@ -303,11 +303,16 @@ Summarize 3-5 key decisions made to tailor the application:
 - Any gaps that were acknowledged or reframed
 
 ### Files Created
-List the files written:
-- `cv/dawood_cv_<company>_<role><CV_EXT>`
-- `cover_letters/dawood_cover_<company>_<role><COVER_EXT>`
+Hand off the **compiled PDFs**, not the source files — the `.tex`/source file does not open or render in the Claude Code desktop app, so it is not a usable hand-off target even with a correct absolute path. State each PDF's absolute file path as **plain text** (not a markdown link href), so the user can jump straight to it in Finder:
+- `/Users/hydawo/Downloads/Claude Code/ai_job_search/cv/dawood_cv_<company>_<role>.pdf`
+- `/Users/hydawo/Downloads/Claude Code/ai_job_search/cover_letters/dawood_cover_<company>_<role>.pdf`
 
-Tell the user: "Both files are ready for your review. Open them to check the final output before compiling."
+(Source files, for reference only, not as the hand-off: `cv/dawood_cv_<company>_<role><CV_EXT>` and `cover_letters/dawood_cover_<company>_<role><COVER_EXT>`.)
+
+### Application Link
+Always include the job posting URL (from Step 0), and the actual application-portal URL instead if the posting was fetched through a portal or one is already known. Never omit this even if it was mentioned earlier in the conversation — the Step 6 hand-off is what the user acts on.
+
+Tell the user: "Both PDFs are ready for your review at the paths above."
 
 ### Application-Form Fields (Optional Third Artifact)
 
