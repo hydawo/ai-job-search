@@ -4312,6 +4312,51 @@
       "fit": "low",
       "status": "expired",
       "portal": "WebSearch"
+    },
+    "https://job-boards.greenhouse.io/oura/jobs/4029675009": {
+      "title": "Staff Product Manager, Health Risk Detection",
+      "company": "Oura",
+      "url": "https://job-boards.greenhouse.io/oura/jobs/4029675009",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/41b460d3-d492-4dc4-8cb5-2b4da8d11b53": {
+      "title": "Business Analytics Manager (Healthcare Product)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/41b460d3-d492-4dc4-8cb5-2b4da8d11b53",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://apply.workable.com/oura-health-ltd/j/7DBE5BA876": {
+      "title": "[UNVERIFIED] Director of Technical Program Management, Core Application",
+      "company": "Oura",
+      "url": "https://apply.workable.com/oura-health-ltd/j/7DBE5BA876",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-ii-connectivity-and-embedded-systems-at-whoop-4208193995": {
+      "title": "[UNVERIFIED] Product Manager II (Connectivity and Embedded Systems)",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-ii-connectivity-and-embedded-systems-at-whoop-4208193995",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/digital-product-owner-patient-find-and-diagnose/2649/22679880448": {
+      "title": "Digital Product Owner – Patient Find and Diagnose",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/digital-product-owner-patient-find-and-diagnose/2649/22679880448",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
     }
   }
 }
