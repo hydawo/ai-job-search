@@ -109,6 +109,14 @@ Does this role advance career goals and contain tasks that energize?
 - **Flexibility**: No relocation. Remote OK with <20% travel; hybrid OK if Boston/Cambridge-based
 - **Professional development**: Building toward Director/VP-level digital health product leadership; target companies include Oura, WHOOP, Verily, Apple, Sanofi, Takeda, Amgen, Boston Children's Hospital, Abridge
 
+**VC-track signal (note, not scored):** Health-tech VC is Hassan's fastest, most-guaranteed route to his comp goal — faster than the operator/CPO track alone, and confirmed 2026-08-21 as an actively, directly searched-for parallel objective (not just an opportunistic flag). Full context: `../../../venture_capital_path.md`. Flag a posting as VC-track if it matches:
+- **Fastest lane:** the role is directly at a healthtech-focused VC fund itself (Principal, Venture Partner, Platform, EIR, scout, or similar — any seniority), or is an explicit scout/EIR program
+- The employer has a corporate venture arm the role plausibly feeds into (e.g. CVS Health Ventures directly; Sanofi Ventures, Amgen Ventures, Takeda Ventures via internal mobility from a digital health/digital biomarker product role)
+- The employer is a healthcare/life-sciences consulting practice (McKinsey, BCG, KPMG, or similar) doing commercial/diligence-style work — the classic consulting-to-healthcare-VC route
+- The role is a generalist strategy/ops/finance seat (traditional finance-to-VC analog) at a well-funded, investor-backed startup, structured as a rotational or springboard program rather than a permanent generalist seat — weaker and slower than the other lanes, but worth surfacing even outside the primary digital-health-product search criteria
+
+None of these require product-management content to qualify — a role's relevance to this goal is not gated on PM scope. Note the flag and rationale in the evaluation output; it does not change the numeric score. Search for these roles actively and directly (per venture_capital_path.md's 2026-08-21 update), running alongside — not replacing — the primary digital-health product/strategy search.
+
 **Common perceived gaps (positioning issues, not always true gaps):**
 - Lack of a formal consumer PM title in some roles — mitigate by framing platform work as product work
 - Lack of formal FDA submission ownership — mitigate by stressing IRB/data-privacy/regulated-data experience as an analog
@@ -155,6 +163,8 @@ Present the evaluation as:
 **Overall Score: XX/100** (weighted average of scored dimensions)
 
 ### Verdict: [Strong Fit / Good Fit / Moderate Fit / Weak Fit / Poor Fit]
+
+**VC-track:** [Yes — reason / No]
 
 ### Key Strengths for This Role
 - [bullet points]

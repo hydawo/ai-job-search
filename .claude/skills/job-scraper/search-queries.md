@@ -73,6 +73,19 @@ site:linkedin.com/jobs "Healthcare Data & Analytics" OR "Clinical Transformation
 "Senior Associate" OR "Vantage Manager" "digital health" site:cvshealth.com OR site:bcg.com
 ```
 
+### Priority 6: Venture Capital & VC Stepping Stones (Health-Tech)
+
+Added 2026-08-21: health-tech VC is now Hassan's fastest, most-guaranteed route to his comp goal, actively and directly searched — not just flagged opportunistically when it surfaces elsewhere. Full context: `../../../venture_capital_path.md`. These do not need to touch product management to qualify — run this category independent of Priority 1-5 fit, not as a subset of it.
+
+```
+site:linkedin.com/jobs "Principal" OR "Venture Partner" OR "Platform" health tech venture capital
+site:linkedin.com/jobs "EIR" OR "Entrepreneur in Residence" OR "Scout" healthcare venture
+"Venture Partner" OR "Principal" OR "Platform" site:rockhealth.com OR site:406ventures.com OR site:defineventures.com OR site:oakhcft.com
+site:linkedin.com/jobs "Corporate Venture" OR "Strategic Venture" health tech OR pharma
+"Director" OR "Principal" "Ventures" site:cvshealth.com OR site:sanofi.com OR site:takeda.com OR site:amgen.com
+site:linkedin.com/jobs "Strategy" OR "Operations" "Manager" health tech startup Series B OR "Series C" OR "Series D"
+```
+
 ## Location Filter
 
 When evaluating results, verify the job location matches these constraints. **Hard constraint: no relocation.**

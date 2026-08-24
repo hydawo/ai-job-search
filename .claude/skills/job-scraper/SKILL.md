@@ -113,6 +113,8 @@ For each new job, do a rapid fit check (NOT the full evaluation from `04-job-eva
 - **Medium match**: Role is adjacent to your experience
 - **Low match**: Role requires significant skills you lack
 
+**VC-track postings need one extra check before tagging High.** A fund/CVC/venture-facing title is not sufficient signal on its own — "Principal at a venture fund" can mean a classic deal-execution seat (sourcing, term sheets, financial modeling — the pedigree gap you don't have) just as easily as a domain-diligence seat. Before tagging a VC-track posting High, skim past the title for two things: (1) does the required background name VC/growth-equity/IB years-of-experience as a hard requirement, and (2) does the fund's stated portfolio/thesis actually overlap your niche (digital phenotyping, wearables, digital biomarkers, passive sensing)? If either check fails, cap it at Medium and note the mismatch in the highlight — don't let title-and-employer alone drive a High tag. (Learned 2026-08-21 from NYBC Ventures: tagged High from title/location, scored 28/100 Poor Fit on full evaluation because it required 7 years of direct VC/IB deal experience and invested in hematology/cell therapy, not your domain.)
+
 ### Step 4: Deduplicate & Store
 
 1. Add ALL fetched jobs (new and skipped) to `seen_jobs.json` with structure:
