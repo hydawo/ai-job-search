@@ -1553,8 +1553,8 @@
       "title": "Sr. Product Manager, Clinical Biomarker Systems",
       "company": "Moderna",
       "url": "https://modernatx.wd1.myworkdayjobs.com/en-US/m_tx/job/Norwood-Massachusetts/Sr-Product-Manager--Clinical-Biomarker-Systems_R19015-1/apply/applyManually",
-      "first_seen": "2026-08-07",
-      "fit": "high",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
       "status": "expired",
       "portal": "WebSearch"
     },
@@ -1724,7 +1724,7 @@
       "title": "Digital Biomarker Clinical Integration Lead",
       "company": "Roche",
       "url": "https://ch.linkedin.com/jobs/view/digital-biomarker-clinical-integration-lead-at-roche-4096795669",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3708,7 +3708,7 @@
       "title": "Software Engineer, Digital Biomarkers",
       "company": "Verily",
       "url": "https://www.linkedin.com/jobs/view/software-engineer-digital-biomarkers-at-verily-3776513382",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3717,25 +3717,25 @@
       "title": "Senior Director of Academic Partnerships",
       "company": "Orlando Health",
       "url": "https://www.linkedin.com/jobs/view/senior-director-of-academic-partnerships-at-orlando-health-4329907049",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
-      "status": "expired",
+      "status": "skipped",
       "portal": "WebSearch"
     },
     "https://ch.linkedin.com/jobs/view/senior-project-manager-digital-biomarker-solutions-f-m-d-at-careeraddict-4047868226": {
       "title": "Senior Project Manager - Digital Biomarker Solutions (f/m/d)",
-      "company": "CareerAddict (mirror)",
+      "company": "CareerAddict (client unnamed)",
       "url": "https://ch.linkedin.com/jobs/view/senior-project-manager-digital-biomarker-solutions-f-m-d-at-careeraddict-4047868226",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
     },
     "https://ch.linkedin.com/jobs/view/senior-project-manager-digital-biomarkers-at-hobson-prior-4049321124": {
       "title": "Senior Project Manager - Digital Biomarkers",
-      "company": "Hobson Prior (mirror)",
+      "company": "Hobson Prior",
       "url": "https://ch.linkedin.com/jobs/view/senior-project-manager-digital-biomarkers-at-hobson-prior-4049321124",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3760,9 +3760,9 @@
     },
     "https://ch.linkedin.com/jobs/view/digital-biomarker-scientist-m-f-d-at-work-selection-4022115504": {
       "title": "Digital Biomarker Scientist (m/f/d)",
-      "company": "Work Selection",
+      "company": "Work Selection (for Roche)",
       "url": "https://ch.linkedin.com/jobs/view/digital-biomarker-scientist-m-f-d-at-work-selection-4022115504",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3771,7 +3771,7 @@
       "title": "Digital Biomarker Data Scientist (6184)",
       "company": "CTC Resourcing Solutions AG",
       "url": "https://ch.linkedin.com/jobs/view/digital-biomarker-data-scientist-6184-at-ctc-resourcing-solutions-ag-4055938686",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3789,7 +3789,7 @@
       "title": "mySugr Digital Biomarker Data Scientist (m/f/d)",
       "company": "Roche",
       "url": "https://at.linkedin.com/jobs/view/mysugr-digital-biomarker-data-scientist-m-f-d-at-roche-4088302940",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3798,7 +3798,7 @@
       "title": "DA&R Digital Biomarker Data Scientist",
       "company": "Roche",
       "url": "https://ch.linkedin.com/jobs/view/da-r-digital-biomarker-data-scientist-at-roche-3964846106",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3807,7 +3807,7 @@
       "title": "Head of Digital Partnerships & Innovation_All Genders",
       "company": "Sanofi",
       "url": "https://fr.linkedin.com/jobs/view/head-of-digital-partnerships-innovation-all-genders-at-sanofi-3702883859",
-      "first_seen": "2026-08-16",
+      "first_seen": "2026-08-22",
       "fit": "low",
       "status": "skipped",
       "portal": "WebSearch"
@@ -3951,8 +3951,8 @@
       "title": "Senior Manager - Digital Product",
       "company": "CVS Health",
       "url": "https://www.builtinboston.com/job/senior-manager-digital-product/8698229",
-      "first_seen": "2026-08-20",
-      "fit": "medium",
+      "first_seen": "2026-08-22",
+      "fit": "low",
       "status": "expired",
       "portal": "WebSearch"
     },
@@ -4567,6 +4567,186 @@
       "fit": "low",
       "status": "new",
       "portal": "linkedin-search"
+    },
+    "https://www.jobleads.com/us/job/medtech-m-a-partnerships-director--boston--e4c3192677d66497fd4bf70f74658e1f7": {
+      "title": "MedTech M&A & Partnerships Director",
+      "company": "Olympus",
+      "url": "https://www.jobleads.com/us/job/medtech-m-a-partnerships-director--boston--e4c3192677d66497fd4bf70f74658e1f7",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.theladders.com/job/partnership-director-astrazeneca-boston-ma_86918461": {
+      "title": "Partnership Director",
+      "company": "AstraZeneca",
+      "url": "https://www.theladders.com/job/partnership-director-astrazeneca-boston-ma_86918461",
+      "first_seen": "2026-08-22",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/medical-director-at-partnership-health-center-4424225430": {
+      "title": "Medical Director",
+      "company": "Partnership Health Center",
+      "url": "https://www.linkedin.com/jobs/view/medical-director-at-partnership-health-center-4424225430",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.entertainmentcareers.net/she-media/director-of-healthcare-partnerships/job/517101/": {
+      "title": "Director of Healthcare Partnerships",
+      "company": "SHE Media",
+      "url": "https://www.entertainmentcareers.net/she-media/director-of-healthcare-partnerships/job/517101/",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.higheredjobs.com/executive/details.cfm?JobCode=179371760": {
+      "title": "Senior Director, Healthcare Partnerships",
+      "company": "WGU Leavitt School of Health",
+      "url": "https://www.higheredjobs.com/executive/details.cfm?JobCode=179371760",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://ca.linkedin.com/jobs/view/digital-strategy-lead-at-sanofi-4435184309": {
+      "title": "Digital Strategy Lead",
+      "company": "Sanofi",
+      "url": "https://ca.linkedin.com/jobs/view/digital-strategy-lead-at-sanofi-4435184309",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/head-of-food-at-sanofi-3804743304": {
+      "title": "Head of Food",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/head-of-food-at-sanofi-3804743304",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.takeda.com/job/cambridge/director-translational-biomarker-lead-inflammation-ibd/1113/78837322624": {
+      "title": "Director, Translational Biomarker Lead, Inflammation/IBD",
+      "company": "Takeda",
+      "url": "https://jobs.takeda.com/job/cambridge/director-translational-biomarker-lead-inflammation-ibd/1113/78837322624",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://careers.amgen.com/en/job/hyderabad/scientist-biomarker-analysis/87/94702602176": {
+      "title": "Scientist, Biomarker Analysis",
+      "company": "Amgen",
+      "url": "https://careers.amgen.com/en/job/hyderabad/scientist-biomarker-analysis/87/94702602176",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://careers.amgen.com/en/job/washington-d-c/precision-medicine-global-biomarker-lead-rare-disease/87/97451502960": {
+      "title": "Precision Medicine Global Biomarker Lead, Rare Disease",
+      "company": "Amgen",
+      "url": "https://careers.amgen.com/en/job/washington-d-c/precision-medicine-global-biomarker-lead-rare-disease/87/97451502960",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://careers.amgen.com/en/job/washington-d-c/precision-medicine-global-biomarker-lead-gbl/87/93815200080": {
+      "title": "Precision Medicine Global Biomarker Lead (GBL)",
+      "company": "Amgen",
+      "url": "https://careers.amgen.com/en/job/washington-d-c/precision-medicine-global-biomarker-lead-gbl/87/93815200080",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://builtin.com/job/product-manager/6732167": {
+      "title": "Product Manager",
+      "company": "Everlywell",
+      "url": "https://builtin.com/job/product-manager/6732167",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://www.themuse.com/jobs/meta/product-marketing-manager-wearables-experiences-cf8b82": {
+      "title": "Product Marketing Manager, Wearables Experiences",
+      "company": "Meta",
+      "url": "https://www.themuse.com/jobs/meta/product-marketing-manager-wearables-experiences-cf8b82",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://jobs.apple.com/en-us/details/200654235-3715/product-marketing-manager-wearables-apple-watch-airpods": {
+      "title": "Product Marketing Manager - Wearables (Apple Watch & AirPods)",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200654235-3715/product-marketing-manager-wearables-apple-watch-airpods",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://bebee.com/us/jobs/senior-product-manager-wearable-devices-google-mountain-view-ca--theirstack-670246855": {
+      "title": "Senior Product Manager, Wearable Devices",
+      "company": "Google",
+      "url": "https://bebee.com/us/jobs/senior-product-manager-wearable-devices-google-mountain-view-ca--theirstack-670246855",
+      "first_seen": "2026-08-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "WebSearch"
+    },
+    "https://job-boards.greenhouse.io/oura/jobs/4029675009": {
+      "title": "Staff Product Manager, Health Risk Detection",
+      "company": "Oura",
+      "url": "https://job-boards.greenhouse.io/oura/jobs/4029675009",
+      "first_seen": "2026-08-23",
+      "fit": "high",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.lever.co/whoop/41b460d3-d492-4dc4-8cb5-2b4da8d11b53": {
+      "title": "Business Analytics Manager (Healthcare Product)",
+      "company": "WHOOP",
+      "url": "https://jobs.lever.co/whoop/41b460d3-d492-4dc4-8cb5-2b4da8d11b53",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://apply.workable.com/oura-health-ltd/j/7DBE5BA876": {
+      "title": "[UNVERIFIED] Director of Technical Program Management, Core Application",
+      "company": "Oura",
+      "url": "https://apply.workable.com/oura-health-ltd/j/7DBE5BA876",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-ii-connectivity-and-embedded-systems-at-whoop-4208193995": {
+      "title": "[UNVERIFIED] Product Manager II (Connectivity and Embedded Systems)",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-ii-connectivity-and-embedded-systems-at-whoop-4208193995",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "new",
+      "portal": "WebSearch"
+    },
+    "https://jobs.sanofi.com/en/job/cambridge/digital-product-owner-patient-find-and-diagnose/2649/22679880448": {
+      "title": "Digital Product Owner \u2013 Patient Find and Diagnose",
+      "company": "Sanofi",
+      "url": "https://jobs.sanofi.com/en/job/cambridge/digital-product-owner-patient-find-and-diagnose/2649/22679880448",
+      "first_seen": "2026-08-23",
+      "fit": "medium",
+      "status": "expired",
+      "portal": "WebSearch"
     }
   }
 }
