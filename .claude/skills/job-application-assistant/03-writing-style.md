@@ -6,7 +6,7 @@ framework_version: 1.1.0
 
 ## Critical Rules
 
-1. **NO em-dashes (--).**  Use commas, periods, or restructure the sentence instead.
+1. **NO em-dashes (--).**  Use commas, periods, or restructure the sentence instead. This includes stacked hyphenated compound chains (3+ words strung together with hyphens, e.g. "wellness-versus-regulated-data") — they're the same AI-writing tell as an em-dash under different punctuation. Rewrite as a plain phrase.
 2. **NO cliches or filler phrases.** Cut: "I am passionate about", "I believe I would be a great fit", "leverage my skills", "hit the ground running", "drive results", "synergies".
 3. **NO generic buzzwords** without concrete backing. Every claim must be supported by a specific example or fact.
 4. **NO apologetic or overly humble language.** Not "I think I could contribute" but "I bring X, demonstrated by Y."

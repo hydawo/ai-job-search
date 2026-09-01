@@ -111,6 +111,7 @@ After creating or updating a CV or cover letter, re-read the generated file and 
 - [ ] No contradictions between CV and cover letter content
 
 ### Quality
+- [ ] Full re-read against `03-writing-style.md`'s Critical Rules (not just a literal `--` search) — this includes stacked hyphenated compound chains like "wellness-versus-regulated-data" (same AI-writing tell as an em-dash), cliches, and unprompted gap-acknowledgment language for qualifications the posting never actually required
 - [ ] No LaTeX syntax errors (balanced braces, correct commands)
 - [ ] No spelling or grammar errors
 - [ ] Agentic coding / AI tooling references mention **Claude Code** by name

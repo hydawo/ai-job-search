@@ -167,6 +167,8 @@ These four elements form a larger, distinctive narrative. Don't force all four i
 
 ## Checklist Before Finalizing
 - [ ] No em-dashes (use commas or periods instead)
+- [ ] No stacked hyphenated compound chains (3+ words strung together with hyphens, e.g. "wellness-versus-regulated-data") — same AI-writing tell as an em-dash even though the punctuation differs. Rewrite as a plain phrase ("the line between wellness and regulated data").
+- [ ] No unprompted gap-acknowledgment ("I have not worked with X," "I lack Y experience") unless X/Y is an explicit *required* qualification in the posting. If the posting only asks for the ability to coordinate with a function (not hands-on experience in it), don't volunteer the gap — it concedes something that was never being asked for and reads apologetic (violates writing-style.md rule 4).
 - [ ] No cliches or empty filler
 - [ ] Every claim backed by specific example
 - [ ] Forward-looking framing: focuses on tasks you'll solve, not just past duties

@@ -10,6 +10,17 @@ Pre-digested career framing for real work done across the workspace — skills t
 
 ---
 
+## 2026-08-31 — Beiwe platform ZSTD storage compression migration
+**Source:** Notion ("Data Compression Work - March 2025" — BSC infrastructure work). No `brainiac/writeups/` entry exists or is planned — Hassan explicitly decided (2026-08-31) this is career material only, not personal-website content.
+**What:** Directed an engineer (Eli) to migrate raw participant data storage to ZSTD compression across all Beiwe production servers (staging, EU, Studies, NHS) — confirmed complete platform-wide as of June 2025. Hassan's own role: ran researcher feedback/user research on how PIs and RAs wanted to download data, designed the UI/UX for the new compressed-vs-legacy-uncompressed download option, managed integration of the compressed format into researchers' existing data-download scripts, and managed the release of MANO v2 — the Onnela Lab's Python package researchers use (alongside the Forest processing pipeline) to pull and manage their study's Beiwe data via API.
+**Verified numbers:** ~5:1 compression ratio, ~80% reduction in S3 storage costs. Not written down in the Notion notes, but Hassan confirmed (2026-09-01) these were checked against real AWS billing data, not just estimated — safe to cite as verified.
+**Skills demonstrated:** Cost-driven infrastructure decision-making with a quantified outcome, cross-functional direction of an engineer's implementation (not hands-on build), user research and UX design for a technical/researcher audience, backward-compatible rollout across a live multi-server production platform, package/release management for a public research tool.
+**Draft bullet:** *"Directed a platform-wide migration to ZSTD compression across a research data platform's production servers, cutting S3 storage costs ~80% (5:1 compression), while running user research to design the researcher-facing download experience and managing the compressed-format release into the platform's public Python data-access package."*
+**Needs verification before external use:** say "directed," never "built" — Eli did the implementation. Decide whether to name "MANO" / "Forest" / "Beiwe" externally or describe generically as "the platform's Python data-access package," consistent with the naming-sensitivity flag on other Beiwe entries below.
+**Last checked:** 2026-09-01
+
+---
+
 ## 2026-08-12 — Beiwe platform-wide usage/retention dashboard
 **Source:** `beiwe_platform_metrics`
 **Full story:** [`../brainiac/writeups/beiwe_platform_metrics/dashboard-and-completeness-methodology.md`](../brainiac/writeups/beiwe_platform_metrics/dashboard-and-completeness-methodology.md)
