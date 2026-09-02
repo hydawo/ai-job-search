@@ -111,7 +111,8 @@ After creating or updating a CV or cover letter, re-read the generated file and 
 - [ ] No contradictions between CV and cover letter content
 
 ### Quality
-- [ ] Full re-read against `03-writing-style.md`'s Critical Rules (not just a literal `--` search) — this includes stacked hyphenated compound chains like "wellness-versus-regulated-data" (same AI-writing tell as an em-dash), cliches, and unprompted gap-acknowledgment language for qualifications the posting never actually required
+- [ ] Full re-read against `03-writing-style.md`'s Critical Rules (not just a literal `--` search) — this includes stacked hyphenated compound chains like "wellness-versus-regulated-data" (same AI-writing tell as an em-dash) and cliches
+- [ ] **No volunteered gap disclaimer** (rule 7). Search the draft for any sentence naming something Hassan hasn't done: "I haven't", "I don't have", "While I lack", "rather than imply otherwise". **A posting that requires the qualification is not an exemption** — that carve-out is exactly what let a whole conceding paragraph survive twelve days in a live WHOOP application. If a real gap needs addressing, ask Hassan rather than deciding for him
 - [ ] No LaTeX syntax errors (balanced braces, correct commands)
 - [ ] No spelling or grammar errors
 - [ ] Agentic coding / AI tooling references mention **Claude Code** by name

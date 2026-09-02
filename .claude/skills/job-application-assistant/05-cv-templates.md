@@ -182,6 +182,28 @@ Claiming a credential not yet held is a factual misstatement, and it is the kind
 - Use 4-6 bullets for most recent role, 3-4 for previous, 2-3 for older
 - **Emphasize measurable results** where possible: "Reduced processing time by X%", "Model adopted by the team"
 
+#### Title-line framing when the posting requires a title Hassan doesn't officially hold
+
+**When a posting states a title requirement explicitly** ("5+ years product management", "2+ years in a Product Manager role", etc.) and Hassan's actual title ("Senior Research Operations Manager") doesn't contain that word anywhere, the bridge cannot live only in the cover letter or an interview talking point. A recruiter screen is substantially a schema-match against the title line and years, and that screen frequently happens before any human reads the cover letter's framing at all — see the WHOOP Senior PM, Sleep rejection (2026-08-19 through 2026-09-01), which reached the recruiter stage and was rejected there without ever advancing to the hiring manager, most likely on exactly this mismatch (see `documents/applications/whoop_senior_product_manager_sleep/outcome.md`).
+
+**Standing rule, effective 2026-09-01, for every future application where the posting names an explicit PM/product title requirement:** add a parenthetical functional qualifier directly on the CV's `\cventry` title line, immediately after the real title - not just in the Summary or Core Competencies section, where a schema-matching first pass may not reach it.
+
+```latex
+\cventry
+    {Harvard T.H. Chan School of Public Health}
+    {Senior Research Operations Manager (Product Lead), Head of Beiwe Research Platform}
+    {Boston, MA}
+    {2022--Present}
+    {...}
+```
+
+**Rules for the qualifier:**
+- Use **parentheses, never an em dash** - consistent with the no-em-dash rule everywhere else, and this is exactly the kind of line an ATS/recruiter reads literally.
+- Use **"(Product Lead)" or "(Product Owner)"** - both are truthful, defensible functional descriptors already grounded in `01-candidate-profile.md` (owns product strategy/roadmap, direct people manager for the platform engineer, makes tradeoff calls with data science). **Never write "(Product Manager)"** - that specific title is not held and inserting it, even parenthetically, is a factual misstatement discoverable at reference check, not a framing choice.
+- This mirrors an already-established, pre-approved pattern: Hassan's own LinkedIn headline already reads "Senior Research Operations Manager, Head of Beiwe Research Platform — Product Manager | Digital Health | ..." (see `CLAUDE.md`'s Identity section) - so the underlying framing choice is not new, only its extension to the CV's title line and its dash-free wording is.
+- Apply this to the **most recent/primary role's `\cventry` only**, not every historical role - repeating it everywhere reads as padding, not signal.
+- Still say "Senior Research Operations Manager" as the real, primary title first. The qualifier is additive, not a replacement.
+
 #### Check tenure against visible output
 
 Before finalizing, look at each role the way a stranger will: **date span versus how much work is shown.** A two-year role represented by a single project reads as low output, whether or not that is fair. The reader cannot know what filled the time, so they guess, and the guess is unflattering.

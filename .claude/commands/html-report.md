@@ -2,6 +2,29 @@
 
 Generate a self-contained HTML dashboard from `job_search_tracker.csv` and the application archives under `documents/applications/`. The output is a single `.html` file — no server, no dependencies — that can be opened directly in a browser.
 
+## Before you start: the data block is script-generated
+
+`reports/application-dashboard.html` is a data-driven shell. Every value on the page
+comes from a single `const RECORDS = [...]` array; all design, layout and rendering
+logic lives in the file's own CSS/JS and is **not** regenerated per run.
+
+**To refresh the data after any `job_search_tracker.csv` change, run the builder, not this command:**
+
+```bash
+python3 tools/build_dashboard.py
+```
+
+It reparses the CSV, rewrites only the RECORDS array, restamps `GENERATED`, and
+preserves the hand-curated `events` stage timelines for roles that already exist
+(new rows get a single opening event synthesised from their date and status).
+It is idempotent, and `--check` exits 1 if the dashboard is stale without writing.
+
+Use the full generation flow below **only** when building the shell from scratch or
+deliberately changing the design. Regenerating the whole file by hand to pick up new
+tracker rows will discard the curated timelines.
+
+---
+
 ## Step 0: Parse Arguments
 
 - No argument → output to `reports/application-dashboard.html`
