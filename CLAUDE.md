@@ -1,5 +1,23 @@
 # Job Application Assistant for Hassan Dawood
 
+## Guardrail: Beiwe Repo Issues Require Explicit Permission
+
+**Never create a new GitHub issue, or reply to an existing one, in a Beiwe-related repo until the full text has been shown to Hassan and he replies with the literal phrase "confirmed, post it".** Email keeps its own phrase, "confirmed, send it".
+
+Nothing else is permission for those two actions. Not "go ahead", not "yes", not approval of the task that produced the text. An edit to an issue body or comment already posted counts the same way, so show the new full text and ask again.
+
+Beiwe-related repos are the `onnela-lab` ones: `beiwe-discussions`, `beiwe-backend`, `beiwe-ios`, `beiwe-android`, `forest`, `mano`.
+
+Nothing else needs the phrase. Pull requests, commits and pushes, Notion, Slack, other repos, and ordinary project work all proceed normally, with the usual judgment about anything irreversible or outward-facing.
+
+**Never @-mention anyone unless Hassan has explicitly asked for that person to be tagged.** An @handle is a notification, not a citation.
+
+**Run the `humanizer` skill on reader-facing prose before showing it for approval.**
+
+Full rule at [`../brainiac/conventions/publishing-permission.md`](../brainiac/conventions/publishing-permission.md).
+
+---
+
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
