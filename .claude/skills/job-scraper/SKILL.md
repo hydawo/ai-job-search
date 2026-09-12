@@ -44,7 +44,7 @@ Optional arguments:
 
 ### Step 1: Search
 
-Read `search-queries.md` (this directory) for the search strategy. By default, run the top 3 priority query categories. If the user said "broad", run all categories. If the user specified a focus area (e.g. "data science"), prioritize queries from that category.
+Read `search-queries.md` (this directory) for the search strategy. By default, run Priority 1, 2, and 7 (wearables PM, Director partnerships, health-data platforms; changed 2026-09-12 when the search widened). If the user said "broad", run all categories, 1 through 10. If the user specified a focus area (e.g. "data science"), prioritize queries from that category.
 
 **Use the installed CLI tools as the primary search mechanism.** Fall back to `WebSearch` only for portals that do not have a CLI skill, or if `bun` is unavailable on the system.
 
@@ -73,6 +73,23 @@ For each **enabled** portal skill:
 Run all portal CLI calls in parallel where possible using the Agent tool. Collect all `results` arrays into a single pool for Step 2, keeping each result tagged with its source portal skill (for Step 2 `detail` lookups).
 
 If a CLI tool exits with a non-zero code, log the error message and continue — do not abort the whole search.
+
+#### 1b-ii. Employer boards of companies already in play (always run)
+
+Run this before the portal searches, every time, regardless of focus area:
+
+```bash
+python3 tools/employer_boards.py --record
+```
+
+It reads `job_scraper/employer_boards.json` (one entry per company Hassan has applied to or is actively tracking) and hits each company's own applicant-tracking board directly (Ashby, Greenhouse, Workday, Rippling, or a parseable HTML listing). It does two things the portals cannot:
+
+1. **Liveness.** For every tracker row still in play (`applied`, `interview`, `drafted`, `shortlisted`, `evaluated`), it confirms the posting still exists on the employer's board and reports `LIVE` or `GONE`, and notes a retitle when the board title differs from the tracked one. LinkedIn keeps pages up after a req closes and recycles IDs under new titles (2026-09-11: the closed WHOOP Sleep req reappeared on LinkedIn as "Fitness"; the Wolters Kluwer Clinical AI Workflows req was replaced by two successor reqs; the Evinova Strategy Director req had closed), so LinkedIn is never evidence that a tracked role is open.
+2. **New roles.** Postings on those boards that match the relevance filter and are not yet in `seen_jobs.json` (by URL, or by company + title under any URL) are added with `portal: "employer-board"`, `status: "new"`, `fit: "low"` pending assessment, and pooled with the portal results for Step 2 onward.
+
+Any `GONE` result goes at the **top** of the Step 5 report as a `liveness:` line, before the new-jobs table: a tracked application whose req has closed is more important than any new posting. Do not change the tracker status on a `GONE` by itself; report it, and let Hassan decide (a retitle or a board glitch looks the same as a closure from here).
+
+**Maintenance:** when Hassan submits an application to a company not yet in `employer_boards.json`, add its board in the same session. Adapters exist for `ashby`, `greenhouse`, `workday`, `rippling`, and `html-list`; a company on a different ATS needs a new adapter in `tools/employer_boards.py`.
 
 #### 1c. WebSearch fallback
 
@@ -194,7 +211,9 @@ the skill.
 ```
 ## New Job Matches - YYYY-MM-DD
 
-Found X new positions (Y high, Z medium, W low match).
+liveness: <Company> - <Role> [<status>] - GONE from the employer board (checked <ATS>)   <- only when something is gone
+
+Found X new positions (Y high, Z medium, W low match), including N from employer boards.
 
 skipped (disabled): <portal-name>, <portal-name>
 

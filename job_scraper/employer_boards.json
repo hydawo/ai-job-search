@@ -1,0 +1,104 @@
+{
+  "_comment": "Employer job boards checked directly by tools/employer_boards.py on every /scrape. One entry per company Hassan has applied to or is actively tracking. 'board' selects the adapter; 'slug' is the board identifier for that ATS. Add a company here when the first application to it is submitted. 'include_locations' is a regex on the posting's location text; postings that fail it are ignored for the new-roles list (liveness checks ignore it). Verily, Datavant, Tempus, Function Health, and Hippocratic AI are NOT on Greenhouse/Ashby/Lever under any slug tried on 2026-09-12 (Verily and Datavant use Workday-style or custom career sites); they are covered by the Priority 7/8 portal queries instead until an adapter exists.",
+  "boards": [
+    {
+      "company": "WHOOP",
+      "board": "ashby",
+      "slug": "whoop",
+      "why": "Applied: Sr PM Healthcare, Director Healthcare Product Partnerships, Sr PM Sensing. Rejected: Sr PM Sleep. Shortlisted: Growth (Retention), Clinical Research Operations."
+    },
+    {
+      "company": "Oura",
+      "board": "greenhouse",
+      "slug": "oura",
+      "why": "Applied: Sr PM Heart Health, Sr PM New Experiences. Top-three target company.",
+      "include_locations": "Remote|Boston|United States"
+    },
+    {
+      "company": "Beacon Biosignals",
+      "board": "greenhouse",
+      "slug": "beaconbiosignals",
+      "why": "Applied: Trial Site Solutions Director."
+    },
+    {
+      "company": "Evidation",
+      "board": "rippling",
+      "slug": "evidation",
+      "why": "Applied: Senior/Lead Product Manager."
+    },
+    {
+      "company": "Wolters Kluwer",
+      "board": "workday",
+      "slug": "wk",
+      "host": "wk.wd3.myworkdayjobs.com",
+      "site": "External",
+      "search_terms": [
+        "Product Manager",
+        "Director Product",
+        "Clinical AI",
+        "UpToDate"
+      ],
+      "why": "Drafted: Lead TPM AI Quality & Evaluation (R0059027). Original req R0058970 closed 2026-09-11.",
+      "include_locations": "USA|Remote|Locations|Waltham|Boston"
+    },
+    {
+      "company": "Evinova (AstraZeneca)",
+      "board": "html-list",
+      "slug": "evinova",
+      "url_template": "https://careers.astrazeneca.com/business/custom_fields.jobpostingsite/evinova/7684/{page}",
+      "link_pattern": "href=\"(/job/[^\"]+)\"",
+      "base": "https://careers.astrazeneca.com",
+      "why": "Strategy Director (Consultant) closed 2026-09-11 before submission; board kept for future Evinova reqs.",
+      "include_locations": "boston|cambridge|gaithersburg|remote|wilmington|united"
+    },
+    {
+      "company": "Headspace",
+      "board": "greenhouse",
+      "slug": "hs",
+      "why": "Watch list at Hassan's request 2026-09-12. Board had only 3 clinical/talent-community postings on the day it was added; corporate roles appear here when open.",
+      "include_locations": "Remote|Boston|United States|Hybrid"
+    },
+    {
+      "company": "Truveta",
+      "board": "greenhouse",
+      "slug": "truveta",
+      "why": "Lane 1, real-world data platform.",
+      "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US"
+    },
+    {
+      "company": "Komodo Health",
+      "board": "greenhouse",
+      "slug": "komodohealth",
+      "why": "Lane 1, real-world data.",
+      "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US"
+    },
+    {
+      "company": "Flatiron Health",
+      "board": "greenhouse",
+      "slug": "flatironhealth",
+      "why": "Lane 1, oncology RWD.",
+      "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US"
+    },
+    {
+      "company": "Abridge",
+      "board": "ashby",
+      "slug": "abridge",
+      "why": "Lane 2, clinical AI; already on the tracking list.",
+      "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US"
+    },
+    {
+      "company": "Ambience Healthcare",
+      "board": "ashby",
+      "slug": "ambiencehealthcare",
+      "why": "Lane 2, ambient clinical AI.",
+      "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US"
+    },
+    {
+      "company": "Kymera Therapeutics",
+      "board": "greenhouse",
+      "slug": "kymeratherapeutics",
+      "why": "Lane 4; AI Strategy & Applications ranked 76 on 2026-09-12.",
+      "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US"
+    }
+  ]
+}

@@ -93,14 +93,22 @@ Does this role advance career goals and contain tasks that energize?
 | 40-59 | Decent job but doesn't build toward career goals |
 | 0-39 | Dead end or backwards step |
 
-**Career goals:**
+**Career goals (widened 2026-09-12 at Hassan's direction; see the four lanes below):**
 - Senior/Staff Product Manager in digital health, wearables, or consumer health
 - Digital biomarker / digital health innovation roles in pharma
 - Long-term trajectory toward Director/VP-level product, innovation, or digital health leadership
+
+**On-trajectory lanes.** All four below score in the 80-100 band on career alignment when the level and comp are right. They are not a step down from wearables; they are the lanes where this week's Strong Fits actually came from (Evidation 85, Wolters Kluwer 80, Beacon 76, Kymera 76) and where Hassan's differentiators (multimodal individual-level data, provenance and evaluation, research-grade rigor inside a product, regulated-environment operations) are rare rather than common. Do not dock a role for being outside wearables if it sits in one of these:
+1. **Health data platforms and real-world data** (Evidation-shaped): multimodal, individual-level, consented health data with research rigor. Verily, Truveta, Datavant, Komodo, Flatiron, Tempus, Function Health, Evidation.
+2. **Clinical AI with a trust or evaluation problem** (Wolters Kluwer-shaped): products where "is the model right, and how do we keep knowing" is the product question. Abridge, Ambience, Nabla, Hippocratic, UpToDate/Wolters Kluwer.
+3. **Research and trial infrastructure** (Beacon-shaped): decentralized-trial platforms, site networks, digital-endpoint vendors. The Beiwe Service Center work aimed at industry.
+4. **Applied AI leadership at Boston life-sciences companies** (Kymera-shaped): "first AI leader" / "AI strategy and applications" reqs where health-agent, BSC Assistant, and the Claude Code practice are the credential.
+
+Wearables and consumer digital health (WHOOP, Oura, Apple) remain the named top targets and score 90+ on career alignment. Payer SaaS, telehealth operations, revenue-cycle products, and pure back-office administration are NOT in the lanes and keep the existing 40-59 treatment.
 - Compensation goal: $500K total comp by age 46 (currently 36; current market value ~$170K-$210K base, stronger opportunities $180K-$200K+ base)
 
 **Motivation filter:** Evaluate not just whether you *can* do the tasks, but whether the tasks will *energize* you. Consider:
-- Tasks that energize: translating research/scientific needs into product requirements, wearable/passive-sensing data problems, cross-functional coordination between clinicians/scientists/engineers, digital biomarker and behavioral-health product work
+- Tasks that energize: translating research/scientific needs into product requirements, wearable/passive-sensing data problems, cross-functional coordination between clinicians/scientists/engineers, digital biomarker and behavioral-health product work, evaluation and provenance for AI or measurement products, building operating infrastructure for research at scale
 - Tasks that drain: (not yet specified — ask if evaluating a role with heavy pure back-office administrative work or no product ownership)
 - Non-task factors: leadership style, department culture, company values, degree of autonomy, credibility with scientific/clinical/technical stakeholders
 

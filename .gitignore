@@ -75,6 +75,14 @@ documents/**
 # Personal job search tracking
 job_search_tracker.csv
 
+# MPH applications: same policy as documents/. The repo is public, and everything in here
+# (the BSC brief, program notes, recommender asks) names real people, studies and money.
+mph/*
+!mph/README.md
+!mph/*/
+mph/*/*
+!mph/*/.gitkeep
+
 # Gmail sync state (message IDs, subjects - personal data)
 gmail_sync/
 

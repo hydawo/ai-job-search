@@ -84,6 +84,7 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - Pharma / Digital Biomarkers / Clinical Innovation: Sanofi, Takeda, Amgen
 - Healthcare Strategy / Advisory: BCBS, CVS Health Ventures, McKinsey, BCG, KPMG (healthcare/life sciences practices)
 - Also tracking: Boston Children's Hospital, Abridge
+- **Widened 2026-09-12 (four on-trajectory lanes, full definition in `04-job-evaluation.md` Career Alignment):** health data / real-world data platforms (Verily, Truveta, Datavant, Komodo, Flatiron, Tempus, Function Health, Evidation); clinical AI with a trust/evaluation problem (Abridge, Ambience, Nabla, Hippocratic, Wolters Kluwer); research and trial infrastructure (Beacon Biosignals and peers); applied AI leadership at Boston life-sciences companies (Kymera-shaped reqs). Not "all digital health": payer SaaS, telehealth ops, and revenue-cycle products stay out.
 
 **Top-three named targets (2026-08-13):** Of the sector list above, Hassan specifically named **WHOOP, Oura, and Apple** as the three companies he most wants to work for, because he believes in their missions, technology, and science. This is a narrower, stronger claim than the general sector list and is true and citable in cover letters for these three companies specifically — but never name the other two in a given cover letter (e.g. the WHOOP letter should say "one of three companies I specifically targeted," not name Oura/Apple by name). Verily is on the broader sector list but was not one of the three.
 
@@ -91,6 +92,15 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 - No relocation
 - Fully remote roles requiring >=20% travel need explicit discussion before applying
 - On-site roles outside Boston/Cambridge with no remote/hybrid option
+
+## MPH Application Track
+
+This project also runs Hassan's MPH applications (fall 2026 season, fall 2027 entry), because the statement of purpose, the recommenders, and the CV draw on the same verified sources as the job search. Everything lives under `mph/` (see `mph/README.md`): `programs.csv` for deadlines and requirements, one folder per program for drafts and frozen submitted copies, `recommenders/` for asks and reminder packets, and the BSC core brief. The repo is public, so only `mph/README.md` is versioned.
+
+- **Recommender research** is in `documents/CV, Resume, and References/References/recommender_research/` (one factual record per person; read before advising on whom to ask). The settled set is in `mph/recommenders/recommender_set.md`.
+- **Statements of purpose follow the cover-letter rules:** every claim traces to `01-candidate-profile.md`, `career_portfolio.md`, or a memory file; humanizer before showing; no em-dashes; no volunteered gap disclaimers. A number that could not go in a cover letter does not go in an SOP.
+- **Emails to recommenders and faculty** are drafted here and sent by Hassan, or on "confirmed, send it".
+- The MPH is additive to the product-leadership search, not a pivot (memory `project_mph_application_plan.md`).
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
@@ -158,5 +168,6 @@ ATS parsers read the PDF's embedded text layer, not the rendered page. Extract i
 This project is part of a shared-context system across several related projects — see [`../shared_context/MAP.md`](../shared_context/MAP.md).
 
 - **Career portfolio (this project's own file, check first):** [`career_portfolio.md`](career_portfolio.md) — pre-digested skills tags, draft resume bullets, and verification notes for real work across the workspace. Read this before diving into raw writeups; it's already done the "what's the resume-relevant angle" work so you don't re-derive it fresh each application cycle. When drafting a new entry for something not yet in the bank, or when an entry's framing needs updating, read the underlying vault writeup for the full story and add/update the entry in `career_portfolio.md` — don't just quote the writeup ad hoc and let the framing evaporate at the end of the session.
+- **Recommender research (this project's own file):** [`documents/CV, Resume, and References/References/recommender_research/`](documents/CV,%20Resume,%20and%20References/References/recommender_research/) — one factual record per potential recommender (direct contact vs. exposure, every claim cited, gaps marked "not found"), built in `bsc_assistant` from the mailbox and study records and copied here. Read before advising on whom to ask for a letter or what to remind them of. Internal decision material with real names; never quote it in outward-facing copy.
 - **Vault writeups (shared, read-only from here):** [`../brainiac/writeups/`](../brainiac/writeups/) — the full narrative each `career_portfolio.md` entry links to, and the place to check for anything not yet in the bank. Writeups and bank entries alike are source material, not pre-approved copy: verify scope/numbers with Hassan before quoting either in a CV or cover letter, same as any other claim per the Verification Checklist above.
 - **Session close:** `/logoff` follows the shared four-phase contract at [`../shared_context/session_close.md`](../shared_context/session_close.md) — same command everywhere, this project's specifics in `.claude/commands/logoff.md`. Replaces the former `/save-session`.

@@ -86,6 +86,44 @@ site:linkedin.com/jobs "Corporate Venture" OR "Strategic Venture" health tech OR
 site:linkedin.com/jobs "Strategy" OR "Operations" "Manager" health tech startup Series B OR "Series C" OR "Series D"
 ```
 
+### Priority 7: Health Data / Real-World Data Platforms (Evidation-shaped)
+
+Added 2026-09-12 when the search widened beyond wearables. Multimodal, individual-level, consented health data with research rigor. Runs in the default top-3 set alongside Priority 1 and 2 (it replaced Priority 3's slot in the default rotation; Priority 3 still runs on `broad`).
+
+```
+site:linkedin.com/jobs "Product Manager" "real-world data" OR "real world evidence" OR "health data platform"
+site:linkedin.com/jobs "Product Manager" OR "Director" site:verily.com OR site:truveta.com OR site:datavant.com OR site:komodohealth.com OR site:flatiron.com OR site:tempus.com
+site:linkedin.com/jobs "Product Manager" "patient-generated" OR "multimodal" health data
+```
+
+### Priority 8: Clinical AI with a Trust / Evaluation Problem (Wolters Kluwer-shaped)
+
+Products where "is the model right, and how do we keep knowing" is the product question. health-agent is the credential.
+
+```
+site:linkedin.com/jobs "Product Manager" "clinical AI" OR "clinical decision support" OR "ambient" Boston OR remote
+site:linkedin.com/jobs "Product Manager" "AI evaluation" OR "responsible AI" OR "human-in-the-loop" health
+"Product Manager" OR "Director" site:abridge.com OR site:ambiencehealth.com OR site:nabla.com OR site:hippocraticai.com
+```
+
+### Priority 9: Research and Trial Infrastructure (Beacon-shaped)
+
+The Beiwe Service Center work aimed at industry: decentralized-trial platforms, site networks, digital-endpoint vendors.
+
+```
+site:linkedin.com/jobs "Director" OR "Head of" "decentralized clinical trials" OR "site network" OR "digital endpoints"
+site:linkedin.com/jobs "Product Manager" "clinical trial platform" OR "eCOA" OR "digital biomarker" Boston OR remote
+```
+
+### Priority 10: Applied AI Leadership at Boston Life-Sciences Companies (Kymera-shaped)
+
+"First AI leader" and "AI strategy and applications" reqs at clinical-stage biotechs and AMCs. Runs on `broad`.
+
+```
+site:linkedin.com/jobs "Director" OR "Head of" "AI Strategy" OR "AI Applications" OR "AI Innovation" biotech OR pharma Boston OR Cambridge
+site:linkedin.com/jobs "first" "AI" leader OR "enterprise AI" biotech Cambridge
+```
+
 ## Location Filter
 
 When evaluating results, verify the job location matches these constraints. **Hard constraint: no relocation.**
