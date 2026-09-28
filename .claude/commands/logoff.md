@@ -48,6 +48,10 @@ Run `git status --short`. `.gitignore` already protects personal data (tailored 
 
 Write `.claude/session-logs/YYYY-MM-DD-HHMM.md` (create the folder if needed): what was accomplished, decisions made, open threads (e.g. "cover letter for X drafted but not verified"), and concrete next steps for whoever opens the next session here.
 
+**Carry forward the previous handoff's open threads.** Before writing, read the most recent file already in `.claude/session-logs/` (newest by filename; there may be a gap of days or weeks). Go through its open threads and next steps, and for each one decide whether this session closed it. Closure needs evidence, something you did or verified, or Hassan saying so. Anything still open is repeated in today's handoff, tagged `[CARRYOVER <that file's date>]` so its age stays visible. Without this, each handoff records only its own session and open threads silently vanish the moment a session doesn't happen to touch them.
+
+If `.claude/session-logs/` is empty or missing, write `Carryover: no prior handoff found` rather than omitting the line. An unread list and an empty one otherwise look identical.
+
 ---
 
 ## Report
