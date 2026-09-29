@@ -1501,8 +1501,9 @@
       "url": "https://jobs.sanofi.com/en/job/cambridge/clinical-digital-and-ai-acceleration-innovation-manager/2649/38353740224",
       "first_seen": "2026-08-07",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://apply.workable.com/oura-health-ltd/j/9414EEDCF4": {
       "title": "Senior Product Manager, Women's Health",
@@ -1510,8 +1511,9 @@
       "url": "https://apply.workable.com/oura-health-ltd/j/9414EEDCF4",
       "first_seen": "2026-08-07",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://careers.inogen.com/jobs/17820034-senior-product-manager-digital-health": {
       "title": "Senior Product Manager - Digital Health",
@@ -1520,7 +1522,8 @@
       "first_seen": "2026-08-07",
       "fit": "high",
       "status": "new",
-      "portal": "WebSearch"
+      "portal": "WebSearch",
+      "note": "2026-09-17 /rank: page not fetchable (blocked or JS-rendered), not scored; still status new."
     },
     "https://jobs.takeda.com/job/boston/head-of-digital-health-data-and-evidence/1113/94850727632": {
       "title": "Head of Digital Health Data and Evidence",
@@ -1591,8 +1594,9 @@
       "url": "https://jobs.sanofi.com/en/job/cambridge/clinical-strategy-lead-for-digital-endpoints/2649/38220392256",
       "first_seen": "2026-08-08",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://jobs.sanofi.com/en/job/morristown/consumer-experience-strategy-lead/2649/40934212032": {
       "title": "Consumer Experience Strategy Lead",
@@ -1772,7 +1776,8 @@
       "first_seen": "2026-08-10",
       "fit": "high",
       "status": "new",
-      "portal": "WebSearch"
+      "portal": "WebSearch",
+      "note": "2026-09-17 /rank: page not fetchable (blocked or JS-rendered), not scored; still status new."
     },
     "https://jobs.takeda.com/en/job/boston/r-and-d-digital-health-product-owner-digital-strategy/1113/80180055280": {
       "title": "R&D Digital Health Product Owner, Digital Strategy",
@@ -1780,8 +1785,9 @@
       "url": "https://jobs.takeda.com/en/job/boston/r-and-d-digital-health-product-owner-digital-strategy/1113/80180055280",
       "first_seen": "2026-08-10",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://www.theladders.com/job/senior-product-manager-workbench-verily-san-bruno-ca_74957553": {
       "title": "Senior Product Manager, Workbench",
@@ -1852,8 +1858,9 @@
       "url": "https://jobs.takeda.com/job/boston/us-obu-digital-product-manager/1113/98544322144",
       "first_seen": "2026-08-11",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/": {
       "title": "Senior Manager, R&D Data, Data Science, and AI \u2013 Digital Health for Neuropsychiatry",
@@ -1861,8 +1868,25 @@
       "url": "https://www.careers.jnj.com/en/jobs/r-087449/senior-manager-rd-data-data-science-and-ai-digital-health-for-neuropsychiatry/",
       "first_seen": "2026-08-11",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "ranked",
+      "portal": "WebSearch",
+      "rank_score": 64,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "PASS",
+      "rank_location_note": "Hybrid; Cambridge MA is one of five eligible sites; no fully remote",
+      "rank_comp": "$137,000 to $235,750 base plus bonus",
+      "rank_deadline": null,
+      "rank_strengths": [
+        "Digital phenotyping and remote assessment strategy is exactly the Beiwe/Forest domain",
+        "Track record validating digital health tools (HeartBeat feature, 118 studies, Forest metrics)",
+        "Cross-functional trial design collaboration and data privacy/compliance experience"
+      ],
+      "rank_gaps": [
+        "Requires PhD/MD or equivalent; Hassan holds a BS",
+        "Requires hands-on biostatistics and ML modeling expertise; his ML is coordination, not model building",
+        "6+ years pharma/biotech analytics preferred framing; his experience is academic and hospital research, not pharma trials or regulatory endpoint qualification"
+      ]
     },
     "https://jobs.lever.co/whoop/dbaa71d9-b9d3-4da7-88c0-0057b8666718": {
       "title": "Senior Product Manager, Healthcare",
@@ -1897,8 +1921,9 @@
       "url": "https://careers.amgen.com/en/job/washington-d-c/digital-product-manager/87/91567309136",
       "first_seen": "2026-08-11",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://careers.amgen.com/en/job/washington-d-c/digital-product-manager-strategy-and-innovation/87/95269475104": {
       "title": "Digital Product Manager, Strategy and Innovation",
@@ -1996,8 +2021,9 @@
       "url": "https://careers.bcg.com/global/en/job/56995/Manager-BCG-Vantage-Digital-Health",
       "first_seen": "2026-08-12",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://careers.bcg.com/global/en/job/57197/Manager-BCG-Vantage-Gen-AI-and-Digital-Transformation": {
       "title": "Manager - BCG Vantage, (Gen)AI and Digital Transformation",
@@ -2041,8 +2067,9 @@
       "url": "https://builtin.com/job/senior-product-manager-sensing-discovery/3508427",
       "first_seen": "2026-08-14",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://jobs.lever.co/whoop/c7c7ab61-b63e-40e1-bd9f-c8644fb429ad": {
       "title": "Clinical Product Manager",
@@ -2050,8 +2077,9 @@
       "url": "https://jobs.lever.co/whoop/c7c7ab61-b63e-40e1-bd9f-c8644fb429ad",
       "first_seen": "2026-08-14",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://jobs.lever.co/whoop/b8649350-648c-4cb3-b8c8-560fadf4daf4": {
       "title": "Technical Product Manager \u2014 Data Platforms & MLOps",
@@ -2213,7 +2241,8 @@
       "first_seen": "2026-08-15",
       "fit": "high",
       "status": "new",
-      "portal": "WebSearch"
+      "portal": "WebSearch",
+      "note": "2026-09-17 /rank: page not fetchable (blocked or JS-rendered), not scored; still status new."
     },
     "https://jobs.takeda.com/job/boston/digital-partnership-lead/1113/94353454800": {
       "title": "Digital Partnership Lead",
@@ -3116,8 +3145,25 @@
       "url": "https://www.linkedin.com/jobs/view/academic-partnerships-director-at-beacon-biosignals-4449018736",
       "first_seen": "2026-08-04",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 73,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "PASS",
+      "rank_location_note": "Remote, Boston listed as preferred in-person hub; travel 1-3 times per quarter (well under 20%)",
+      "rank_comp": null,
+      "rank_deadline": null,
+      "rank_strengths": [
+        "Direct experience partnering with PIs, costing platform into NIH budgets, and contracting with 70-80 institutions (MOUs, DUAs, IRB reliance) matches the academic-partnerships and tech-transfer/contracting asks",
+        "Firsthand familiarity with the academic research and grant funding environment (R01/U01 cycles) from running Beiwe at Harvard Chan",
+        "Research and trial infrastructure lane; Beacon Biosignals is a named target company"
+      ],
+      "rank_gaps": [
+        "Hard requirement: MD with psychiatry/neurology training or PhD in neuroscience; Hassan has a BS in Neuroscience",
+        "Scientific acumen asked is neuroscience or sleep science specifically; his depth is digital phenotyping and neurosurgical outcomes, sleep science only via personal wearable work",
+        "3+ years formal BD/alliance management with a self-generated pipeline track record is arguable rather than explicit; his partnership work was inbound-heavy platform contracting, not quota-driven sales"
+      ]
     },
     "https://www.linkedin.com/jobs/view/director-alliance-management-at-tango-therapeutics-4442677651": {
       "title": "Director, Alliance Management",
@@ -3908,8 +3954,25 @@
       "url": "https://nucsai.recruitee.com/o/partnership-director",
       "first_seen": "2026-08-18",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "ranked",
+      "portal": "WebSearch",
+      "rank_score": 48,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "PASS",
+      "rank_location_note": "Remote/hybrid with a Boston office listed",
+      "rank_comp": null,
+      "rank_deadline": null,
+      "rank_strengths": [
+        "Multi-stakeholder external relationship and project management with hospitals and research institutions across 70-80 institutional contracts",
+        "Comfortable operating as the face of a platform to clinical and scientific partners; Director-level partnerships is in scope now",
+        "Bachelor's in life sciences satisfies the degree requirement"
+      ],
+      "rank_gaps": [
+        "Requires 7+ years in strategic partnerships/BD/account management specifically in medical imaging, oncology, or medical AI; Hassan has none in imaging or oncology",
+        "No existing relationships in medical imaging or nuclear medicine, and no C-suite commercial sales track record",
+        "Precision oncology and imaging partnership is off his four lanes; wearables/digital phenotyping expertise does not transfer"
+      ]
     },
     "https://jobs.sanofi.com/en/job/morristown/digital-product-owner-digital-biomarkers-and-endpoints/2649/36492844800": {
       "title": "Digital Product Owner - Digital Biomarkers & Endpoints",
@@ -3935,8 +3998,9 @@
       "url": "https://jobs.sanofi.com/en/job/cambridge/product-owner-digital-health-us/2649/27426422848",
       "first_seen": "2026-08-20",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://www.careers.jnj.com/en/jobs/r-037220/senior-director-rd-data-science-digital-health-ophthalmology/": {
       "title": "Senior Director, R&D Data Science & Digital Health - Ophthalmology",
@@ -3983,8 +4047,9 @@
       "url": "https://jobs.lever.co/whoop/d979fed4-59b5-430b-8341-3c536201f1ae",
       "first_seen": "2026-08-21",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://www.linkedin.com/jobs/view/business-development-lead-life-science-medtech-at-verily-4366545395": {
       "title": "Business Development Lead, Life Science/Medtech",
@@ -4076,8 +4141,25 @@
       "url": "https://www.linkedin.com/jobs/view/senior-manager-diabetes-product-strategy-at-cvs-health-4456149665",
       "first_seen": "2026-08-21",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 57,
+      "rank_verdict": "Moderate Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "FLAG",
+      "rank_location_note": "Boston, MA listed; remote/hybrid policy not stated",
+      "rank_comp": "$82,940 - $182,549 base plus bonus/equity eligibility",
+      "rank_deadline": "2026-09-18",
+      "rank_strengths": [
+        "Roadmap ownership, user stories and requirements definition match platform PM work",
+        "Quantitative analysis, KPIs, and cross-functional team direction are demonstrated",
+        "Healthcare experience preferred; Tableau a plus"
+      ],
+      "rank_gaps": [
+        "Prefers 4+ years at a strategy consulting firm and an MBA",
+        "Wants 7-10 years product management; his PM-titled tenure is shorter",
+        "Payer/diabetes product strategy is outside the four target lanes; top of band is below comp target"
+      ]
     },
     "https://www.linkedin.com/jobs/view/senior-product-manager-payer-connectivity-core-configuration-at-athenahealth-4454094511": {
       "title": "Senior Product Manager - Payer Connectivity & Core Configuration",
@@ -4364,8 +4446,9 @@
       "url": "https://www.linkedin.com/jobs/view/senior-director-advanced-technologies-innovations-at-irhythm-technologies-inc-4441555105",
       "first_seen": "2026-08-21",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "expired",
+      "portal": "linkedin-search",
+      "rank_date": "2026-09-17"
     },
     "https://www.linkedin.com/jobs/view/principal-nybc-ventures-at-new-york-blood-center-4457522114": {
       "title": "Principal, NYBC Ventures",
@@ -4709,8 +4792,9 @@
       "url": "https://job-boards.greenhouse.io/oura/jobs/4029675009",
       "first_seen": "2026-08-23",
       "fit": "high",
-      "status": "new",
-      "portal": "WebSearch"
+      "status": "expired",
+      "portal": "WebSearch",
+      "rank_date": "2026-09-17"
     },
     "https://jobs.lever.co/whoop/41b460d3-d492-4dc4-8cb5-2b4da8d11b53": {
       "title": "Business Analytics Manager (Healthcare Product)",
@@ -10266,9 +10350,15 @@
       "url": "https://athenahealth.wd1.myworkdayjobs.com/External/job/Boston-MA/Senior-Product-Manager---AI-Trust---Transparency_R15470",
       "first_seen": "2026-09-12",
       "fit": "high",
-      "status": "new",
+      "status": "evaluated",
       "portal": "freehire-search",
-      "note": "Boston, hybrid. Lane 2, the tightest match this run: leads the AI Trust & Transparency area inside athenaClinicals, owning evaluation, governance, and transparency for clinical AI features; the team runs the Clinical AI Feature Evaluation process and uses Arize/Kubeflow. Requires 8+ yrs professional with 4+ in PM (cleared), practical LLM evaluation (deterministic testing, model-based eval, human annotation: health-agent's eval set and no-citation guardrail are direct evidence), responsible-AI in regulated settings, and knowledge of RAG/agents/observability. Gap: named eval/observability platforms (Arize, LangSmith, Braintrust). Workday req R15470. No salary in extract."
+      "note": "Boston, hybrid. Lane 2, the tightest match this run: leads the AI Trust & Transparency area inside athenaClinicals, owning evaluation, governance, and transparency for clinical AI features; the team runs the Clinical AI Feature Evaluation process and uses Arize/Kubeflow. Requires 8+ yrs professional with 4+ in PM (cleared), practical LLM evaluation (deterministic testing, model-based eval, human annotation: health-agent's eval set and no-citation guardrail are direct evidence), responsible-AI in regulated settings, and knowledge of RAG/agents/observability. Gap: named eval/observability platforms (Arize, LangSmith, Braintrust). Workday req R15470. No salary in extract. | 2026-09-17 /rank: page not fetchable (blocked or JS-rendered), not scored; still status new.",
+      "eval_score": 78,
+      "eval_verdict": "Strong Fit",
+      "eval_date": "2026-09-17",
+      "rank_score": 78,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-09-17"
     },
     "https://jobs.lever.co/jobgether/4f073c80-53e9-4185-9ffa-da3f099c002e": {
       "title": "IT Project Manager \u2013 AI/Clinical Analytics / Project Manager",
@@ -12625,8 +12715,9 @@
       "url": "https://www.linkedin.com/jobs/view/product-manager-at-eclinical-solutions-4466765047",
       "first_seen": "2026-09-13",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "expired",
+      "portal": "linkedin-search",
+      "rank_date": "2026-09-17"
     },
     "https://www.linkedin.com/jobs/view/principal-data-product-manager-at-orthofi-4464568287": {
       "title": "Principal Data Product Manager",
@@ -12751,8 +12842,24 @@
       "url": "https://www.linkedin.com/jobs/view/sr-product-manager-remote-at-wcg-4459258524",
       "first_seen": "2026-09-13",
       "fit": "high",
-      "status": "new",
-      "portal": "linkedin-search"
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "rank_score": 73,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "PASS",
+      "rank_location_note": "US remote; no travel requirement stated",
+      "rank_comp": "$82,080 - $127,500",
+      "rank_deadline": null,
+      "rank_strengths": [
+        "Healthcare/clinical research technology experience is a hard requirement and matches Beiwe platform leadership directly",
+        "Functional understanding of clinical research processes, IRB and study operations, plus AI/ML strategy integration and mentoring"
+      ],
+      "rank_gaps": [
+        "Salary band tops out around $127K, well under the $180K to $215K target",
+        "No 21 CFR Part 11 validated-environment experience",
+        "Product-management title is not formal, though the role responsibilities map"
+      ]
     },
     "https://www.linkedin.com/jobs/view/product-director-evinova-at-evinova-4461949142": {
       "title": "Product Director - Evinova",
@@ -13184,6 +13291,1278 @@
       "first_seen": "2026-09-13",
       "fit": "low",
       "status": "new",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/whoop/09fabd10-0bb4-4da6-b122-cf2bfa0892ba": {
+      "title": "Director of Battery Technology",
+      "company": "WHOOP",
+      "url": "https://jobs.ashbyhq.com/whoop/09fabd10-0bb4-4da6-b122-cf2bfa0892ba",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://jobs.ashbyhq.com/whoop/54a72338-8e97-4d24-a1f7-d44132ae48d8": {
+      "title": "Program Manager, Foundation AI",
+      "company": "WHOOP",
+      "url": "https://jobs.ashbyhq.com/whoop/54a72338-8e97-4d24-a1f7-d44132ae48d8",
+      "first_seen": "2026-09-17",
+      "fit": "medium",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Program Manager (not PM) for WHOOP's Foundation AI group, Boston, posted 2026-09-16. Adjacent; a fifth WHOOP application would be too many while Sensing is live. | 2026-09-17 /rank: page not fetchable (blocked or JS-rendered), not scored; still status new."
+    },
+    "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Chicago-IL-South-LaSalle-St/Lead-Product-Manager---Business-Licenses_R0059049": {
+      "title": "Lead Product Manager - Business Licenses",
+      "company": "Wolters Kluwer",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Chicago-IL-South-LaSalle-St/Lead-Product-Manager---Business-Licenses_R0059049",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA-CA-Remote/Director--Product-Strategy---Transformation_R0059683": {
+      "title": "Director, Product Strategy & Transformation",
+      "company": "Wolters Kluwer",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA-CA-Remote/Director--Product-Strategy---Transformation_R0059683",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Director, Product Strategy at WK; Product Strategy Director track is deferred 2 to 3 years per strategy memory. Location remote CA per URL."
+    },
+    "https://flatiron.com/careers/open-positions/job?gh_jid=8128706": {
+      "title": "Clinical Oncology Genomics APP (contract)",
+      "company": "Flatiron Health",
+      "url": "https://flatiron.com/careers/open-positions/job?gh_jid=8128706",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-interqual-connect-and-interqual-medical-review-service-oi-product-remote-at-optum-4466782238": {
+      "title": "Senior Product Manager - InterQual Connect and InterQual Medical Review Service -OI Product - Remote",
+      "company": "Optum",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-interqual-connect-and-interqual-medical-review-service-oi-product-remote-at-optum-4466782238",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-veeva-systems-4403047103": {
+      "title": "Senior Product Manager",
+      "company": "Veeva Systems",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-veeva-systems-4403047103",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-ai-trust-transparency-at-athenahealth-4465858529": {
+      "title": "Senior Product Manager - AI Trust & Transparency",
+      "company": "athenahealth",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-ai-trust-transparency-at-athenahealth-4465858529",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "high",
+      "status": "skipped",
+      "portal": "linkedin-search",
+      "note": "Duplicate of the athenahealth AI Trust & Transparency req already in seen_jobs under a different key; keep the earlier entry as canonical."
+    },
+    "https://www.linkedin.com/jobs/view/senior-technical-product-manager-insurance-products-benefits-at-humana-4467175259": {
+      "title": "Senior Technical Product Manager - Insurance Products & Benefits",
+      "company": "Humana",
+      "url": "https://www.linkedin.com/jobs/view/senior-technical-product-manager-insurance-products-benefits-at-humana-4467175259",
+      "location": "Massachusetts, United States",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/principal-product-manager-technical-at-amazon-4455934473": {
+      "title": "Principal Product Manager Technical",
+      "company": "Amazon",
+      "url": "https://www.linkedin.com/jobs/view/principal-product-manager-technical-at-amazon-4455934473",
+      "location": "Middlesex County, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/senior-play-product-manager-connected-products-at-the-lego-group-4454628758": {
+      "title": "Senior Play Product Manager - Connected Products",
+      "company": "the LEGO Group",
+      "url": "https://www.linkedin.com/jobs/view/senior-play-product-manager-connected-products-at-the-lego-group-4454628758",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-technical-at-amazon-4455911880": {
+      "title": "Senior Product Manager Technical",
+      "company": "Amazon",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-technical-at-amazon-4455911880",
+      "location": "Middlesex County, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4457270507": {
+      "title": "Global Product Manager - Digital Pathology Image Management",
+      "company": "Epredia",
+      "url": "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4457270507",
+      "location": "Los Angeles, CA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4457267834": {
+      "title": "Global Product Manager - Digital Pathology Image Management",
+      "company": "Epredia",
+      "url": "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4457267834",
+      "location": "Hampshire County, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-single-cell-sequencing-tech-at-parse-biosciences-4468827367": {
+      "title": "Product Manager (Single Cell Sequencing Tech)",
+      "company": "Parse Biosciences",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-single-cell-sequencing-tech-at-parse-biosciences-4468827367",
+      "location": "Greater Seattle Area",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/staff-product-manager-at-kontakt-io-4467252753": {
+      "title": "Staff Product Manager",
+      "company": "Kontakt.io",
+      "url": "https://www.linkedin.com/jobs/view/staff-product-manager-at-kontakt-io-4467252753",
+      "location": "New York, NY",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/senior-staff-product-manager-iot-connected-devices-at-motive-4464239557": {
+      "title": "Senior / Staff Product Manager - IoT Connected Devices",
+      "company": "Motive",
+      "url": "https://www.linkedin.com/jobs/view/senior-staff-product-manager-iot-connected-devices-at-motive-4464239557",
+      "location": "United States",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/physician-engagement-director-future-openings-%E2%80%A2-connect-early-at-k2-medical-research-4457172062": {
+      "title": "Physician Engagement Director (Future Openings \u2022 Connect Early)",
+      "company": "K2 Medical Research",
+      "url": "https://www.linkedin.com/jobs/view/physician-engagement-director-future-openings-%E2%80%A2-connect-early-at-k2-medical-research-4457172062",
+      "location": "Foxborough, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/director-of-partnerships-at-tailormed-4467915194": {
+      "title": "Director of Partnerships",
+      "company": "TailorMed",
+      "url": "https://www.linkedin.com/jobs/view/director-of-partnerships-at-tailormed-4467915194",
+      "location": "New York, NY",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/director-channel-partnerships-health-systems-at-openloop-4457410283": {
+      "title": "Director, Channel Partnerships, Health Systems",
+      "company": "OpenLoop",
+      "url": "https://www.linkedin.com/jobs/view/director-channel-partnerships-health-systems-at-openloop-4457410283",
+      "location": "United States",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/executive-director-consumer-health-partnerships-at-labcorp-4467974374": {
+      "title": "Executive Director, Consumer Health Partnerships",
+      "company": "Labcorp",
+      "url": "https://www.linkedin.com/jobs/view/executive-director-consumer-health-partnerships-at-labcorp-4467974374",
+      "location": "Durham, NC",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/executive-director-consumer-health-partnerships-at-labcorp-4467975424": {
+      "title": "Executive Director, Consumer Health Partnerships",
+      "company": "Labcorp",
+      "url": "https://www.linkedin.com/jobs/view/executive-director-consumer-health-partnerships-at-labcorp-4467975424",
+      "location": "North Carolina, United States",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-partnerships-platform-go-to-market-strategy-activation-at-butterfly-network-inc-4446507853": {
+      "title": "Senior Director, Partnerships, Platform Go-to-Market Strategy & Activation",
+      "company": "Butterfly Network, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-partnerships-platform-go-to-market-strategy-activation-at-butterfly-network-inc-4446507853",
+      "location": "California, United States",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-at-intersystems-4456750042": {
+      "title": "Product Manager",
+      "company": "InterSystems",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-at-intersystems-4456750042",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "note": "PM, HealthShare clinical and claims analytics, Boston. Epic/claims data experience maps; interoperability product, not sensing.",
+      "rank_score": 64,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "PASS",
+      "rank_location_note": "Boston, MA on-site",
+      "rank_comp": "$129,000 - $183,000 base plus discretionary variable incentive",
+      "rank_deadline": null,
+      "rank_strengths": [
+        "Healthcare data/analytics product ownership with customer engagement; matches Beiwe roadmap ownership and Epic clinical/billing data work",
+        "SQL and BI tooling preferred (Tableau, SQL are moderate skills)",
+        "Boston on-site fits location"
+      ],
+      "rank_gaps": [
+        "Requires deep clinical and claims analytics knowledge (population health, HEDIS, risk adjustment, value-based care), which is payer-adjacent and outside his domain",
+        "Little exposure to HL7/FHIR/OMOP standards or in-depth data model design",
+        "5 to 10 years formal PM experience expected; his PM title is via Phebe Health and platform leadership; base tops at $183K"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4457286309": {
+      "title": "Global Product Manager - Digital Pathology Image Management",
+      "company": "Epredia",
+      "url": "https://www.linkedin.com/jobs/view/global-product-manager-digital-pathology-image-management-at-epredia-4457286309",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/director-physician-researcher-at-verily-health-4448218071": {
+      "title": "Director, Physician Researcher",
+      "company": "Verily Health",
+      "url": "https://www.linkedin.com/jobs/view/director-physician-researcher-at-verily-health-4448218071",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/head-of-product-biometrics-at-genentech-4398015652": {
+      "title": "Head of Product Biometrics",
+      "company": "Genentech",
+      "url": "https://www.linkedin.com/jobs/view/head-of-product-biometrics-at-genentech-4398015652",
+      "location": "Boston, MA",
+      "first_seen": "2026-09-17",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "note": "Head of Product Biometrics, Roche Digital Technology, Boston, $182,600-339,200. Asks 10+ yrs PM, 4 yrs pharma biometrics, PhD preferred, GxP. Stretch on the pharma-biometrics requirement; Boston and no relocation offered.",
+      "rank_score": 62,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "FLAG",
+      "rank_location_note": "Boston, MA listed; remote/hybrid policy not stated in posting",
+      "rank_comp": "$182,600 - $339,200 base plus discretionary bonus",
+      "rank_deadline": null,
+      "rank_strengths": [
+        "Manages ecosystem of internal teams, SaaS vendors, and academic partners: matches his 70-80 institution contracting and vendor work",
+        "Strategic liaison between business functions and R&D; UX for internal scientists and clinicians: his core translation strength",
+        "Roadmap ownership plus coaching PMs and engineers: he owns Beiwe roadmap and manages engineer plus RAs"
+      ],
+      "rank_gaps": [
+        "Requires 4+ years in Pharma/Biotech Biometrics domain and GxP knowledge; he has none",
+        "10+ years PM/BA required; his PM tenure (Phebe 2020-23, Beiwe 2022-now) is closer to 6",
+        "Advanced degree required, PhD preferred; he has a BS"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/enterprise-data-strategy-lead-at-sanofi-4446822606": {
+      "title": "Enterprise Data Strategy Lead",
+      "company": "Sanofi",
+      "url": "https://www.linkedin.com/jobs/view/enterprise-data-strategy-lead-at-sanofi-4446822606",
+      "location": "Cambridge, MA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Enterprise Data Strategy Lead in Sanofi's RWD org. LinkedIn says Cambridge but the body says Morristown, NJ. Location fail unless remote."
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-healthverity-4466785039": {
+      "title": "Senior Product Manager",
+      "company": "HealthVerity",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-healthverity-4466785039",
+      "location": "Philadelphia, PA",
+      "first_seen": "2026-09-17",
+      "fit": "medium",
+      "status": "evaluated",
+      "portal": "linkedin-search",
+      "note": "Sr PM, Data Products at an RWD company. Philadelphia; remote policy not stated. Lane 1 fit.",
+      "rank_score": 75,
+      "rank_verdict": "Strong Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "PASS",
+      "rank_location_note": "Philadelphia hybrid, but remote allowed from approved states including MA; no travel stated",
+      "rank_comp": "$150,000 - $185,000 base plus annual bonus",
+      "rank_deadline": null,
+      "rank_strengths": [
+        "3+ years PM for data-centric healthcare offerings: Beiwe platform and Phebe exceed this",
+        "SQL/Tableau data analysis and healthcare data-type expertise: matches Epic extraction and joined clinical/billing data work",
+        "Enterprise client engagement and KPI tracking: matches institutional study-team management and completion-rate metrics"
+      ],
+      "rank_gaps": [
+        "Healthcare claims/coding-standard expertise (ICD/CPT/NDC-level) is thinner than his sensor-data depth",
+        "Revenue-growth ownership through new products is not something he has done at scale",
+        "Base band tops out at $185K, at the bottom of his target"
+      ],
+      "eval_score": 73,
+      "eval_verdict": "Good Fit",
+      "eval_date": "2026-09-17"
+    },
+    "https://www.linkedin.com/jobs/view/analytics-product-manager-at-risant-health-4467784763": {
+      "title": "Analytics Product Manager",
+      "company": "Risant Health",
+      "url": "https://www.linkedin.com/jobs/view/analytics-product-manager-at-risant-health-4467784763",
+      "location": "Washington DC-Baltimore Area",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/product-lead-core-product-experiences-at-abridge-4439757926": {
+      "title": "Product Lead, Core Product Experiences",
+      "company": "Abridge",
+      "url": "https://www.linkedin.com/jobs/view/product-lead-core-product-experiences-at-abridge-4439757926",
+      "location": "San Francisco, CA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/sr-product-manager-recommendation-systems-at-vesync-4449055635": {
+      "title": "Sr. Product Manager - Recommendation Systems",
+      "company": "VeSync",
+      "url": "https://www.linkedin.com/jobs/view/sr-product-manager-recommendation-systems-at-vesync-4449055635",
+      "location": "Tustin, CA",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://www.linkedin.com/jobs/view/senior-technical-product-manager-ai-data-platform-remote-at-aledade-4468329876": {
+      "title": "Senior Technical Product Manager (AI Data Platform), Remote",
+      "company": "Aledade",
+      "url": "https://www.linkedin.com/jobs/view/senior-technical-product-manager-ai-data-platform-remote-at-aledade-4468329876",
+      "location": "United States",
+      "first_seen": "2026-09-17",
+      "fit": "medium",
+      "status": "ranked",
+      "portal": "linkedin-search",
+      "note": "Sr TPM, AI Data Platform, remote US. Internal platform PM for AI tooling at a value-based care company; data-platform fit, no wearables.",
+      "rank_score": 63,
+      "rank_verdict": "Good Fit",
+      "rank_date": "2026-09-17",
+      "rank_location": "PASS",
+      "rank_location_note": "Fully remote; travel not stated",
+      "rank_comp": null,
+      "rank_deadline": null,
+      "rank_strengths": [
+        "Analyzing validation data for model performance and defining measurable success criteria: matches his AI evaluation and provenance work (health-agent eval set)",
+        "Clinical data literacy and healthcare technology experience preferred: strong match",
+        "Roadmap creation and partnering with business owners on problem definition"
+      ],
+      "rank_gaps": [
+        "8+ years PM in technology/SaaS required; he is closer to 6 and not in SaaS",
+        "Strong grasp of APIs, DevOps, cloud infrastructure, MLOps expected; his hands-on depth here is moderate",
+        "Preferred data scientist or backend engineering background; he coordinates ML rather than builds it"
+      ]
+    },
+    "https://www.linkedin.com/jobs/view/senior-technical-product-manager-data-integrations-healthcare-data-platforms-at-recruit22-4467114004": {
+      "title": "Senior Technical Product Manager - Data Integrations & Healthcare Data Platforms",
+      "company": "recruit22",
+      "url": "https://www.linkedin.com/jobs/view/senior-technical-product-manager-data-integrations-healthcare-data-platforms-at-recruit22-4467114004",
+      "location": "Chicago, IL",
+      "first_seen": "2026-09-17",
+      "fit": "low",
+      "status": "new",
+      "portal": "linkedin-search",
+      "note": "Title/location screen only; not a Boston or remote digital-health PM fit."
+    },
+    "https://job-boards.greenhouse.io/oura/jobs/4411532009": {
+      "title": "Research Project Manager",
+      "company": "Oura",
+      "url": "https://job-boards.greenhouse.io/oura/jobs/4411532009",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://job-boards.greenhouse.io/oura/jobs/4408620009": {
+      "title": "Senior Director, Healthcare Partnerships",
+      "company": "Oura",
+      "url": "https://job-boards.greenhouse.io/oura/jobs/4408620009",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "employer-board",
+      "note": "Full evaluation 2026-09-22 (technical 62, experience 52, behavioral 82, career 72). Oura is a top-three target and Director-level partnerships is in scope, but this is a quota-carrying enterprise sales seat: pipeline, closing, healthcare economics, payer/provider buying. Hassan's partnership record is inbound research contracting (MOUs, DUAs, IRB reliance, costing) across 70 to 80 institutions, not commercial sales to health plans. Posting explicitly says it is NOT for someone selling an existing program through a network, which helps, but 'extensive first-hand experience commercializing disease management, connected care, remote monitoring or wearable-enabled programs' and 'a demonstrated record of closing complex healthcare partnerships' are hard requirements he cannot evidence. Comp Region 1 $232,050-$273,000 (Boston likely Region 1 or 2). Remote US.",
+      "eval_score": 64,
+      "eval_verdict": "Good Fit",
+      "eval_date": "2026-09-22"
+    },
+    "https://ats.rippling.com/evidation/jobs/c710942e-809f-48a8-a0bd-7ab823efd9f6": {
+      "title": "Director, Strategic Partnerships",
+      "company": "Evidation",
+      "url": "https://ats.rippling.com/evidation/jobs/c710942e-809f-48a8-a0bd-7ab823efd9f6",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Indianapolis-IN/VP--Technology-Product-Management_R0058943": {
+      "title": "VP, Technology Product Management",
+      "company": "Wolters Kluwer",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Indianapolis-IN/VP--Technology-Product-Management_R0058943",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://wk.wd3.myworkdayjobs.com/en-US/External/job/FRA---Bois-Colombes-17-Avenue-de-lEurope/Senior-Product-Owner---Application-Server-Platform---_R0059924": {
+      "title": "Senior Product Owner \u2013\u00a0Application Server Platform  \u00a0",
+      "company": "Wolters Kluwer",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/FRA---Bois-Colombes-17-Avenue-de-lEurope/Senior-Product-Owner---Application-Server-Platform---_R0059924",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://job-boards.greenhouse.io/komodohealth/jobs/8821921002": {
+      "title": "Director, Customer Support",
+      "company": "Komodo Health",
+      "url": "https://job-boards.greenhouse.io/komodohealth/jobs/8821921002",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Director--Product-Management---Service-Experience_R15526": {
+      "title": "Director, Product Management - Service Experience",
+      "company": "athenahealth",
+      "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Director--Product-Management---Service-Experience_R15526",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Manager--Product-Management---AI-Concierge--Service-Experience_R15527": {
+      "title": "Manager, Product Management - AI Concierge, Service Experience",
+      "company": "athenahealth",
+      "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Manager--Product-Management---AI-Concierge--Service-Experience_R15527",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Manager-of-Product-Management--CoreAI_R15512": {
+      "title": "Senior Manager of Product Management, Services & Tasks",
+      "company": "athenahealth",
+      "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Manager-of-Product-Management--CoreAI_R15512",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Manager-of-Product-Management--CoreAI_R15511": {
+      "title": "Senior Manager of Product Management, CoreAI",
+      "company": "athenahealth",
+      "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Senior-Manager-of-Product-Management--CoreAI_R15511",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Executive-Director--Specialty-Commercial-Strategy_R15514": {
+      "title": "Executive Director, Specialty Commercial Strategy",
+      "company": "athenahealth",
+      "url": "https://athenahealth.wd1.myworkdayjobs.com/en-US/External/job/Boston-MA/Executive-Director--Specialty-Commercial-Strategy_R15514",
+      "first_seen": "2026-09-22",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://jobs.ashbyhq.com/whoop/654988f9-1021-4ec8-ae8a-fb7e7535e6e7": {
+      "title": "Associate Director, Design Research",
+      "company": "WHOOP",
+      "url": "https://jobs.ashbyhq.com/whoop/654988f9-1021-4ec8-ae8a-fb7e7535e6e7",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://job-boards.greenhouse.io/oura/jobs/4420147009": {
+      "title": "Director of Payments ",
+      "company": "Oura",
+      "url": "https://job-boards.greenhouse.io/oura/jobs/4420147009",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://job-boards.greenhouse.io/beaconbiosignals/jobs/4418079009": {
+      "title": "Clinical Study Operations Associate",
+      "company": "Beacon Biosignals",
+      "url": "https://job-boards.greenhouse.io/beaconbiosignals/jobs/4418079009",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://job-boards.greenhouse.io/beaconbiosignals/jobs/4421784009": {
+      "title": "Senior Manager, Clinical Study Operations",
+      "company": "Beacon Biosignals",
+      "url": "https://job-boards.greenhouse.io/beaconbiosignals/jobs/4421784009",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Indianapolis-IN/Associate-Director--Technology-Product-Management_R0059999": {
+      "title": "Associate Director, Technology Product Management",
+      "company": "Wolters Kluwer",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Indianapolis-IN/Associate-Director--Technology-Product-Management_R0059999",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://wk.wd3.myworkdayjobs.com/en-US/External/job/FRA---Bois-Colombes-17-Avenue-de-lEurope/Senior-Product-Owner---Personnel-Safety_R0059841-1": {
+      "title": "Senior Product Owner \u2013\u00a0Personnel Safety",
+      "company": "Wolters Kluwer",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/FRA---Bois-Colombes-17-Avenue-de-lEurope/Senior-Product-Owner---Personnel-Safety_R0059841-1",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Madison-WI-Junction-Rd/Senior-Data-Scientist---Clinical-Informaticist_R0059894": {
+      "title": "Clinical Informaticist",
+      "company": "Wolters Kluwer",
+      "url": "https://wk.wd3.myworkdayjobs.com/en-US/External/job/USA---Madison-WI-Junction-Rd/Senior-Data-Scientist---Clinical-Informaticist_R0059894",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://jobs.ashbyhq.com/abridge/aa9b28ba-0cda-4f48-8fd4-dedf53e776db": {
+      "title": "Program Director, Federal",
+      "company": "Abridge",
+      "url": "https://jobs.ashbyhq.com/abridge/aa9b28ba-0cda-4f48-8fd4-dedf53e776db",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "new",
+      "portal": "employer-board",
+      "note": "Found by tools/employer_boards.py; fit not yet assessed."
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-videa-4467849807": {
+      "title": "Senior Product Manager",
+      "company": "Videa",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-videa-4467849807",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-caremark-member-advocacy-at-cvs-health-4472063507": {
+      "title": "Senior Product Manager, Caremark Member Advocacy",
+      "company": "CVS Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-caremark-member-advocacy-at-cvs-health-4472063507",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://fi.linkedin.com/jobs/view/senior-product-manager-hardware-at-%C5%8Dura-4459948544": {
+      "title": "Senior Product Manager, Hardware",
+      "company": "\u014cURA",
+      "url": "https://fi.linkedin.com/jobs/view/senior-product-manager-hardware-at-%C5%8Dura-4459948544",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://cn.linkedin.com/jobs/view/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%88%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%EF%BC%89-at-%E7%BE%8E%E8%B5%9E%E8%87%A3%E8%90%A5%E5%85%BB%E5%93%81-%E4%B8%AD%E5%9B%BD-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4467389249": {
+      "title": "\u4ea7\u54c1\u7ecf\u7406\uff08\u667a\u80fd\u7a7f\u6234\uff09",
+      "company": "\u7f8e\u8d5e\u81e3\u8425\u517b\u54c1(\u4e2d\u56fd)\u6709\u9650\u516c\u53f8",
+      "url": "https://cn.linkedin.com/jobs/view/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%EF%BC%88%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%EF%BC%89-at-%E7%BE%8E%E8%B5%9E%E8%87%A3%E8%90%A5%E5%85%BB%E5%93%81-%E4%B8%AD%E5%9B%BD-%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8-4467389249",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/product-manager-at-boat-lifestyle-4467702451": {
+      "title": "Product Manager",
+      "company": "boAt Lifestyle",
+      "url": "https://in.linkedin.com/jobs/view/product-manager-at-boat-lifestyle-4467702451",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-sensing-at-whoop-4462892423": {
+      "title": "Senior Product Manager, Sensing",
+      "company": "WHOOP",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-sensing-at-whoop-4462892423",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-frontline-at-teamviewer-4471393203": {
+      "title": "Senior Product Manager, Frontline",
+      "company": "TeamViewer",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-frontline-at-teamviewer-4471393203",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://uk.linkedin.com/jobs/view/sr-product-manager-mobile-at-therabody-4433810254": {
+      "title": "Sr. Product Manager, Mobile",
+      "company": "Therabody",
+      "url": "https://uk.linkedin.com/jobs/view/sr-product-manager-mobile-at-therabody-4433810254",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://il.linkedin.com/jobs/view/senior-product-manager-at-hello-heart-4459362928": {
+      "title": "Senior Product Manager",
+      "company": "Hello Heart",
+      "url": "https://il.linkedin.com/jobs/view/senior-product-manager-at-hello-heart-4459362928",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-product-manager-research-and-ai-foundations-at-adobe-4414087107": {
+      "title": "Principal Product Manager, Research and AI - Foundations",
+      "company": "Adobe",
+      "url": "https://www.linkedin.com/jobs/view/principal-product-manager-research-and-ai-foundations-at-adobe-4414087107",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-product-manager-ii-computer-vision-tracking-at-axon-4432299120": {
+      "title": "Sr. Product Manager II, Computer Vision & Tracking",
+      "company": "Axon",
+      "url": "https://www.linkedin.com/jobs/view/sr-product-manager-ii-computer-vision-tracking-at-axon-4432299120",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/ai-product-manager-at-nice-4470897861": {
+      "title": "AI Product Manager",
+      "company": "NiCE",
+      "url": "https://www.linkedin.com/jobs/view/ai-product-manager-at-nice-4470897861",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-genetic-identity-at-promega-corporation-4472049753": {
+      "title": "Product Manager, Genetic Identity",
+      "company": "Promega Corporation",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-genetic-identity-at-promega-corporation-4472049753",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-high-speed-imaging-systems-at-ametek-4449053659": {
+      "title": "Product Manager - High Speed Imaging Systems",
+      "company": "AMETEK",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-high-speed-imaging-systems-at-ametek-4449053659",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-omniverse-rendering-at-nvidia-4434179864": {
+      "title": "Senior Product Manager - Omniverse Rendering",
+      "company": "NVIDIA",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-omniverse-rendering-at-nvidia-4434179864",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-at-photon-4451913076": {
+      "title": "Product Manager",
+      "company": "Photon",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-at-photon-4451913076",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-cloud-platform-at-x-rite-4449672090": {
+      "title": "Product Manager \u2013 Cloud Platform",
+      "company": "X-Rite",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-%E2%80%93-cloud-platform-at-x-rite-4449672090",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-media-at-procore-technologies-4454814113": {
+      "title": "Product Manager, Media",
+      "company": "Procore Technologies",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-media-at-procore-technologies-4454814113",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/principal-product-manager-research-and-ai-data-at-adobe-4415160634": {
+      "title": "Principal Product Manager, Research and AI - Data",
+      "company": "Adobe",
+      "url": "https://www.linkedin.com/jobs/view/principal-product-manager-research-and-ai-data-at-adobe-4415160634",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-of-channel-partnerships-at-videa-4467838016": {
+      "title": "Director of Channel Partnerships",
+      "company": "Videa",
+      "url": "https://www.linkedin.com/jobs/view/director-of-channel-partnerships-at-videa-4467838016",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/phcs-partnering-director-at-roche-4472205240": {
+      "title": "PHCS Partnering Director",
+      "company": "Roche",
+      "url": "https://www.linkedin.com/jobs/view/phcs-partnering-director-at-roche-4472205240",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-of-provider-growth-at-daymark-health-4469684305": {
+      "title": "Senior Director of Provider Growth",
+      "company": "Daymark Health",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-of-provider-growth-at-daymark-health-4469684305",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-director-healthcare-partnerships-at-%C5%8Dura-4466911993": {
+      "title": "Senior Director, Healthcare Partnerships",
+      "company": "\u014cURA",
+      "url": "https://www.linkedin.com/jobs/view/senior-director-healthcare-partnerships-at-%C5%8Dura-4466911993",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-field-leadership-strategic-accounts-%E2%80%93-eastern-new-england-ecosystem-at-genentech-4469236470": {
+      "title": "Director, Field Leadership & Strategic Accounts \u2013 Eastern New England Ecosystem",
+      "company": "Genentech",
+      "url": "https://www.linkedin.com/jobs/view/director-field-leadership-strategic-accounts-%E2%80%93-eastern-new-england-ecosystem-at-genentech-4469236470",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-partnerships-director-at-nabla-4469309832": {
+      "title": "Product Partnerships Director",
+      "company": "Nabla",
+      "url": "https://www.linkedin.com/jobs/view/product-partnerships-director-at-nabla-4469309832",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://de.linkedin.com/jobs/view/head-of-doctor-partnerships-m-w-d-at-teleclinic-4414739499": {
+      "title": "Head of Doctor Partnerships (m/w/d)",
+      "company": "TeleClinic",
+      "url": "https://de.linkedin.com/jobs/view/head-of-doctor-partnerships-m-w-d-at-teleclinic-4414739499",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-of-channel-partnerships-at-videa-4467820419": {
+      "title": "Director of Channel Partnerships",
+      "company": "Videa",
+      "url": "https://www.linkedin.com/jobs/view/director-of-channel-partnerships-at-videa-4467820419",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/director-of-strategic-integration-at-radnet-4470754309": {
+      "title": "Director of Strategic Integration",
+      "company": "RadNet",
+      "url": "https://www.linkedin.com/jobs/view/director-of-strategic-integration-at-radnet-4470754309",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-risk-at-zus-health-4470383956": {
+      "title": "Product Manager, Risk",
+      "company": "Zus Health",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-risk-at-zus-health-4470383956",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-at-zimmer-biomet-4469051537": {
+      "title": "Product Manager",
+      "company": "Zimmer Biomet",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-at-zimmer-biomet-4469051537",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/staff-product-manager-ai-product-at-pathai-4468925554": {
+      "title": "Staff Product Manager, AI Product",
+      "company": "PathAI",
+      "url": "https://www.linkedin.com/jobs/view/staff-product-manager-ai-product-at-pathai-4468925554",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/senior-product-manager-clinical-data-at-athenahealth-4472705209": {
+      "title": "Senior Product Manager - Clinical Data",
+      "company": "athenahealth",
+      "url": "https://in.linkedin.com/jobs/view/senior-product-manager-clinical-data-at-athenahealth-4472705209",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-technical-product-manager-at-tempus-ai-4432122303": {
+      "title": "Senior Technical Product Manager",
+      "company": "Tempus AI",
+      "url": "https://www.linkedin.com/jobs/view/senior-technical-product-manager-at-tempus-ai-4432122303",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://ie.linkedin.com/jobs/view/senior-technical-product-manager-data-connectivity-at-datavant-ireland-4472018577": {
+      "title": "Senior Technical Product Manager, Data Connectivity",
+      "company": "Datavant Ireland",
+      "url": "https://ie.linkedin.com/jobs/view/senior-technical-product-manager-data-connectivity-at-datavant-ireland-4472018577",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://ie.linkedin.com/jobs/view/senior-technical-product-manager-data-connectivity-at-datavant-4468197839": {
+      "title": "Senior Technical Product Manager, Data Connectivity",
+      "company": "Datavant",
+      "url": "https://ie.linkedin.com/jobs/view/senior-technical-product-manager-data-connectivity-at-datavant-4468197839",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/sr-product-manager-data-platforms-analytics-healthcare-at-covermymeds-4472789479": {
+      "title": "Sr Product Manager, Data Platforms & Analytics - Healthcare",
+      "company": "CoverMyMeds",
+      "url": "https://www.linkedin.com/jobs/view/sr-product-manager-data-platforms-analytics-healthcare-at-covermymeds-4472789479",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://in.linkedin.com/jobs/view/sr-product-manager-tech-ahs-at-amazon-4472047888": {
+      "title": "Sr. Product Manager - Tech, AHS",
+      "company": "Amazon",
+      "url": "https://in.linkedin.com/jobs/view/sr-product-manager-tech-ahs-at-amazon-4472047888",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-canceriq-4470603579": {
+      "title": "Senior Product Manager",
+      "company": "CancerIQ",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-canceriq-4470603579",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/product-manager-real-world-evidence-data-generation-and-qa-systems-at-flatiron-health-4469232898": {
+      "title": "Product Manager, Real World Evidence (Data Generation and QA Systems)",
+      "company": "Flatiron Health",
+      "url": "https://www.linkedin.com/jobs/view/product-manager-real-world-evidence-data-generation-and-qa-systems-at-flatiron-health-4469232898",
+      "first_seen": "2026-09-28",
+      "fit": "medium",
+      "status": "new",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-caris-life-sciences-4459852123": {
+      "title": "Senior Product Manager",
+      "company": "Caris Life Sciences",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-caris-life-sciences-4459852123",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-oncology-at-natera-4467771766": {
+      "title": "Senior Product Manager, Oncology",
+      "company": "Natera",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-oncology-at-natera-4467771766",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-data-products-at-pacbio-4470045587": {
+      "title": "Senior Product Manager, Data Products",
+      "company": "PacBio",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-data-products-at-pacbio-4470045587",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/capillary-electrophoresis-product-manager-at-kelly-4470394762": {
+      "title": "Capillary Electrophoresis Product Manager",
+      "company": "Kelly",
+      "url": "https://www.linkedin.com/jobs/view/capillary-electrophoresis-product-manager-at-kelly-4470394762",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-growth-web-e-commerce-at-10x-genomics-4457190551": {
+      "title": "Senior Product Manager, Growth - Web & E-commerce",
+      "company": "10x Genomics",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-growth-web-e-commerce-at-10x-genomics-4457190551",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://www.linkedin.com/jobs/view/senior-product-manager-at-invivoscribe-4468168999": {
+      "title": "Senior/Product Manager",
+      "company": "Invivoscribe",
+      "url": "https://www.linkedin.com/jobs/view/senior-product-manager-at-invivoscribe-4468168999",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "linkedin-search"
+    },
+    "https://elementscience.com/careers/?gh_jid=5239830007&utm_source=freehire.me": {
+      "title": "Manager, Field Clinical Operations",
+      "company": "Element Science",
+      "url": "https://elementscience.com/careers/?gh_jid=5239830007&utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://4dayweek.io/job/ai-and-digital-data-product-manager-at-genentech-0add81e5?utm_source=freehire.me": {
+      "title": "AI & Digital Data Product Manager",
+      "company": "Genentech",
+      "url": "https://4dayweek.io/job/ai-and-digital-data-product-manager-at-genentech-0add81e5?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://careers.gene.com/us/en/job/GENEUS202609123430EXTERNALENUS?utm_source=freehire.me": {
+      "title": "AI & Digital Data Product Manager",
+      "company": "Poseida Therapeutics Inc.",
+      "url": "https://careers.gene.com/us/en/job/GENEUS202609123430EXTERNALENUS?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/AI---Digital-Data-Product-Manager_202609-123430-1?utm_source=freehire.me": {
+      "title": "AI & Digital Data Product Manager",
+      "company": "Roche",
+      "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/AI---Digital-Data-Product-Manager_202609-123430-1?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/hinge-health/d4b10b1f-c021-4bd0-9c4b-32d0af9f54b2?utm_source=freehire.me": {
+      "title": "Product Marketing Manager, New Verticals",
+      "company": "hinge-health",
+      "url": "https://jobs.ashbyhq.com/hinge-health/d4b10b1f-c021-4bd0-9c4b-32d0af9f54b2?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://careers.unitedhealthgroup.com/job/seattle/technical-product-manager-remote/34088/101066069552?utm_source=freehire.me": {
+      "title": "Technical Product Manager - Remote",
+      "company": "UnitedHealth Group",
+      "url": "https://careers.unitedhealthgroup.com/job/seattle/technical-product-manager-remote/34088/101066069552?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/osmo/001c5fcc-cfdc-4d79-8930-d4a883a2d8a8?utm_source=freehire.me": {
+      "title": "Senior Product Manager",
+      "company": "Osmo",
+      "url": "https://jobs.ashbyhq.com/osmo/001c5fcc-cfdc-4d79-8930-d4a883a2d8a8?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.dayforcehcm.com/en-US/sonifi/candidateportal/jobs/5746?utm_source=freehire.me": {
+      "title": "Senior Product Manager",
+      "company": "SONIFI Solutions",
+      "url": "https://jobs.dayforcehcm.com/en-US/sonifi/candidateportal/jobs/5746?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://himalayas.app/companies/centurylink/jobs/principal-product-manager-data-center-networks-remote-us?utm_source=freehire.me": {
+      "title": "Principal Product Manager, Data Center Networks (Remote, US)",
+      "company": "CenturyLink",
+      "url": "https://himalayas.app/companies/centurylink/jobs/principal-product-manager-data-center-networks-remote-us?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://internaljobs.centurylink.com/job/Remote-Principal-Product-Manager%2C-Data-Center-Networks/1433456800/?utm_source=freehire.me": {
+      "title": "Principal Product Manager, Data Center Networks",
+      "company": "Lumen Technologies",
+      "url": "https://internaljobs.centurylink.com/job/Remote-Principal-Product-Manager%2C-Data-Center-Networks/1433456800/?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Product-Manager_181153?utm_source=freehire.me": {
+      "title": "Data Product Manager",
+      "company": "Vanguard",
+      "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/Data-Product-Manager_181153?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.apple.com/en-us/details/200682150/product-manager-us-channel-sales-bpr-data-ops?utm_source=freehire.me": {
+      "title": "Product Manager, US Channel Sales BPR & Data Ops",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200682150/product-manager-us-channel-sales-bpr-data-ops?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager--Real-to-Sim-and-Simulation-Frameworks_JR2025795?utm_source=freehire.me": {
+      "title": "Senior Product Marketing Manager, Real-to-Sim and Simulation Frameworks",
+      "company": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Product-Marketing-Manager--Real-to-Sim-and-Simulation-Frameworks_JR2025795?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager-Data-Analytics---Analytics---Transformation_R1001957-1?utm_source=freehire.me": {
+      "title": "Senior Manager, Data Analyst - Product Analytics",
+      "company": "Capital One",
+      "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Senior-Manager-Data-Analytics---Analytics---Transformation_R1001957-1?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/ddome/jobs/8408040002?utm_source=freehire.me": {
+      "title": "Product Marketing Manager",
+      "company": "DataDome",
+      "url": "https://job-boards.greenhouse.io/ddome/jobs/8408040002?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://www.augury.com/careers/8816775002?gh_jid=8816775002&utm_source=freehire.me": {
+      "title": "Product Manager, Machine Health & Industrial AI Workforce",
+      "company": "Augury",
+      "url": "https://www.augury.com/careers/8816775002?gh_jid=8816775002&utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://rpmhealthcare.applytojob.com/apply/ZbcqJvSWGV/Director-Of-Sales-Partnerships?utm_source=freehire.me": {
+      "title": "Director of Sales & Partnerships",
+      "company": "RPM Healthcare",
+      "url": "https://rpmhealthcare.applytojob.com/apply/ZbcqJvSWGV/Director-Of-Sales-Partnerships?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.dayforcehcm.com/en-US/pennfostercarrus/pennfostergroupcareersite/jobs/4604?utm_source=freehire.me": {
+      "title": "Director, Sales \u2014 Enterprise Healthcare",
+      "company": "Penn Foster Group",
+      "url": "https://jobs.dayforcehcm.com/en-US/pennfostercarrus/pennfostergroupcareersite/jobs/4604?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Workday-Business-Development-Director---Healthcare_JR-0016726?utm_source=freehire.me": {
+      "title": "Workday Business Development Director - Healthcare",
+      "company": "Huron",
+      "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Workday-Business-Development-Director---Healthcare_JR-0016726?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Director--Business-Development_JR160294?utm_source=freehire.me": {
+      "title": "Director, Business Development",
+      "company": "icon",
+      "url": "https://icon.wd3.myworkdayjobs.com/broadbean_external/job/US-Blue-Bell-ICON/Director--Business-Development_JR160294?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.ashbyhq.com/one-pass-solutions/d40ffd52-e01f-4861-b24b-05da70a7b4eb?utm_source=freehire.me": {
+      "title": "Director, Clinical Product and Value Strategy",
+      "company": "one-pass-solutions",
+      "url": "https://jobs.ashbyhq.com/one-pass-solutions/d40ffd52-e01f-4861-b24b-05da70a7b4eb?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://jobs.lever.co/jobgether/725b63b5-cbda-40bf-8861-62642a0ca27f?utm_source=freehire.me": {
+      "title": "Senior Director, Client Success",
+      "company": "jobgether",
+      "url": "https://jobs.lever.co/jobgether/725b63b5-cbda-40bf-8861-62642a0ca27f?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://job-boards.greenhouse.io/linkhealth/jobs/5236614007?utm_source=freehire.me": {
+      "title": "Clinic Operations Director  ",
+      "company": "Link Health Patient Navigators",
+      "url": "https://job-boards.greenhouse.io/linkhealth/jobs/5236614007?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://recruiting2.ultipro.com/wab1000wbgh/JobBoard/33638a3f-c9cc-41d2-8850-be3b44f12bce/OpportunityDetail?opportunityId=c81a1b3a-0041-4513-b9fe-75200b067089&utm_source=freehire.me": {
+      "title": "Southeast AHEC Regional Program Coordinator",
+      "company": "Wabash General Hospital",
+      "url": "https://recruiting2.ultipro.com/wab1000wbgh/JobBoard/33638a3f-c9cc-41d2-8850-be3b44f12bce/OpportunityDetail?opportunityId=c81a1b3a-0041-4513-b9fe-75200b067089&utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://careers.siemens-healthineers.com/global/en/job/SHDSHWUSR30999EXTERNALENGLOBAL?utm_source=freehire.me": {
+      "title": "Head of Customer Success, Laboratory Solutions, NAM (Remote)",
+      "company": "Siemens Healthineers",
+      "url": "https://careers.siemens-healthineers.com/global/en/job/SHDSHWUSR30999EXTERNALENGLOBAL?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
+      "portal": "freehire-search"
+    },
+    "https://bavariannordic.wd103.myworkdayjobs.com/BavarianNordic/job/Durham/Senior-Specialist--Distribution-QA_JR101566?utm_source=freehire.me": {
+      "title": "Senior Specialist, Distribution QA",
+      "company": "bavariannordic",
+      "url": "https://bavariannordic.wd103.myworkdayjobs.com/BavarianNordic/job/Durham/Senior-Specialist--Distribution-QA_JR101566?utm_source=freehire.me",
+      "first_seen": "2026-09-28",
+      "fit": "low",
+      "status": "skipped",
       "portal": "freehire-search"
     }
   }

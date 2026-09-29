@@ -99,6 +99,26 @@
       "slug": "kymeratherapeutics",
       "why": "Lane 4; AI Strategy & Applications ranked 76 on 2026-09-12.",
       "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US"
+    },
+    {
+      "company": "athenahealth",
+      "board": "workday",
+      "slug": "athenahealth",
+      "host": "athenahealth.wd1.myworkdayjobs.com",
+      "site": "External",
+      "search_terms": [
+        "Product Manager",
+        "AI"
+      ],
+      "why": "Drafted 2026-09-17: Senior PM, AI Trust & Transparency (R15470).",
+      "include_locations": "Boston|Watertown|Remote|United States|MA"
+    },
+    {
+      "company": "Atropos Health",
+      "board": "ashby",
+      "slug": "atroposhealth",
+      "why": "Lane 1, RWE platform, fully remote. Board empty 2026-09-28 (only a Future Openings placeholder); Lead PM (Life Sciences) and Lead Product Ops Manager seen on aggregators but closed.",
+      "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US|Anywhere"
     }
   ]
 }
