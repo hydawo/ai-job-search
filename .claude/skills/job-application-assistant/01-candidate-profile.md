@@ -216,3 +216,28 @@ Department of Obstetrics and Gynecology | Boston, MA
 - **Ethan Parten, DHS, MBA** — VP, Peri-Procedural Services, Brigham and Women's Hospital (eparten@bwh.harvard.edu) — for neurosurgery-related roles
 
 More references available upon request.
+
+### Beiwe sensing decisions, confirmed 2026-09-29
+
+Recorded because these were used in the WHOOP Sensing presentation and were not
+previously in this file. Confirmed directly by Hassan on 2026-09-29.
+
+- **GPS duty cycle.** He owns the GPS duty-cycle sampling policy on Beiwe and
+  its consequences. Studies configured to sample too densely produced real,
+  participant-reported battery drain. At very aggressive settings during
+  testing, the team observed device outages caused by the drain rate itself. A
+  device that has shut down collects nothing, so the aggressive configuration
+  returned less usable data than the conservative one. Use the outage mechanism
+  rather than a participant-attrition mechanism, which was an embellishment in
+  an earlier draft. Still no invented duty-cycle values, intervals or battery
+  percentages.
+- **Circadian metric (Forest "Jasmine").** The decisions about whether and when
+  to ship it, and how, were his, including shipping it off by default on
+  compute cost and enabling it later once that cost came down. The underlying
+  statistical and development work was not his.
+- **HRV export discovery.** He has tracked his own data since 2018, but Apple
+  HRV data only became available to him in 2020. The two exports of the same
+  640-day window, seven months apart, were **September 2020 and April 2021**.
+  Do not date this discovery to 2018.
+- **Agreement study device.** The Apple device in the Apple-against-Oura
+  agreement study is an **Apple Watch Ultra**, confirmed.

@@ -77,9 +77,9 @@ Pre-digested career framing for real work done across the workspace — skills t
 ## 2026-08-12 — Beiwe platform-wide usage/retention dashboard
 **Source:** `beiwe_platform_metrics`
 **Full story:** [`../brainiac/writeups/beiwe_platform_metrics/dashboard-and-completeness-methodology.md`](../brainiac/writeups/beiwe_platform_metrics/dashboard-and-completeness-methodology.md)
-**What:** Built an interactive HTML dashboard plus a Python data pipeline (API pulls, local aggregation, retention-milestone calculation) covering usage, data-completeness, and retention metrics across ~440 Beiwe studies, aggregating tens of millions of rows of per-participant-daily data volume.
+**What:** Built an interactive HTML dashboard plus a Python data pipeline (API pulls, local aggregation, retention-milestone calculation) covering usage, data-completeness, and retention metrics across 128 active Beiwe studies, aggregating about four million participant-day rows of data volume.
 **Skills demonstrated:** Data pipeline design at scale, API integration, Python (pandas), dashboard/data-viz development, platform-level analytics for a research-grade digital health system.
-**Draft bullet:** *"Designed and built an end-to-end analytics pipeline and interactive dashboard tracking usage, completeness, and retention across ~440 studies on a research digital-phenotyping platform (Beiwe), processing millions of participant-level data-volume records."*
+**Draft bullet:** *"Designed and built an end-to-end analytics pipeline and interactive dashboard tracking usage, completeness, and retention across 128 active studies on a research digital-phenotyping platform (Beiwe), processing about four million participant-day data-volume records."*
 **Needs verification before external use:** exact study count and row counts at time of the specific application; whether platform name ("Beiwe") is appropriate to name given the target employer.
 **Last checked:** 2026-08-12
 
