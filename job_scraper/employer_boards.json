@@ -1,5 +1,5 @@
 {
-  "_comment": "Employer job boards checked directly by tools/employer_boards.py on every /scrape. One entry per company Hassan has applied to or is actively tracking. 'board' selects the adapter; 'slug' is the board identifier for that ATS. Add a company here when the first application to it is submitted. 'include_locations' is a regex on the posting's location text; postings that fail it are ignored for the new-roles list (liveness checks ignore it). Verily, Datavant, Tempus, Function Health, and Hippocratic AI are NOT on Greenhouse/Ashby/Lever under any slug tried on 2026-09-12 (Verily and Datavant use Workday-style or custom career sites); they are covered by the Priority 7/8 portal queries instead until an adapter exists.",
+  "_comment": "Employer job boards checked directly by tools/employer_boards.py on every /scrape. One entry per company Hassan has applied to or is actively tracking. 'board' selects the adapter; 'slug' is the board identifier for that ATS. Add a company here when the first application to it is submitted. 'include_locations' is a regex on the posting's location text; postings that fail it are ignored for the new-roles list (liveness checks ignore it). Datavant, Tempus, Function Health, and Hippocratic AI are NOT on Greenhouse/Ashby/Lever under any slug tried on 2026-09-12 (Datavant uses a Workday-style or custom career site); they are covered by the Priority 7/8 portal queries instead until an adapter exists. 'title_include' (optional) is a further regex on the title for big employers that post hundreds of Director/Clinical reqs.",
   "boards": [
     {
       "company": "WHOOP",
@@ -119,6 +119,87 @@
       "slug": "atroposhealth",
       "why": "Lane 1, RWE platform, fully remote. Board empty 2026-09-28 (only a Future Openings placeholder); Lead PM (Life Sciences) and Lead Product Ops Manager seen on aggregators but closed.",
       "include_locations": "Remote|Boston|Cambridge|United States|Hybrid|US|Anywhere"
+    },
+    {
+      "company": "Verily",
+      "board": "workday",
+      "slug": "verily",
+      "host": "verily.wd1.myworkdayjobs.com",
+      "site": "Verily_Careers",
+      "search_terms": [
+        "Product Manager",
+        "Director",
+        "Program Manager",
+        "Partnerships",
+        "Clinical"
+      ],
+      "why": "Target company (lane 1, health data platform). Evaluated Workbench TPM and Solution Lead 2026-10-06.",
+      "include_locations": "Boston|Cambridge|Waltham|Watertown|Lexington|Remote|United States|Massachusetts|MA",
+      "title_include": "digital|product (owner|manager|lead|management)|biomarker|innovation|\\bAI\\b|machine learning|data|partnership|platform|wearable|sensor|decentrali|real.world|evidence|program (manager|lead)"
+    },
+    {
+      "company": "Amgen",
+      "board": "workday",
+      "slug": "amgen",
+      "host": "amgen.wd1.myworkdayjobs.com",
+      "site": "Careers",
+      "search_terms": [
+        "Product Manager",
+        "Director Digital Health",
+        "Digital Biomarker",
+        "Partnerships",
+        "Clinical Innovation",
+        "Digital Product"
+      ],
+      "why": "Target company, pharma digital biomarkers/clinical innovation.",
+      "include_locations": "Boston|Cambridge|Waltham|Watertown|Lexington|Remote|United States|Massachusetts|MA",
+      "title_include": "digital|product (owner|manager|lead|management)|biomarker|innovation|\\bAI\\b|machine learning|data|partnership|platform|wearable|sensor|decentrali|real.world|evidence|program (manager|lead)"
+    },
+    {
+      "company": "Sanofi",
+      "board": "workday",
+      "slug": "sanofi",
+      "host": "sanofi.wd3.myworkdayjobs.com",
+      "site": "SanofiCareers",
+      "search_terms": [
+        "Product Manager",
+        "Director Digital Health",
+        "Digital Biomarker",
+        "Partnerships",
+        "Clinical Innovation",
+        "Digital Product"
+      ],
+      "why": "Target company, pharma digital biomarkers/clinical innovation.",
+      "include_locations": "Boston|Cambridge|Waltham|Watertown|Lexington|Remote|United States|Massachusetts|MA",
+      "title_include": "digital|product (owner|manager|lead|management)|biomarker|innovation|\\bAI\\b|machine learning|data|partnership|platform|wearable|sensor|decentrali|real.world|evidence|program (manager|lead)"
+    },
+    {
+      "company": "Takeda",
+      "board": "radancy",
+      "base": "https://jobs.takeda.com",
+      "search_terms": [
+        "Product Manager",
+        "Digital",
+        "Biomarker",
+        "Partnerships",
+        "Clinical Innovation",
+        "Director"
+      ],
+      "location": "Boston, MA",
+      "max_pages": 3,
+      "why": "Target company, pharma digital biomarkers/clinical innovation. Evaluated AI-native End Point Generation roles 2026-10-06.",
+      "include_locations": "Boston|Cambridge|Waltham|Watertown|Lexington|Remote|United States|Massachusetts|MA",
+      "title_include": "digital|product (owner|manager|lead|management)|biomarker|innovation|\\bAI\\b|machine learning|data|partnership|platform|wearable|sensor|decentrali|real.world|evidence|program (manager|lead)"
+    },
+    {
+      "company": "Apple",
+      "board": "apple",
+      "max_pages": 8,
+      "why": "Named top-three target company (with WHOOP and Oura).",
+      "include_locations": "Boston|Cambridge|Waltham|Watertown|Lexington|Remote|United States|Massachusetts|MA",
+      "locations": [
+        "massachusetts-state969"
+      ]
     }
   ]
 }

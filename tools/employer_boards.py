@@ -11,7 +11,7 @@ Two jobs, every run:
      job_scraper/seen_jobs.json, and optionally record them there.
 
 Boards are configured in job_scraper/employer_boards.json. Adapters: ashby,
-greenhouse, workday, rippling, html-list. Add a company when the first
+greenhouse, workday, rippling, html-list, radancy (Takeda), apple. Add a company when the first
 application to it is submitted.
 
 Usage:
@@ -24,6 +24,7 @@ from __future__ import annotations
 import argparse
 import csv
 import datetime as dt
+import html as htmllib
 import json
 import re
 import sys
@@ -54,8 +55,12 @@ LIVE_STATUSES = {"applied", "interview", "drafted", "shortlisted", "evaluated"}
 UA = {"User-Agent": "Mozilla/5.0 (employer-board check; personal job search)", "Accept": "application/json"}
 
 
-def get(url: str, data: dict | None = None, timeout: int = 30) -> bytes:
-    req = urllib.request.Request(url, headers=UA)
+# Some career sites (Takeda's Radancy) return empty results to a UA that announces itself.
+BROWSER_UA = {"User-Agent": "Mozilla/5.0", "X-Requested-With": "XMLHttpRequest"}
+
+
+def get(url: str, data: dict | None = None, timeout: int = 30, headers: dict | None = None) -> bytes:
+    req = urllib.request.Request(url, headers=headers or UA)
     if data is not None:
         req.add_header("Content-Type", "application/json")
         req.data = json.dumps(data).encode()
@@ -132,8 +137,59 @@ def html_list(b):
     return out
 
 
+def radancy(b):
+    """Radancy/TalentBrew career sites (Takeda). Results come from /search-jobs/results as HTML."""
+    out, seen = [], set()
+    li = re.compile(r'<a href="(/job/[^"]+)"[^>]*>\s*<h2 class="title">([^<]+)</h2>\s*(?:<span class="location">([^<]*)</span>)?', re.S)
+    for term in b.get("search_terms", [""]):
+        for page in range(1, b.get("max_pages", 4) + 1):
+            q = urllib.parse.urlencode({
+                "ActiveFacetID": 0, "CurrentPage": page, "RecordsPerPage": 50, "Distance": 50,
+                "RadiusUnitType": 0, "Keywords": term, "Location": b.get("location", ""), "ShowRadius": "False",
+                "IsPagination": "False", "SortCriteria": 0, "SortDirection": 0, "SearchType": 5, "ResultsType": 0,
+                "SearchResultsModuleName": "Search Results", "SearchFiltersModuleName": "Search Filters"})
+            d = json.loads(get(f"{b['base']}/search-jobs/results?{q}", timeout=30, headers=BROWSER_UA))
+            rows = li.findall(d.get("results", ""))
+            if not rows:
+                break
+            for path, title, loc in rows:
+                if path in seen:
+                    continue
+                seen.add(path)
+                out.append({"title": htmllib.unescape(title).strip(), "url": b["base"] + path,
+                            "location": htmllib.unescape(loc or "").strip(), "posted": ""})
+    return out
+
+
+def apple(b):
+    """jobs.apple.com renders results into a hydration blob in the page HTML. The API ignores its query and
+    location filters, so page through a location slug (e.g. massachusetts-state969) and filter titles locally."""
+    out, seen = [], set()
+    for loc in b.get("locations", [""]):
+        for page in range(1, b.get("max_pages", 8) + 1):
+            q = urllib.parse.urlencode({"location": loc, "sort": "newest", "page": page})
+            html = get(f"https://jobs.apple.com/en-us/search?{q}", timeout=30).decode("utf-8", "ignore")
+            m = re.search(r'__staticRouterHydrationData\s*=\s*JSON\.parse\((".*?")\);', html, re.S)
+            if not m:
+                break
+            rows = json.loads(json.loads(m.group(1)))["loaderData"]["search"]["searchResults"]
+            if not rows:
+                break
+            for j in rows:
+                pid = j.get("positionId")
+                if pid in seen:
+                    continue
+                seen.add(pid)
+                locs = ", ".join(f"{l.get('city', '')} {l.get('stateProvince', '')}".strip() or l.get("name", "")
+                                 for l in j.get("locations", []))
+                out.append({"title": j.get("postingTitle", ""),
+                            "url": f"https://jobs.apple.com/en-us/details/{pid}/{j.get('transformedPostingTitle', '')}",
+                            "location": locs or "United States", "posted": j.get("postingDate", "")})
+    return out
+
+
 ADAPTERS = {"ashby": ashby, "greenhouse": greenhouse, "rippling": rippling,
-            "workday": workday, "html-list": html_list}
+            "workday": workday, "html-list": html_list, "radancy": radancy, "apple": apple}
 
 
 # ---------------------------------------------------------------- matching
@@ -165,9 +221,9 @@ def main():
     seen = seen_doc["seen"]
     seen_urls = set(seen) | {v.get("url", "") for v in seen.values()}
     tracker = list(csv.DictReader(open(TRACKER, newline="")))
-    known_titles = {(norm(v.get("company", "")).split()[0] if v.get("company") else "", norm(v.get("title", "")))
+    known_titles = {((norm(v.get("company", "")).split() or [""])[0], norm(v.get("title", "")))
                     for v in seen.values()}
-    known_titles |= {(norm(r["company"]).split()[0], norm(r["role"])) for r in tracker}
+    known_titles |= {((norm(r["company"]).split() or [""])[0], norm(r["role"])) for r in tracker}
     today = dt.date.today().isoformat()
 
     report = {"date": today, "boards": [], "liveness": [], "new": []}
@@ -199,11 +255,15 @@ def main():
 
         # 2. new relevant postings not yet seen (by URL, or by company + title under any URL)
         loc_ok = re.compile(b["include_locations"], re.I) if b.get("include_locations") else None
+        # big employers (pharma) post hundreds of Director/Clinical reqs; 'title_include' narrows to Hassan's lanes
+        title_ok = re.compile(b["title_include"], re.I) if b.get("title_include") else None
         co = norm(b["company"]).split()[0]
         for j in jobs:
             if not RELEVANT.search(j["title"]) or EXCLUDE.search(j["title"]):
                 continue
             if loc_ok and not loc_ok.search(j["location"] or ""):
+                continue
+            if title_ok and not title_ok.search(j["title"]):
                 continue
             if j["url"] in seen_urls or (co, norm(j["title"])) in known_titles:
                 continue
