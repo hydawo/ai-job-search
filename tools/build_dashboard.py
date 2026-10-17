@@ -114,6 +114,41 @@ def load_existing(html: str) -> dict:
     return {(r.get("company", "").lower(), r.get("role", "").lower()): r for r in recs}
 
 
+NOTE_LINE_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})[ :]\s*(.+)$")
+
+
+def notes_events_after(notes: str, events: list, status: str) -> list:
+    """Append timeline events for dated tracker-note lines newer than the last curated event.
+
+    Curated timelines are preserved verbatim, so without this a status change made
+    after curation (e.g. a rejection) would update the bucket but never reach the
+    timeline. Only lines dated strictly after the last curated event are added; the
+    final one carries the row's current status, earlier ones keep the last status.
+    """
+    last_date = max((e.get("date", "") for e in events), default="")
+    last_status = events[-1].get("status", status) if events else status
+    found = []
+    for line in notes.splitlines():
+        m = NOTE_LINE_RE.match(line.strip())
+        if m and m.group(1) > last_date:
+            found.append((m.group(1), m.group(2).strip()))
+    out = []
+    cur = last_status
+    for i, (date, text) in enumerate(found):
+        is_last = i == len(found) - 1
+        low = text.lower()
+        if "reject" in low:
+            cur = "rejected"
+        elif low.startswith(("submitted", "same-day response")):
+            cur = "applied"
+        elif any(k in low for k in ("phone screen", "advanced", "interview", "booked", "onsite", "round")):
+            cur = "interview"
+        if is_last and status in ("rejected", "offer", "hired", "withdrawn"):
+            cur = status
+        out.append({"date": date, "status": cur, "note": text if len(text) <= 400 else text[:397] + "..."})
+    return out
+
+
 def build_records(rows, existing) -> list:
     out = []
     for row in rows:
@@ -129,8 +164,12 @@ def build_records(rows, existing) -> list:
 
         prior = existing.get((company.lower(), role.lower()))
         if prior and prior.get("events"):
-            events = prior["events"]
+            events = list(prior["events"])
             events_source = prior.get("eventsSource", "artifact")
+            extra = notes_events_after(notes, events, status)
+            if extra:
+                events += extra
+                events_source = events_source if events_source.endswith("tracker") else events_source + "+tracker"
         else:
             # New row: one opening event so it still plots on the timeline.
             events = [{"date": row.get("date", ""), "status": status, "note": ""}]
